@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- This documnent is written is the best programm ever - Far manager :D -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recycling: 2048</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #444; /* Darker background */
+            color: #fff; /* White text */
+        }
+
+        header {
+            background-color: #d35400; /* Orange rust color */
+            padding: 20px;
+            color: #fff; /* White text */
+            text-align: center;
+        }
+
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        main {
+            padding: 40px;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        footer {
+            background-color: #d35400; /* Orange rust color */
+            color: #fff;
+            text-align: center;
+            padding: 5px;
+            <!--position: fixed;-->
+            width: 100%;
+            bottom: 0;
+        }
+
+        footer p {
+            margin: 0;
+        }
+
+        * {box-sizing: border-box}
+        body {font-family: Verdana, sans-serif; margin:0}
+        .mySlides {display: none}
+        .mySlides img {vertical-align: middle;}
+        
+        /* Slideshow container */
+        .slideshow-container {
+          max-width: 300px;
+          position: relative;
+          margin: auto;
+        }
+        
+        /* Next & previous buttons */
+        .prev, .next {
+          cursor: pointer;
+          position: absolute;
+          top: 50%;
+          width: auto;
+          padding: 12px;
+          margin-top: -22px;
+          color: white;
+          font-weight: bold;
+          font-size: 18px;
+          transition: 0.6s ease;
+          border-radius: 0 3px 3px 0;
+          user-select: none;
+        }
+        
+        /* Position the "next button" to the right */
+        .next {
+          right: 0;
+          border-radius: 3px 0 0 3px;
+        }
+        
+        /* On hover, add a black background color with a little bit see-through */
+        .prev:hover, .next:hover {
+          background-color: rgba(0,0,0,0.8);
+        }
+        
+        /* Caption text */
+        .text {
+          color: #f2f2f2;
+          font-size: 15px;
+          padding: 8px 12px;
+          position: absolute;
+          bottom: 8px;
+          width: 100%;
+          text-align: center;
+        }
+        
+        /* Number text (1/5 etc) */
+        .numbertext {
+          color: #f2f2f2;
+          font-size: 12px;
+          padding: 8px 12px;
+          position: absolute;
+          top: 0;
+        }
+        
+        /* The dots/bullets/indicators */
+        .dot {
+          cursor: pointer;
+          height: 15px;
+          width: 15px;
+          margin: 0 2px;
+          background-color: #bbb;
+          border-radius: 50%;
+          display: inline-block;
+          transition: background-color 0.6s ease;
+        }
+        
+        .active, .dot:hover {
+          background-color: teal;
+        }
+        
+        /* Fading animation */
+        .fade {
+          animation-name: fade;
+          animation-duration: 1.5s;
+        }
+        
+        @keyframes fade {
+          from {opacity: .4} 
+          to {opacity: 1}
+        }
+        
+        /* On smaller screens, decrease text size */
+        @media only screen and (max-width: 300px) {
+          .prev, .next,.text {font-size: 11px}
+        }
+
+	#centered-text {
+            padding: 1	0px; /* Padding around the text */
+            text-align: center; /* Center the text */
+            width: 100%; 
+            
+        }
+	ul {
+            list-style-type: none; /* Remove default list styling */
+            padding: 0; /* Remove default padding */
+            text-align: center; /* Center the list items horizontally */
+        }
+
+        li {
+            display: inline-block; /* Display list items horizontally */
+            margin-right: 20px; /* Add some spacing between list items */
+        }
+
+        li:last-child {
+            margin-right: 0; /* Remove margin from the last list item */
+        }
+
+         /* unvisited link */
+        #color_link a:link {
+	  color: green;
+        }
+        
+        /* visited link */
+        #color_link a:visited {
+          color: teal;
+        }
+        
+        /* mouse over link */
+        #color_link a:hover {
+          color: lime;
+        }
+        
+        /* selected link */
+        #color_link a:active {
+          color: blue;
+        } 
+        .google-button-container {
+          display: flex;
+          justify-content: center;
+        }
+
+        .google-play-button {
+          background-image: url('https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png');
+          background-size: contain;
+          background-repeat: no-repeat;
+          width: 200px; /* Adjust width as needed */
+          height: 60px; /* Adjust height as needed */
+          cursor: pointer;
+         }
+        
+
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Recycling: 2048</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li><li>|</li>
+            <li><a href="translation.html">Translation Instructions</a></li><li>|</li>
+            <li><a href="privacy.html">Privacy Policy</a></li><li>|</li>
+            <li><a href="gdpr_instruction.html">Instructions for deleting personal data</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2 id="centered-text">About the Game</h2>
+        <p id="centered-text">
+Recycle rusty scrap, restore, and sell parts such as gears or even engines! If your workshop becomes cluttered 
+with details, don’t worry - you can simply use the coins you've earned to start recycling again. With these 
+coins, you can purchase upgrades like new tools (for example, the ability to swap two parts), increase 
+efficiency (so your equipment runs smoother), or even expand the size of your workshop! The more advanced 
+machinery you assemble from scrap, the greater your ownership becomes. So, are you ready to discover the 
+heights you can reach in this game?
+</p>
+
+<div class="google-button-container">
+<!-- TODO adjust link - replace with link to my game! -->
+    <a class="google-play-button" href="https://play.google.com/store/apps/details?id=com.example.app" target="_blank" rel="noopener noreferrer"></a>
+</div>
+<p>
+The game is developed by a solo developer, so your support truly matters! If you encounter any bugs or have 
+suggestions, feel free to provide your feedback (e.g., via this_Google_Form).
+</p><p>
+If you're interested in helping with translation, please find the instructions below.
+</p><p>
+Recycle: 2048 draws inspiration from the original 2048 game (released 10 years ago!). However, this game shares only the core mechanic of swiping and combining cells. "Recycle: 2048" is not styled like a mathematical puzzle - it has a story. You find yourself in a scrapyard in a Nevada-styled desert. Here, you're not just combining numbers; you're recycling parts! The choice of aesthetics for the game is deliberate - it's where I finally realized one of my long-held narrative ideas.
+</p><p>
+One of the notable differences is the varied level sizes. In addition to the classic 4x4 grid, the field can be 3x3, 5x5, or even 3x4! Yes, the grid isn't always square, which greatly refreshes the gameplay. Moreover, there are "junk" parts that defy recycling. To balance the difficulty (and add extra gameplay variety), I've introduced three new mechanics: the workshop (which combines all simple parts on the field), the crane (which can swap two parts), and the hydraulic fence (which allows you to remove a row or column).
+</p><p>
+The main innovation, in my opinion, is the coins you earn from recycling. They solve the main problem (which is punishing for losing) and significantly increase replayability. Additional tools and varied level sizes create unique scenarios, while the ability to progress gradually allows for many days of enjoyment. By the way, personally, I prefer playing on the smallest level - 3x3 🙂
+</p>
+
+    </section>
+
+    <section>
+        <h2 id="centered-text">Translation Instructions</h2>
+    <div id="color_link">
+        <p id="centered-text">For enthusiasts interested in translating the game into other languages, please
+ follow the provided instructions <a href="translation.html">here</a>.</p>
+    <div>
+    </section>
+
+    <section>
+        <h2 id="centered-text">Game Screenshots</h2>
+        <div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 5</div>
+  <img src="Screenshots/Screenshot_1.png" style="width:100%">
+  <div class="text">Main menu</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 5</div>
+  <img src="Screenshots/Screenshot_2.png" style="width:100%">
+  <div class="text">3 by 3 level</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 5</div>
+  <img src="Screenshots/Screenshot_3.png" style="width:100%">
+  <div class="text">3 by 4 - not squared!</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 5</div>
+  <img src="Screenshots/Screenshot_4.png" style="width:100%">
+  <div class="text">Field size can be realy big...</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 5</div>
+  <img src="Screenshots/Screenshot_5.png" style="width:100%">
+  <div class="text">The shop - spend your earnings!</div>
+</div>
+
+
+<a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span>
+<span class="dot" onclick="currentSlide(4)"></span> 
+<span class="dot" onclick="currentSlide(5)"></span>  
+</div>
+
+    </section>
+    <section>
+        <h2 id="centered-text">Legal Information</h2>
+    <div id="color_link">
+        <ul>
+
+            <li><a href="privacy.html">Privacy Policy</a></li>
+            <li><a href="gdpr_instruction.html">GDPR Instructions</a></li>
+        </ul>
+    </div>
+    </section>
+
+</main>
+
+<footer>
+    <p>&copy; 2024 Gleb The Polar Citizen</p>
+<p  style="font-size: 12px;">“Google Play and the Google Play logo are trademarks of Google LLC.”</p>
+</footer>
+
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+
+
+</body>
+</html>
