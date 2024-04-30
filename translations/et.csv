@@ -1,0 +1,142 @@
+en	et
+English	Estonian
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	asetage_oma_(tõlkija)_nimi_siia
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Osta
+Back to menu	Tagasi menüüsse
+Settings	Seaded
+Play	Mängi
+Shop	Pood
+Coins:	Mündid:
+Exit	Välju
+Set the level	Määra tase
+Sell All	Müü kõik
+Details:	Üksikasjad:
+Double coins!{#}(Watch Ad)	Topeltmündid!{#}(Vaadake reklaami)
+Restart	Taaskäivita
+Advertisement watched	Reklaami vaadatud
+Received coins:	Saadud mündid:
+Sound volume	Helitugevus
+next	järgmiseks
+Tower crane	Tornkraana
+Workshop	Töötuba
+Hydraulic fence	Hüdrauliline piirdeaed
+Sorting of details	Detailide sorteerimine
+Waterproofing	Hüdroisolatsioon
+Preprocessing	Eeltöötlus
+Equipment calibration	Seadmete kalibreerimine
+Cooling system	Jahutussüsteem
+Magnets	Magnetid
+Increase field size: {#price}	Suurenda välja suurust: {#price}
+See story	Vaata lugu
+Pause	Paus
+End round	Lõpeta ring
+Continue	Jätka
+End saved game, and start a new one	Lõpetage salvestatud mäng ja alustage uut
+Tutorials	Õpetused
+Basic	Põhiline
+Fence	Tara
+Crane	Kraana
+Workshop	Töötuba
+Before	Enne
+Now	Nüüd
+Next	Edasi
+Max detail:	Maksimaalne detail:
+Bolt	Polt
+Gear	Käik
+Gear box	Käigukast
+Bearing	Laager
+Piston	Kolb
+Engine	Mootor
+Moped	Mopeed
+Motorcycle	Mootorratas
+Car	Auto
+Pickup	Korja üles
+Truck	Veoauto
+Biplane	Kahetasandiline
+Helicopter	Helikopter
+Plane	Lennuk
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Raketi mootor
+Soyuz	Sojuz
+Rocket	Rakett
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Tere ja tere tulemast 'Taaskasutus: 2048'sse! Kas olete mõneks väljakutseks valmis? Sellest õpetusest saate teada, mis on ringlussevõtuks vajalik alus, kuid mõned funktsioonid leiate ainult ise!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Väljal on 4 magnetit (oranžid objektid). Saate need aktiveerida pühkides (liigutage sõrme ekraanil). Nad suudavad liigutada mis tahes magnetilisi materjale – ideaalne detailide jaoks, millega me töötame! Proovige, liigutades objekti (nt polti) kolm korda.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	Ilmunud on uus detail: polt. Kuigi mõned võivad seda pidada prügiks, saame selle taaskasutada millekski arenenumaks, näiteks käigukastiks!
+Recycle two bolts into a gear by moving them together.	Liigutage kaks polti käigukasti, liigutades neid kokku.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Fantastiline! Olete just osa prügi taaskasutanud! Jätkake samamoodi ja koos jõuame oma eesmärgini luua parem elu.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	Oh ei, magnet läks katki! :({#} Näete, õige magnet on nüüd punane.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Proovige paar korda õiget magnetit aktiveerida ja vaadake, et midagi ei juhtuks. (Pühkige paremale)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Näete, midagi ei juhtunud. Nüüd proovige pühkida eri suundades (üles ja alla). Ootame, kuni magnet ennast parandab.
+Done! After several moves, all magnets will be repaired.	Valmis! Pärast mitmeid liigutusi parandatakse kõik magnetid.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Räägime nüüd bioprügist (õunajääkidest). Proovige seda liigutada.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Kuna bioprügil puuduvad magnetmaterjalid, ei saa magnetid seda liigutada.
+Don't forget to sort your garbage! :)	Ärge unustage oma prügi sorteerida! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	See on rooste prügi. Seda ei saa ka taaskasutada. Arv näitab, kui palju aega kulub roostetamiseks ja kadumiseks.
+Amazing! You've improved your recycling skills!	Hämmastav! Olete parandanud oma taaskasutusoskusi!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Palju õnne töökoja omandamise puhul! Sukeldume kiiresse õpetusesse, kuidas seda maksimaalselt ära kasutada.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Kombineerige töökoja abil koheselt kõigi valdkondade lihtsad detailid. Proovige kohe!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	See on päris lahe, eks? Pidage lihtsalt meeles jahtumist. See võtab veidi aega, nii et kasutage seda targalt!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Olge ettevaatlik, kui töökoja jaoks on saadaval ainult üks detail. See ei saa seda kombineerida ja tagastab kauba lihtsalt tagasi.
+So, just use it carefully.	Niisiis, kasutage seda lihtsalt ettevaatlikult.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Töötuba särab, kui sind ümbritsevad tüütud lihtsad detailid. See on ideaalne tööriist oma ruumi tõhusaks korrastamiseks!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Õnnitleme kraana ostu puhul! Siin on lühike õpetus selle kohta, kuidas sellega töötada.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Kraana kasutamiseks puudutage lihtsalt ikooni. Nüüd olete sisenenud režiimi CRANE.
+In CRANE mode, choose an item on the field that you'd like to interact with.	KRAANA režiimis valige väljal üksus, millega soovite suhelda.
+Next, select an empty field where you want to move the chosen item.	Järgmisena valige tühi väli, kuhu soovite valitud üksuse teisaldada.
+Now, press on the crane once more to execute the action.	Nüüd vajutage toimingu sooritamiseks veel kord kraanat.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	Uuele versioonile üleminekul saate võimaluse muuta väljad mitte ainult tühjaks, vaid ka vahetada neid teiste üksustega.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Ärge kartke eksperimenteerida! Kui teil tekib tõrge, annab mäng märguande. {#}Proovige tekitada viga (nt klõpsake kahel tühjal lahtril).
+This is the error indication.	See on veateade.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	Ja lõpuks, kuid mitte vähem tähtsana, proovige valik tühistada. Selleks vajutage eelnevalt valitud üksusel või kraanal (kui te pole veel teist lahtrit valinud).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Õnnitleme aia uuendamise puhul! Vaatame, milleks see nüüd võimeline on.
+To use the fence, click on one of the blue (cyan) objects around the field.	Tara kasutamiseks klõpsake ühel sinisel (tsüaanil) objektil ümber põllu.
+Swipe the chosen object(s) towards the fence you've initiated.	Pühkige valitud objekti(de)ga enda algatatud tara poole.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Aiad vajavad tavaliselt veidi aega, enne kui saate neid uuesti kasutada, nii et planeerige oma käike vastavalt.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Hüdrauliline piirdeaed on mängu muutja – see saab hakkama igasuguse prügiga, isegi mittemagnetilisega.
+It's your go-to tool for bio-garbage removal. Give it a shot!	See on teie tööriist bioprügi eemaldamiseks. Proovige!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Ostsite just ühe uuenduse ehk ~10% wahti kulub põllu suuruse suurendamiseks!
+Keep up! :D	Jätkake kursis! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	Saate orgaanilisi jäätmeid tõenäoliselt {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	Saate roostejääke tõenäosusega {#prob}%
+The probability of obtaining an improved detail is {#prob}%	Täiustatud detaili saamise tõenäosus on {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	Kahe detaili eduka ühendamise tõenäosus on ligikaudu {#prob}%
+Magnets will break with a probability of {#prob}%	Magnetid purunevad tõenäosusega {#prob}%
+More details will drop on the field after {#move} moves	Täpsemad üksikasjad ilmuvad väljale pärast {#move} liikumist
+No Workshop	Töötuba pole
+Collects {#cell1}. Cooldown time:	Kogub {#cell1}. Jahutusaeg:
+Collects {#cell1} and {#cell2}. Cooldown time:	Kogub {#cell1} ja {#cell2}. Jahutusaeg:
+No Crane	Kraanat pole
+Move items up to {#cell3}.	Teisalda üksused üles {#cell3}.
+Move items up to {#cell6}.	Teisalda üksused üles lahtrisse {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Teisaldage üksused kuni {#cell6} ja vahetage need kuni {#cell2} üksuste vastu.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Teisaldage üksused kuni {#cell11} ja vahetage need kuni {#cell6} üksuste vastu.
+Move anything and swap it with items up to {#cell9}.	Teisaldage kõike ja vahetage see üksustega kuni {#cell9}.
+Move and swap anything!	Liigu ja vaheta kõike!
+Simple fence	Lihtne tara
+Available again after following number of moves: {#move}	Taas saadaval pärast järgmist arvu käike: {#move}
+Details failed to merge!	Üksikasju ei õnnestunud liita!
+Warning! Langueages besides English could have some errors (and English also, lol)	Hoiatus! Lisaks inglise keelele võivad mõned vead olla ka muudes keeltes (ja ka inglise keeles, lol)
+The game was saved. You can exit, and resume it later	Mäng päästeti. Saate väljuda ja seda hiljem jätkata
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Kraana on tööriist, mis võimaldab teil põllul olevaid objekte ümber paigutada. Põhiversioon töötab ainult kergeid objekte tühja kohta lohistades. Täiendustega saate lohistada keerukamaid üksusi ja isegi kahte objekti vahetada. Selle kasutamiseks klõpsake kraana ikoonil, valige objekt ja valige koht, kuhu soovite selle paigutada.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Kas olete tüdinud lihtsatest osadest, mis teie täiustatud konstruktsioonidega segavad? Kasutage töökoda!{#}Töökoda – väike eraldiseisev hoone, kus on võimalik lihtsaid detaile käsitsi töödelda. Mida kõrgem on töökoja tase, seda rohkem osi saab see töödelda. Lisaks võimaldab täiustus seda sagedamini kasutada.{#}Kasutamiseks klõpsake töökojaikoonil, välja arvatud juhul, kui see on jahtunud.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Kas sa nägid seda asja oma põllunurkade taga? Kuidas oleks selle kasulikuks muutmine? Täiustage oma tara, lisades selle avamise võimaluse!{#}Võimaldab teil vabaneda mittemehaanilisest prahist. Võimalik on pumpade edasine täiustamine, mis võimaldab hüdropiirdet sagedamini kasutada.{#}Kasutamiseks klõpsake tara soovitud osal ja tõmmake osi selles suunas. Kõik osad reas, kus piirdeaed on lahti, visatakse minema. Pidage meeles: ohutus ennekõike!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Kahjuks ei vastuta kõik jäätmete sorteerimise eest. Mõnikord puutuvad prügiga konteinerid kokku puidutükkide, jäätmete ja muu tavalise prügiga.{#}Paigaldage täiendavad sorteerimisseadmed ja vähendage mittemehaanilise prügi osakaalu nullini.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	Ülemaailmne kliimamuutus ja isegi kõrbes vihmad on muutunud tavaliseks. Võib-olla on see kellelegi isegi kasulik, kuid mõned osad võivad roostetada, muutes nende taaskasutamise võimatuks. Veekindluse tugevdamine vähendab osade korrosiooni tõenäosust.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Kas soovite ringlussevõtu protsessi kiirendada? Lisage oma transporterile eelmonteerimisüksus! Kui see on installitud, on mõned maha kukkunud osad täiustatud.{#}See täiendus on kohustuslik, kui soovite oma põllu suurust suurendada.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Miski pole täiuslik. See kehtib ka monteerimisprotsessi kohta. Kas olete märganud, et osad lähevad liitmisel mõnikord katki? Õnneks võin kinnitada, et see puudutab ainult mootori kokkupanekut – keerulisemad osad pole probleemiks. Kuid ikkagi tüütu, eks?{#}Kuid saate selle protsessi töökindlamaks muuta, kalibreerides oma seadmed.{#}See versiooniuuendus on kohustuslik, kui soovite oma põllu suurust suurendada.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Kõrbetesse esemete virnastamise plussid – kuivas keskkonnas need eriti ei roosteta. Miinused – siin võib olla väga palav.{#}Mida rohkem te töötate, seda rohkem aega peate iga korduvtöötlemise vahel ootama, et teie seadmed jõuaksid sobiva temperatuurini. See viib selleni, et teie käikude vahele koguneb rohkem esemeid. Saate jahutussüsteemi uuendada, jättes endale ringlussevõtuks pikema aja.{#}See uuendus on kohustuslik, kui soovite oma põllu suurust suurendada.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	DIY elektromagnetid võivad mõnikord ebaõnnestuda. Täiustage neid, et vähendada tõrkeid.{#}See täiendus on kohustuslik, kui soovite oma põllu suurust suurendada.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Kas olete kunagi endalt küsinud, miks mul on nii väike põld? Kas suurte konstruktsioonidega töötamine pole ebamugav? Lahendus on lihtne – laiendage oma põllu suurust! {#}Pange tähele, et enne laiendamist peate veenduma, et järgmised täiendused on täielikult ostetud: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} ja {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Põhimanuaalis valitud taseme suurus erineb salvestatud mängust. Soovi korral saate katkestatud mängu lõpetada ja uut alustada.{#}Mida soovite salvestatud mänguga teha?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Autoremondiplats keset kõrbe. Võiks öelda, et see on ideaalne koht metallijäätmete hoidmiseks - palju vaba ruumi ja kuiv ilm. Ehkki mitte enam. Aastal 2048 on ilm tõeliselt hulluks läinud.{#}Ma ei valinud siia oma elu veetma. Ma ei ole rikas ja piirid on suletud inimestele nagu mina. Lapsena unistasin kosmose vallutamisest. Ja nüüd olen ma kinni kuskil keset mittemidagi.{#}Seega on ainus võimalus töötada. Ja ma ei keeldu kunagi abist, olen õnnelik, et sind siit leidsin. Sinuga tean, et ühel päeval jõuan kosmosesse.{#}Nii et mida sa sellest arvad: me töötame koos, taaskasutame võimalikult palju osi ja aitame üksteist oma elu paremaks muuta. Kokkulepe?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Lõpetasite just mängu!{#}Tavaliselt panevad arendajad siia pika nimekirja töötajate nimedest. Kuid selle mängu töötasin välja ainult mina (Gleb The Polar Citizen).{#}Tahan tänada oma naist, tänada eriliselt Anna M-i suurepärase auto eest ja kõiki tõlkijaid!{#}Kui soovite , võite jätkata selle mängu mängimist või otsida muid minu väljatöötatud mänge!{#}Jääge tugevaks!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Reklaame pole
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Selle täienduse saate osta põhireklaamide eemaldamiseks.{#}See ei mõjuta preemiareklaame!{#}Skooride kahekordistamise nupp on endiselt saadaval. Seega mõjutab see ainult reklaame, mis ilmuvad pärast mängu.{#}Kui otsite lihtsalt viisi, kuidas mind toetada, kaaluge pigem buymeacoffe külastamist – südamenuppu, mis asub koos meedianuppudega.

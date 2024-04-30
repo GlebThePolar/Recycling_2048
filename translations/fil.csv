@@ -1,0 +1,142 @@
+en	fil
+English	Filipino
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	ilagay_iyong_(tagasalin)_pangalan_dito
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Bumili
+Back to menu	Bumalik sa menu
+Settings	Mga setting
+Play	Maglaro
+Shop	Mamili
+Coins:	Mga barya:
+Exit	Lumabas
+Set the level	Itakda ang antas
+Sell All	Ibenta lahat
+Details:	Mga Detalye:
+Double coins!{#}(Watch Ad)	Dobleng barya!{#}(Manood ng Ad)
+Restart	I-restart
+Advertisement watched	Napanood ang patalastas
+Received coins:	Nakatanggap ng mga barya:
+Sound volume	Lakas ng tunog
+next	susunod
+Tower crane	Tower crane
+Workshop	Workshop
+Hydraulic fence	Hydraulic na bakod
+Sorting of details	Pag-uuri ng mga detalye
+Waterproofing	Hindi tinatablan ng tubig
+Preprocessing	Preprocessing
+Equipment calibration	Pag-calibrate ng kagamitan
+Cooling system	Sistema ng paglamig
+Magnets	Mga magnet
+Increase field size: {#price}	Dagdagan ang laki ng field: {#price}
+See story	Tingnan ang kwento
+Pause	I-pause
+End round	Tapusin ang pag-ikot
+Continue	Magpatuloy
+End saved game, and start a new one	Tapusin ang naka-save na laro, at magsimula ng bago
+Tutorials	Mga Tutorial
+Basic	Basic
+Fence	Bakod
+Crane	Crane
+Workshop	Workshop
+Before	dati
+Now	Ngayon
+Next	Susunod
+Max detail:	Max na detalye:
+Bolt	Bolt
+Gear	Mga gamit
+Gear box	Gear box
+Bearing	tindig
+Piston	Piston
+Engine	makina
+Moped	Moped
+Motorcycle	Motorsiklo
+Car	kotse
+Pickup	Pulutin
+Truck	Truck
+Biplane	Biplane
+Helicopter	Helicopter
+Plane	Eroplano
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Rocket engine
+Soyuz	Soyuz
+Rocket	Rocket
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Kumusta at maligayang pagdating sa 'Recycling: 2048'! Handa ka na ba para sa ilang hamon? Sa tutorial na ito matututunan mo ang batayan na kailangan para sa pag-recycle, ngunit ang ilang mga tampok na ikaw lamang ang mahahanap nang mag-isa!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Mayroong 4 na magnet sa paligid ng field (mga bagay na orange). Maaari mong i-activate ang mga ito sa pamamagitan ng pag-swipe (ilipat ang iyong daliri sa screen). Maaari nilang ilipat ang anumang mga magnetic na materyales - perpekto para sa mga detalye na ginagamit namin! Subukan ito sa pamamagitan ng paggalaw ng isang bagay (tulad ng bolt) nang tatlong beses.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	Isang bagong detalye ang lumitaw: isang bolt. Bagama't maaaring makita ito ng ilan bilang basura, maaari nating i-recycle ito sa isang bagay na mas advanced, tulad ng isang gear!
+Recycle two bolts into a gear by moving them together.	I-recycle ang dalawang bolts sa isang gear sa pamamagitan ng paggalaw ng mga ito nang magkasama.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Fantastic! Nag-recycle ka lang ng basura! Ipagpatuloy ito, at sama-sama nating maaabot ang ating layunin na lumikha ng mas magandang buhay.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	Ay, hindi, nasira ang magnet! :({#} Kita mo, ang tamang magnet ay pula ngayon.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Subukang i-activate ang tamang magnet nang ilang beses at tingnan na walang mangyayari. (Mag-swipe pakanan)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Kita mo, walang nangyari. Ngayon subukang mag-swipe sa iba't ibang direksyon (pataas at pababa). Maghintay tayo hanggang sa ayusin ng magnet ang sarili nito.
+Done! After several moves, all magnets will be repaired.	Tapos na! Pagkatapos ng ilang galaw, aayusin ang lahat ng magnet.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Ngayon, pag-usapan natin ang bio garbage (ang natirang mansanas). Subukan mong ilipat ito.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Dahil kulang sa magnetic materials ang bio garbage, hindi ito magagalaw ng mga magnet.
+Don't forget to sort your garbage! :)	Huwag kalimutang ayusin ang iyong mga basura! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Ito ay basurang kalawang. Hindi rin ito ma-recycle. Ang numero ay nagsasaad kung gaano katagal kailangan nitong kalawangin at mawala.
+Amazing! You've improved your recycling skills!	Kahanga-hanga! Pinahusay mo ang iyong mga kasanayan sa pag-recycle!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Binabati kita sa pagkuha ng workshop! Sumisid tayo sa isang mabilis na tutorial kung paano masulit ito.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Pagsamahin agad ang mga simpleng detalye mula sa lahat ng field gamit ang workshop. Subukan ito ngayon!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Ito ay medyo cool, tama? Isaisip lamang ang cooldown. Ito ay tumatagal ng ilang oras, kaya gamitin ito nang matalino!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Maging maingat kapag may isang detalye lamang na magagamit para sa workshop. Hindi nito magagawang pagsamahin ito at ibabalik lang ang item.
+So, just use it carefully.	Kaya, gamitin lamang ito nang mabuti.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Nagniningning ang workshop kapag napapalibutan ka ng mga nakakainis na simpleng detalye. Ito ang perpektong tool upang maayos na maayos ang iyong espasyo!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Binabati kita sa pagbili ng crane! Narito ang isang maikling tutorial kung paano ito gagawin.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Para gamitin ang crane, i-tap lang ang icon. Ngayon, pumasok ka na sa CRANE mode.
+In CRANE mode, choose an item on the field that you'd like to interact with.	Sa CRANE mode, pumili ng item sa field kung saan mo gustong makipag-ugnayan.
+Next, select an empty field where you want to move the chosen item.	Susunod, pumili ng walang laman na field kung saan mo gustong ilipat ang napiling item.
+Now, press on the crane once more to execute the action.	Ngayon, pindutin muli ang crane para isagawa ang aksyon.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	Habang nag-a-upgrade ka, magkakaroon ka ng kakayahang magbago hindi lamang sa mga walang laman na field kundi ipagpalit din ang mga ito sa iba pang mga item.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Huwag matakot mag-eksperimento! Kung nakatagpo ka ng isang error, ang laro ay magbibigay ng indikasyon. {#}Subukang magdulot ng error (hal., mag-click sa 2 walang laman na cell).
+This is the error indication.	Ito ang indikasyon ng error.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	At panghuli, ngunit hindi bababa sa, subukang alisin sa pagkakapili. Upang gawin ito, pindutin ang naunang napiling item, o sa crane (kung hindi mo pa napili ang pangalawang cell).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Binabati kita sa pag-upgrade ng iyong bakod! Tingnan natin kung ano ang kaya nito ngayon.
+To use the fence, click on one of the blue (cyan) objects around the field.	Upang gamitin ang bakod, mag-click sa isa sa mga asul (cyan) na bagay sa paligid ng field.
+Swipe the chosen object(s) towards the fence you've initiated.	I-swipe ang napiling (mga) bagay patungo sa bakod na iyong sinimulan.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Ang mga bakod ay karaniwang nangangailangan ng ilang oras bago mo magamit muli ang mga ito, kaya planuhin ang iyong mga galaw nang naaayon.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Ang hydraulic fence ay isang game-changer—kaya nitong pangasiwaan ang lahat ng uri ng basura, kahit na hindi magnetic.
+It's your go-to tool for bio-garbage removal. Give it a shot!	Ito ang iyong go-to tool para sa pag-alis ng bio-garbage. Subukan ito!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Bumili ka lang ng isang pag-upgrade, iyon ay ~10% ng waht na kailangan para sa pagtaas ng laki ng field!
+Keep up! :D	Magpatuloy ka! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	Makakatanggap ka ng mga organikong basura na may posibilidad na {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	Makakatanggap ka ng mga kalawang na labi na may posibilidad na {#prob}%
+The probability of obtaining an improved detail is {#prob}%	Ang posibilidad na makakuha ng pinahusay na detalye ay {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	Ang posibilidad na matagumpay na pagsamahin ang dalawang detalye ay tinatayang {#prob}%
+Magnets will break with a probability of {#prob}%	Masisira ang mga magnet na may posibilidad na {#prob}%
+More details will drop on the field after {#move} moves	Higit pang mga detalye ang mahuhulog sa field pagkatapos ng {#move} na mga galaw
+No Workshop	Walang Workshop
+Collects {#cell1}. Cooldown time:	Kinokolekta ang {#cell1}. Oras ng cooldown:
+Collects {#cell1} and {#cell2}. Cooldown time:	Kinokolekta ang {#cell1} at {#cell2}. Oras ng cooldown:
+No Crane	Walang Crane
+Move items up to {#cell3}.	Ilipat ang mga item pataas sa {#cell3}.
+Move items up to {#cell6}.	Ilipat ang mga item pataas sa {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Ilipat ang mga item pataas sa {#cell6}, at palitan ang mga ito ng mga item hanggang {#cell2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Ilipat ang mga item pataas sa {#cell11}, at palitan ang mga ito ng mga item hanggang {#cell6}.
+Move anything and swap it with items up to {#cell9}.	Ilipat ang anuman at palitan ito ng mga item hanggang {#cell9}.
+Move and swap anything!	Ilipat at palitan ang anumang bagay!
+Simple fence	Simpleng bakod
+Available again after following number of moves: {#move}	Available muli pagkatapos ng sumusunod na bilang ng mga galaw: {#move}
+Details failed to merge!	Nabigong pagsamahin ang mga detalye!
+Warning! Langueages besides English could have some errors (and English also, lol)	Babala! Ang mga wika bukod sa English ay maaaring magkaroon ng ilang mga error (at English din, lol)
+The game was saved. You can exit, and resume it later	Nai-save ang laro. Maaari kang lumabas, at ipagpatuloy ito sa ibang pagkakataon
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Ang crane ay isang tool na nagbibigay-daan sa iyong ilipat ang mga bagay sa field. Gumagana lamang ang pangunahing bersyon sa pamamagitan ng pag-drag ng mga light object sa isang bakanteng lugar. Sa mga pag-upgrade, maaari kang mag-drag ng mas kumplikadong mga item, at kahit na magpalitan ng dalawang bagay. Upang gamitin ito, mag-click sa icon ng crane, piliin ang bagay, at pumili ng isang lugar, kung saan mo gustong ilagay ito.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Pagod na sa mga simpleng bahagi na nakikipag-usap sa iyong mga advanced na build? Gamitin ang workshop!{#}Workshop - isang maliit na hiwalay na gusali kung saan posible ang manu-manong pagproseso ng mga simpleng bahagi. Kung mas mataas ang antas ng pagawaan, mas maraming bahagi ang maaari nitong iproseso. Gayundin, binibigyang-daan ka ng pagpapabuti na gamitin ito nang mas madalas.{#}Para magamit, mag-click sa icon ng workshop maliban kung ito ay nasa cooldown.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Nakita mo ba ang bagay na iyon sa paligid ng iyong field corner? Paano kung gawin itong kapaki-pakinabang? Pahusayin ang iyong bakod sa pamamagitan ng pagdaragdag ng kakayahang buksan ito!{#}Pinapayagan kang alisin ang mga hindi mekanikal na labi. Posible ang karagdagang pagpapahusay sa mga pump, na nagbibigay-daan sa paggamit ng hydraulic fence nang mas madalas.{#}Para magamit, mag-click sa gustong seksyon ng bakod, at hilahin ang mga bahagi sa direksyong iyon. Ang lahat ng bahagi sa hilera kung saan nakabukas ang bakod ay itatapon. Tandaan: kaligtasan muna!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Sa kasamaang palad, hindi lahat ay may pananagutan sa pag-uuri ng basura. Kung minsan ang mga lalagyan na may basura ay nakakatagpo ng mga piraso ng kahoy, basura, at iba pang ordinaryong basura.{#}Mag-install ng karagdagang kagamitan sa pag-uuri at bawasan ang porsyento ng mga non-mechanical na debris hanggang sa zero.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	Ang pandaigdigang pagbabago ng klima, at maging sa disyerto ay naging karaniwan na ang pag-ulan. Marahil para sa isang tao, ito ay kapaki-pakinabang, ngunit ang ilang mga bahagi ay maaaring kalawang, na ginagawang imposibleng i-recycle ang mga ito. Ang pagpapalakas ng waterproofing ay binabawasan ang posibilidad ng kaagnasan ng mga bahagi.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Gusto mo bang pabilisin ang proseso ng pag-recycle? Magdagdag ng pre-assembly unit sa iyong transporter! Kapag na-install ito, magiging mas advanced ang ilang mga nahulog na bahagi.{#}Ang pag-upgrade na ito ay sapilitan, kung gusto mong palakihin ang laki ng iyong field.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Walang perpekto. Nalalapat din ito sa proseso ng pagpupulong. Napansin mo ba, na kung minsan ang mga bahagi ay nasisira sa panahon ng pagsasanib? Sa kabutihang palad, maaari kong tiyakin sa iyo, na nakakaapekto lamang ito sa pagpupulong ng makina - ang mas kumplikadong mga bahagi ay walang problema. Ngunit nakakainis pa rin, tama ba?{#}Ngunit maaari mong gawing mas maaasahan ang prosesong ito, sa pamamagitan ng pag-calibrate ng iyong kagamitan.{#}Ang pag-upgrade na ito ay sapilitan, kung gusto mong palakihin ang laki ng iyong field.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Mga kalamangan ng pagsasalansan ng mga bagay sa mga disyerto - hindi sila kinakalawang nang husto sa mga tuyong kapaligiran. Cons - maaari itong maging talagang mainit dito.{#}Kung mas marami kang nagtatrabaho, mas maraming oras ang kailangan mong maghintay sa pagitan ng bawat pag-recycle, na nagpapahintulot sa iyong kagamitan na bumalik sa isang naaangkop na temperatura. Ito ay humahantong sa mas maraming item na naipon sa pagitan ng iyong mga galaw. Maaari mong i-upgrade ang cooling system, na nagbibigay sa iyong sarili ng mas mahabang oras para sa pag-recycle.{#}Ang pag-upgrade na ito ay sapilitan, kung gusto mong palakihin ang laki ng iyong field.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	Ang mga DIY electromagnet ay minsan ay mabibigo. Pagbutihin ang mga ito, upang mabawasan ang mga malfunction.{#}Ang pag-upgrade na ito ay sapilitan, kung gusto mong palakihin ang laki ng iyong field.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Natanong mo na ba sa sarili mo, bakit ang liit ng field ko? Hindi ba nakakaabala ang magtrabaho sa malalaking build? Ang solusyon ay simple - palawakin ang laki ng iyong field! {#}Tandaan, na bago palawakin, kailangan mong tiyakin na ang mga sumusunod na pag-upgrade ay ganap na binili: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} at {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Ang laki ng antas na iyong pinili sa pangunahing manu, ay naiiba sa iyong nai-save na laro. Maaari mong tapusin ang seved game at magsimula ng bago, kung gusto mo.{#}Ano ang gusto mong gawin sa na-save na laro?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Isang tirahan ng mga sasakyan sa gitna ng disyerto. Maaari mong sabihin na ito ang perpektong lugar upang mag-imbak ng mga metal na kalat - maraming malayang espasyo at tuyo na panahon. Bagaman hindi na. Noong taong 2048, ang panahon ay talagang naguguluhan.{#}Hindi ko pinili na dito maglaan ng aking buhay. Hindi ako mayaman, at ang mga hangganan ay sarado para sa mga taong tulad ko. Noong ako'y bata pa, nanaginip ako na makapaglakbay sa kalawakan. At ngayon, ako ay nasa gitna ng kawalan.{#}Kaya ang tanging pagpipilian ay magtrabaho. At hindi ako kailanman tumatanggi sa tulong, masaya akong nakita kita dito. Sa iyong tulong, alam ko na isang araw ay makakarating ako sa kalawakan.{#}Kaya, anong masasabi mo dito: magtulungan tayo, mag-recycle ng maraming bahagi hangga't maaari, at tulungan ang isa't isa na gawing mas maganda ang ating buhay. Deal?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Kakatapos mo lang sa laro!{#}Karaniwan ng mga developer ay naglalagay dito ng mahabang listahan ng mga pangalan ng mga manggagawa. Ngunit ang larong ito ay binuo ko lamang (Gleb The Polar Citizen).{#}Gusto kong pasalamatan ang aking asawa, magbigay ng espesyal na pasasalamat kay Anna M. para sa napakagandang kotse, at sa lahat ng mga tagasalin!!{#}Kung gusto mo , maaari kang magpatuloy sa paglalaro ng larong ito o maghanap ng iba pang mga larong binuo ko!{#}Manatiling matatag!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Walang mga ad
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Maaari mong bilhin ang pag-upgrade na ito para sa pag-alis ng mga pangunahing ad.{#}Hindi ito makakaapekto sa mga revard ad!{#}Magiging available pa rin ang button para sa pagdodoble ng mga marka. Kaya maaapektuhan lang nito ang mga ad, na lumalabas pagkatapos ng laro.{#}At saka, naghahanap lang ako ng paraan para suportahan ako, mas mabuting isaalang-alang ang pagbisita sa buymeacoffe — ang heart button, na may mga media button.

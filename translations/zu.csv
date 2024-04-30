@@ -1,0 +1,142 @@
+en	zu
+English	Zulu
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	beka_lakho_(umhumushi)_igama_lapha
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Thenga
+Back to menu	Buyela kumenyu
+Settings	Izilungiselelo
+Play	Dlala
+Shop	Thenga
+Coins:	Izinhlamvu zemali:
+Exit	Phuma
+Set the level	Setha izinga
+Sell All	Thengisa Konke
+Details:	Imininingwane:
+Double coins!{#}(Watch Ad)	Izinhlamvu zemali ezimbili!{#}(Buka Isikhangiso)
+Restart	Qala kabusha
+Advertisement watched	Isikhangiso sibukiwe
+Received coins:	Izinhlamvu zemali ezitholiwe:
+Sound volume	Ivolumu yomsindo
+next	Olandelayo
+Tower crane	Umbhoshongo crane
+Workshop	Indawo yokusebenzela
+Hydraulic fence	Ucingo lwe-hydraulic
+Sorting of details	Ukuhlunga imininingwane
+Waterproofing	Ukuvimbela amanzi
+Preprocessing	Iyacubungula
+Equipment calibration	Ukulinganiswa kwezisetshenziswa
+Cooling system	Isistimu yokupholisa
+Magnets	Omazibuthe
+Increase field size: {#price}	Nyusa usayizi wenkundla: {#price}
+See story	Bona indaba
+Pause	Misa isikhashana
+End round	Qeda umzuliswano
+Continue	Qhubeka
+End saved game, and start a new one	Qeda igeyimu elondoloziwe, bese uqala entsha
+Tutorials	Okokufundisa
+Basic	Okuyisisekelo
+Fence	Uthango
+Crane	I-Crane
+Workshop	Indawo yokusebenzela
+Before	Ngaphambili
+Now	Manje
+Next	Olandelayo
+Max detail:	Imininingwane eminingi:
+Bolt	Ibholidi
+Gear	Igiya
+Gear box	Ibhokisi legiya
+Bearing	Ukuzala
+Piston	I-Piston
+Engine	Injini
+Moped	I-Moped
+Motorcycle	Isithuthuthu
+Car	Imoto
+Pickup	Phakamisa
+Truck	Iloli
+Biplane	I-Biplane
+Helicopter	Indiza engujekamanzi
+Plane	Indiza
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Injini yerokhethi
+Soyuz	Soyuz
+Rocket	Irokhethi
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Sawubona futhi wamukelekile ku-'Recycling: 2048'! Ingabe uyilungele inselele ethile? Kulesi sifundo uzofunda isisekelo esidingekayo sokugaywa kabusha, kodwa ezinye izici ungazithola wedwa!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Kukhona omazibuthe aba-4 ebaleni (izinto eziwolintshi). Ungawenza asebenze ngokuswayipha (hambisa umunwe wakho esikrinini). Bangakwazi ukuhambisa noma yiziphi izinto ezisetshenziswa kazibuthe - zilungele imininingwane esisebenza ngayo! Izame ngokuhambisa into (njengebhawodi) kathathu.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	Kuvele imininingwane entsha: ibhawudi. Nakuba abanye bengase bakubone njengodoti, singase sikusebenzise kabusha siye kokuthile okuthuthuke kakhulu, njengegiya!
+Recycle two bolts into a gear by moving them together.	Sebenzisa kabusha amabhawodi amabili egiyeni ngokuwahambisa ndawonye.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Kumnandi! Usanda kuvuselela udoti othile! Qhubeka, futhi ngokubambisana singafinyelela umgomo wethu wokudala impilo engcono.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	Hhayi, umazibuthe uphukile! :({#} Uyabona, uzibuthe ongakwesokudla ubomvu manje.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Zama ukwenza kusebenze uzibuthe ofanele izikhathi ezimbalwa futhi ubone ukuthi akwenzeki lutho. (Swayiphela kwesokudla)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Uyabona, akwenzekanga lutho. Manje zama ukuswayipha ngezindlela ezihlukene (phezulu naphansi). Ake silinde uze uzilungise uzibuthe.
+Done! After several moves, all magnets will be repaired.	Kwenziwe! Ngemuva kokunyakaza okuningana, wonke amamagnethi azolungiswa.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Manje, ake sikhulume ngodoti we-bio (i-apula esele). Zama ukuyihambisa.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Ngenxa yokuthi udoti we-bio awunazo izinto ezinozibuthe, omazibuthe abakwazi ukuwuhambisa.
+Don't forget to sort your garbage! :)	Ungakhohlwa ukuhlunga udoti wakho! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Lona udoti wokugqwala. Ayikwazi ukugaywa kabusha futhi. Inombolo ikhombisa ukuthi singakanani isikhathi esidinga ukugqwala nokunyamalala.
+Amazing! You've improved your recycling skills!	Kuyamangalisa! Uthuthukise amakhono akho okugaya kabusha!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Siyakuhalalisela ngokuthola i-workshop! Ake singene esifundweni esisheshayo sokuthi ungakwenza kanjani ngokugcwele.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Hlanganisa imininingwane elula ngokushesha kuzo zonke izinkambu usebenzisa i-workshop. Izame manje!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Kupholile, akunjalo? Gcina nje engqondweni ukuphola. Kuthatha isikhathi, ngakho sebenzisa ngokuhlakanipha!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Qaphela uma kunomniningwane owodwa kuphela otholakalayo weshabhu. Ngeke ikwazi ukuyihlanganisa futhi izovele ibuyisele into emuva.
+So, just use it carefully.	Ngakho-ke, vele uyisebenzise ngokucophelela.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Iworkshop iyakhanya uma uzungezwe imininingwane elula ecasulayo. Kuyithuluzi eliphelele lokuqoqa isikhala sakho kahle!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Siyakuhalalisela ngokuthenga i-crane! Nasi isifundo esifushane sendlela yokusebenza ngayo.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Ukuze usebenzise i-crane, mane uchofoze isithonjana. Manje, ufake imodi ye-CRANE.
+In CRANE mode, choose an item on the field that you'd like to interact with.	Kumodi ye-CRANE, khetha into ebaleni ongathanda ukusebenzisana nayo.
+Next, select an empty field where you want to move the chosen item.	Okulandelayo, khetha inkambu engenalutho lapho ufuna ukuhambisa khona into ekhethiwe.
+Now, press on the crane once more to execute the action.	Manje, cindezela ku-crane futhi ukuze wenze isenzo.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	Njengoba uthuthuka, uzothola ikhono lokushintshela hhayi ezinkambu ezingenalutho kuphela kodwa futhi uzishintshanise nezinye izinto.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Ungesabi ukuzama! Uma uhlangabezana nephutha, igeyimu izokunikeza inkomba. {#}Zama ukwenza iphutha (isb., chofoza amaseli angenalutho angu-2).
+This is the error indication.	Lesi inkomba yephutha.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	Okokugcina, kodwa okungenani, zama ukususa ukukhetha. Ukwenza njalo, cindezela entweni ekhethwe ngaphambilini, noma kukhreyini (uma ungakayikhethi iseli yesibili).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Siyakuhalalisela ngokuthuthukisa uthango lwakho! Ake sibone ukuthi ikwazi ukwenzani manje.
+To use the fence, click on one of the blue (cyan) objects around the field.	Ukuze usebenzise ucingo, chofoza enye yezinto eziluhlaza okwesibhakabhaka (cyan) ezizungeze inkundla.
+Swipe the chosen object(s) towards the fence you've initiated.	Swayipha into(izi)nto ekhethiwe ubheke ocingweni oluqalisile.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Izithango ngokuvamile zidinga isikhathi ngaphambi kokuthi uzisebenzise futhi, ngakho hlela ukunyakaza kwakho ngendlela efanele.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Ucingo lwe-hydraulic luyi-game-changer-lungakwazi ukuphatha zonke izinhlobo zikadoti, ngisho nezingezona kazibuthe.
+It's your go-to tool for bio-garbage removal. Give it a shot!	Ithuluzi lakho lokuya kulo lokususa udoti wezinto eziphilayo. Izame!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Usanda kuthenga ukuthuthukiswa okukodwa, okusho ukuthi ~ 10% we-waht edingekayo ukuze ukhulise usayizi wensimu!
+Keep up! :D	Qhubeka! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	Uzothola udoti wemvelo okungenzeka ukuthi {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	Uzothola imfucumfucu yokugqwala okungenzeka kube ngu-{#prob}%
+The probability of obtaining an improved detail is {#prob}%	Amathuba okuthola imininingwane ethuthukisiwe ngu-{#prob}%
+The probability of successfully merging two details is approximately {#prob}%	Amathuba okuhlanganisa ngempumelelo imininingwane emibili cishe acishe abe ngu-{#prob}%
+Magnets will break with a probability of {#prob}%	Izibuthe zizophuka namathuba angu-{#prob}%
+More details will drop on the field after {#move} moves	Imininingwane eyengeziwe izokwehla enkundleni ngemva kokunyakaza kwe-{#move}
+No Workshop	Ayikho Iworkshop
+Collects {#cell1}. Cooldown time:	Iqoqa {#cell1}. Isikhathi sokuphumula:
+Collects {#cell1} and {#cell2}. Cooldown time:	Iqoqa {#cell1} kanye {#cell2}. Isikhathi sokuphumula:
+No Crane	Ayikho i-Crane
+Move items up to {#cell3}.	Hambisa izinto phezulu kokuthi {#cell3}.
+Move items up to {#cell6}.	Hambisa izinto phezulu kokuthi {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Hambisa izinto phezulu kokuthi {#cell6}, bese uzishintshanisa nezinto kufika ku-{#cell2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Hambisa izinto phezulu kokuthi {#cell11}, bese uzishintshanisa nezinto kufika ku-{#cell6}.
+Move anything and swap it with items up to {#cell9}.	Hambisa noma yini bese uyishintshanisa nezinto kufika ku-{#cell9}.
+Move and swap anything!	Hambisa futhi ushintshe noma yini!
+Simple fence	Uthango olulula
+Available again after following number of moves: {#move}	Iyatholakala futhi ngemva kwenombolo elandelayo yokunyakaza: {#move}
+Details failed to merge!	Imininingwane yehlulekile ukuhlanganisa!
+Warning! Langueages besides English could have some errors (and English also, lol)	Isexwayiso! Izilimi ngaphandle kwesiNgisi zingaba namaphutha athile (kanye nesiNgisi, lol)
+The game was saved. You can exit, and resume it later	Umdlalo ulondoloziwe. Ungaphuma, futhi uqalise kabusha ngemva kwesikhathi
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	I-crane iyithuluzi elikuvumela ukuthi uhambise izinto endaweni. Inguqulo eyisisekelo isebenza kuphela ngokuhudulela izinto ezilula endaweni engenalutho. Ngokuthuthukisa, ungahudula izinto eziyinkimbinkimbi, futhi ushintshanise nezinto ezimbili. Ukuze uyisebenzise, ​​chofoza isithonjana se-crane, khetha into, bese ukhetha indawo, lapho ofuna ukuyibeka khona.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Ukhathele izingxenye ezilula ezingcolisa ngezakhiwo zakho ezithuthukile? Sebenzisa indawo yokusebenzela!{#}Indawo yokusebenzela - isakhiwo esincane esihlukanisiwe lapho ukucutshungulwa kwezingxenye ezilula kungenzeka khona. Uma liphakeme izinga le-workshop, izingxenye eziningi engakwazi ukucubungula. Futhi, ukuthuthukiswa kukuvumela ukuthi uyisebenzise kaningi.{#}Ukuze usebenzise, ​​chofoza isithonjana seshabhu ngaphandle uma kupholile.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Ingabe uyibonile leyo nto emakhoneni enkundla yakho? Kuthiwani ngokulenza libe usizo? Thuthukisa uthango lwakho ngokungeza ikhono lokuluvula!{#}Ikuvumela ukuthi ukhiphe imfucumfucu engeyona eyemishini. Okunye ukuthuthukiswa kwamaphampu kungenzeka, okuvumela ukusetshenziswa kocingo olusebenza ngomshini kaninginingi.{#}Ukuze usebenzise, ​​chofoza ingxenye oyifunayo yothango, bese udonsa izingxenye ziye kuleyo ndawo. Zonke izingxenye emgqeni lapho ucingo luvuliwe zizolahlwa kude. Khumbula: ukuphepha kuqala!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Ngeshwa, akuwona wonke umuntu onesibopho sokuhlunga udoti. Kwesinye isikhathi iziqukathi ezinodoti zihlangana nezingcezu zokhuni, imfucuza, nomunye udoti ojwayelekile.{#}Faka okokusebenza kokuhlunga okwengeziwe futhi wehlise iphesenti lemfucumfucu engeyona eyemishini yehle iye kuqanda.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	Ukushintsha kwesimo sezulu embulungeni yonke, ngisho nasogwadule izimvula sezivamile. Mhlawumbe kumuntu othile, kuyasiza ngisho, kodwa ezinye izingxenye zingagqwala, zenze kube nzima ukuzisebenzisa kabusha. Ukuqiniswa kokuvimbela amanzi kunciphisa amathuba okugqwala kwezingxenye.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Ingabe ufuna ukusheshisa inqubo yokugaya kabusha? Engeza iyunithi yangaphambi komhlangano kusithuthi sakho! Uma isifakiwe, ezinye izingxenye eziwisiwe zizothuthukiswa kakhulu.{#}Lokhu kuthuthukisa kuyisibopho, uma ufuna ukwandisa usayizi wenkundla yakho.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Akukho lutho oluphelele. Kusebenza futhi enqubweni yokuhlanganisa. Uke waphawula, ukuthi ngezinye izikhathi izingxenye break ngesikhathi ukuhlanganisa? Ngenhlanhla, ngingakuqinisekisa, ukuthi kuthinta kuphela umhlangano wenjini - izingxenye eziyinkimbinkimbi kakhulu aziyona inkinga. Kodwa kusacasula, akunjalo?{#}Kodwa ungenza le nqubo ithembeke kakhulu, ngokulinganisa okokusebenza kwakho.{#}Lokhu kuthuthukisa kuyisibopho, uma ufuna ukwandisa usayizi wenkundla yakho.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Izinzuzo zokupakisha izinto ogwadule - azigqwali kakhulu ezindaweni ezomile. Ububi - kungashisa ngempela lapha.{#}Lapho usebenza kakhulu, yilapho udinga isikhathi esiningi sokulinda phakathi kokugaywa kabusha ngakunye, okuvumela okokusebenza kwakho ukuthi kubuyele ezingeni lokushisa elifanele. Kuholela ezintweni eziningi ezinqwabelanayo phakathi kokunyakaza kwakho. Ungathuthukisa isistimu yokupholisa, uzinikeze isikhathi eside sokugaywa kabusha.{#}Lokhu kuthuthukisa kuyisibopho, uma ufuna ukwandisa usayizi wendawo yakho.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	Ama-electromagnets e-DIY kwesinye isikhathi angahluleka. Zithuthukise, ukuze unciphise ukungasebenzi kahle.{#}Lokhu kuthuthukisa kuyisibopho, uma ufuna ukwandisa usayizi wenkundla yakho.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Wake wazibuza, kungani nginensimu encane kangaka? Akukona yini ukuphazamiseka ukusebenza ngezakhiwo ezinkulu? Isixazululo silula - khulisa usayizi wensimu yakho! {#}Qaphela, ngaphambi kokunwetshwa, udinga ukwenza isiqiniseko sokuthi ukuthuthukiswa okulandelayo kuthengwa ngokugcwele: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} kanye ne-{#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Usayizi weleveli oyikhethile ku-manu enkulu, uhlukile ngendlela yegeyimu yakho elondoloziwe. Ungaqeda igeyimu esikhombisa bese uqala entsha, uma ufuna.{#}Ufuna ukwenzani ngegeyimu elondoloziwe?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Indawo kadoti phakathi nogwadule. Ungase uthi iyindawo ekahle yokugcina izinsalela zensimbi - indawo eningi yamahhala nesimo sezulu esomile. Yize kungasenjalo. Ngonyaka ka-2048 isimo sezulu siye sahlanya ngempela.{#}Angizange ngikhethe ukuchitha impilo yami lapha. Angicebile, futhi imingcele ivaliwe kubantu abafana nami. Lapho ngiseyingane, ngangiphupha ngokunqoba indawo. Futhi manje, ngizithola ngibambekile phakathi nendawo.{#}Ngakho okuwukuphela kwenketho ukusebenza. Futhi angilokothi ngenqabe usizo, ngiyajabula ukukuthola lapha. Ngawe ngiyazi, ngelinye ilanga ngizofika emkhathini.{#}Manje-ke, kuthiwani ngalokhu: sisebenza ndawonye, ​​sigaya kabusha izingxenye eziningi ngendlela esingakwazi ngayo, futhi sisizane senze izimpilo zethu zibe ngcono. Idili?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Usanda kuqeda igeyimu!{#}Usaly Onjiniyela babeka lapha uhlu olude lwamagama abasebenzi. Kodwa lomdlalo uthuthukiswe yimina kuphela (Gleb The Polar Citizen).{#}Ngifuna ukubonga umkami, ngibonge ngokukhethekile u-Anna M. ngemoto emnandi, nakubo bonke abahumushi!!{#}Uma ufuna! , ungaqhubeka nokudlala lo mdlalo noma ubheke eminye imidlalo engiyiqambile!{#}Qina!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Azikho izikhangiso
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Ungathenga lokhu kuthuthukiswa ukuze kukhishwe izikhangiso eziyisisekelo.{#}Ngeke kuthinte izikhangiso ze-revard!{#}Inkinobho yezikolo eziphindwe kabili isazotholakala. Ngakho-ke izothinta kuphela izikhangiso, ezivela ngemva kwegeyimu.{#}Futhi, mina usanda kusesha indlela yokungisekela, cabanga kangcono ngokuvakashela i-buymeacoff — inkinobho yenhliziyo, etholakala nezinkinobho zemidiya.

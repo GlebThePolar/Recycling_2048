@@ -1,0 +1,142 @@
+en	en
+English	English
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	place_your_(translator)_name_here
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Buy
+Back to menu	Back to menu
+Settings	Settings
+Play	Play
+Shop	Shop
+Coins:	Coins:
+Exit	Exit
+Set the level	Set the level
+Sell All	Sell All
+Details:	Details:
+Double coins!{#}(Watch Ad)	Double coins!{#}(Watch Ad)
+Restart	Restart
+Advertisement watched	Advertisement watched
+Received coins:	Received coins:
+Sound volume	Sound volume
+next	next
+Tower crane	Tower crane
+Workshop	Workshop
+Hydraulic fence	Hydraulic fence
+Sorting of details	Sorting of details
+Waterproofing	Waterproofing
+Preprocessing	Preprocessing
+Equipment calibration	Equipment calibration
+Cooling system	Cooling system
+Magnets	Magnets
+Increase field size: {#price}	Increase field size: {#price}
+See story	See story
+Pause	Pause
+End round	End round
+Continue	Continue
+End saved game, and start a new one	End saved game, and start a new one
+Tutorials	Tutorials
+Basic	Basic
+Fence	Fence
+Crane	Crane
+Workshop	Workshop
+Before	Before
+Now	Now
+Next	Next
+Max detail:	Max detail:
+Bolt	Bolt
+Gear	Gear
+Gear box	Gear box
+Bearing	Bearing
+Piston	Piston
+Engine	Engine
+Moped	Moped
+Motorcycle	Motorcycle
+Car	Car
+Pickup	Pickup
+Truck	Truck
+Biplane	Biplane
+Helicopter	Helicopter
+Plane	Plane
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Rocket engine
+Soyuz	Soyuz
+Rocket	Rocket
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!
+Recycle two bolts into a gear by moving them together.	Recycle two bolts into a gear by moving them together.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.
+Done! After several moves, all magnets will be repaired.	Done! After several moves, all magnets will be repaired.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Now, let's talk about bio garbage (the apple leftover). Try moving it.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Because bio garbage lacks magnetic materials, magnets can't move it.
+Don't forget to sort your garbage! :)	Don't forget to sort your garbage! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.
+Amazing! You've improved your recycling skills!	Amazing! You've improved your recycling skills!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Combine simple details instantly from all fields using the workshop. Give it a try now!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.
+So, just use it carefully.	So, just use it carefully.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	To use the crane, simply tap on the icon. Now, you've entered CRANE mode.
+In CRANE mode, choose an item on the field that you'd like to interact with.	In CRANE mode, choose an item on the field that you'd like to interact with.
+Next, select an empty field where you want to move the chosen item.	Next, select an empty field where you want to move the chosen item.
+Now, press on the crane once more to execute the action.	Now, press on the crane once more to execute the action.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).
+This is the error indication.	This is the error indication.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Congratulations on upgrading your fence! Let's see what it is capable of now.
+To use the fence, click on one of the blue (cyan) objects around the field.	To use the fence, click on one of the blue (cyan) objects around the field.
+Swipe the chosen object(s) towards the fence you've initiated.	Swipe the chosen object(s) towards the fence you've initiated.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Fences usually need some time before you can use them again, so plan your moves accordingly.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.
+It's your go-to tool for bio-garbage removal. Give it a shot!	It's your go-to tool for bio-garbage removal. Give it a shot!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	You just bought one upgrade, that is ~10% of waht is needed for increasing field size!
+Keep up! :D	Keep up! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	You will recive organic waste with probabiliy of {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	You will recive rust debris with probabiliy of {#prob}%
+The probability of obtaining an improved detail is {#prob}%	The probability of obtaining an improved detail is {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	The probability of successfully merging two details is approximately {#prob}%
+Magnets will break with a probability of {#prob}%	Magnets will break with a probability of {#prob}%
+More details will drop on the field after {#move} moves	More details will drop on the field after {#move} moves
+No Workshop	No Workshop
+Collects {#cell1}. Cooldown time:	Collects {#cell1}. Cooldown time:
+Collects {#cell1} and {#cell2}. Cooldown time:	Collects {#cell1} and {#cell2}. Cooldown time:
+No Crane	No Crane
+Move items up to {#cell3}.	Move items up to {#cell3}.
+Move items up to {#cell6}.	Move items up to {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Move items up to {#cell6}, and swap them with items up to {#cell2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Move items up to {#cell11}, and swap them with items up to {#cell6}.
+Move anything and swap it with items up to {#cell9}.	Move anything and swap it with items up to {#cell9}.
+Move and swap anything!	Move and swap anything!
+Simple fence	Simple fence
+Available again after following number of moves: {#move}	Available again after following number of moves: {#move}
+Details failed to merge!	Details failed to merge!
+Warning! Langueages besides English could have some errors (and English also, lol)	Warning! Langueages besides English could have some errors (and English also, lol)
+The game was saved. You can exit, and resume it later	The game was saved. You can exit, and resume it later
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	No ads
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.

@@ -1,0 +1,142 @@
+en	lt
+English	Lithuanian
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	vieta_jūsų_(vertėjo)_vardas_čia
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Pirkti
+Back to menu	Atgal į meniu
+Settings	Nustatymai
+Play	žaisti
+Shop	Parduotuvė
+Coins:	Monetos:
+Exit	Išeiti
+Set the level	Nustatykite lygį
+Sell All	Parduodu Viską
+Details:	Išsami informacija:
+Double coins!{#}(Watch Ad)	Dvigubos monetos!{#}(Žiūrėkite skelbimą)
+Restart	Perkrauti
+Advertisement watched	Reklama žiūrėta
+Received coins:	Gautos monetos:
+Sound volume	Garso garsumas
+next	Kitas
+Tower crane	Bokštinis kranas
+Workshop	Seminaras
+Hydraulic fence	Hidraulinė tvora
+Sorting of details	Detalių rūšiavimas
+Waterproofing	Hidroizoliacija
+Preprocessing	Išankstinis apdorojimas
+Equipment calibration	Įrangos kalibravimas
+Cooling system	Vėsinimo sistema
+Magnets	Magnetai
+Increase field size: {#price}	Padidinti lauko dydį: {#price}
+See story	Žiūrėti istoriją
+Pause	Pauzė
+End round	Baigti ratą
+Continue	Tęsti
+End saved game, and start a new one	Užbaikite išsaugotą žaidimą ir pradėkite naują
+Tutorials	Pamokos
+Basic	Pagrindinis
+Fence	Tvora
+Crane	Kranas
+Workshop	Seminaras
+Before	Prieš
+Now	Dabar
+Next	Kitas
+Max detail:	Maksimali detalė:
+Bolt	Varžtas
+Gear	Pavara
+Gear box	Pavarų dėžė
+Bearing	Guolis
+Piston	Stūmoklis
+Engine	Variklis
+Moped	Mopedas
+Motorcycle	Motociklas
+Car	Automobilis
+Pickup	Paimti
+Truck	Sunkvežimis
+Biplane	Dviplanis
+Helicopter	Sraigtasparnis
+Plane	Lėktuvas
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Raketos variklis
+Soyuz	Sojuzas
+Rocket	Raketa
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Sveiki ir sveiki atvykę į „Perdirbimas: 2048“! Ar esate pasiruošę kokiam nors iššūkiui? Šiame vadove sužinosite, kokie pagrindai reikalingi perdirbimui, tačiau kai kurias funkcijas galite rasti tik patys!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Aplink lauką yra 4 magnetai (oranžiniai objektai). Juos galite suaktyvinti braukdami (judinkite pirštą ekrane). Jie gali perkelti bet kokias magnetines medžiagas – puikiai tinka detalėms, su kuriomis dirbame! Išbandykite tris kartus perkeldami objektą (pvz., varžtą).
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	Atsirado nauja detalė: varžtas. Nors kai kurie tai gali laikyti šiukšlėmis, galime perdirbti į kažką pažangesnio, pavyzdžiui, pavarą!
+Recycle two bolts into a gear by moving them together.	Perkelkite du varžtus į pavarą, judindami juos kartu.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Fantastinis! Jūs ką tik perdirbote dalį šiukšlių! Tęskite tai ir kartu galime pasiekti savo tikslą sukurti geresnį gyvenimą.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	O ne, magnetas sugedo! :({#} Matote, dešinysis magnetas dabar yra raudonas.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Pabandykite keletą kartų aktyvuoti tinkamą magnetą ir pažiūrėkite, kad nieko neatsitiktų. (Perbraukite į dešinę)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Matai, nieko neatsitiko. Dabar pabandykite braukti įvairiomis kryptimis (aukštyn ir žemyn). Palaukite, kol magnetas pats susitaisys.
+Done! After several moves, all magnets will be repaired.	Padaryta! Po kelių judesių visi magnetai bus pataisyti.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Dabar pakalbėkime apie biologines šiukšles (obuolių likučius). Pabandykite jį perkelti.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Kadangi biologinėms šiukšlėms trūksta magnetinių medžiagų, magnetai negali jų perkelti.
+Don't forget to sort your garbage! :)	Nepamirškite rūšiuoti šiukšlių! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Tai rūdžių šiukšlės. Jo taip pat negalima perdirbti. Skaičius rodo, kiek laiko reikia, kad surūdytų ir išnyktų.
+Amazing! You've improved your recycling skills!	Nuostabu! Jūs patobulinote savo perdirbimo įgūdžius!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Sveikiname įsigijus dirbtuves! Pasinerkime į trumpą mokymo programą, kaip išnaudoti visas galimybes.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Dirbtuvėse akimirksniu sujunkite paprastas detales iš visų sričių. Išbandykite dabar!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Tai gana šaunu, tiesa? Tiesiog nepamirškite apie atvėsimą. Tai užtrunka šiek tiek laiko, todėl naudokite jį protingai!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Būkite atsargūs, kai dirbtuvėje yra tik viena detalė. Jis negalės jo sujungti ir tiesiog grąžins prekę atgal.
+So, just use it carefully.	Taigi, naudokite jį atsargiai.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Dirbtuvės spindi, kai tave supa erzinančios paprastos detalės. Tai puikus įrankis efektyviai sutvarkyti savo erdvę!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Sveikiname įsigijus kraną! Štai trumpa pamoka, kaip su juo dirbti.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Norėdami naudoti kraną, tiesiog bakstelėkite piktogramą. Dabar įjungėte KRANO režimą.
+In CRANE mode, choose an item on the field that you'd like to interact with.	KRANO režimu pasirinkite lauke esantį elementą, su kuriuo norite bendrauti.
+Next, select an empty field where you want to move the chosen item.	Tada pasirinkite tuščią lauką, į kurį norite perkelti pasirinktą elementą.
+Now, press on the crane once more to execute the action.	Dabar dar kartą paspauskite kraną, kad atliktumėte veiksmą.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	Atnaujindami įgysite galimybę pakeisti ne tik tuščius laukus, bet ir pakeisti juos kitais elementais.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Nebijokite eksperimentuoti! Jei pastebėsite klaidą, žaidimas pateiks nurodymą. {#}Pabandykite sukelti klaidą (pvz., spustelėkite 2 tuščius langelius).
+This is the error indication.	Tai yra klaidos indikacija.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	Ir paskutinis, bet ne mažiau svarbus dalykas, pabandykite panaikinti pasirinkimą. Norėdami tai padaryti, paspauskite ant anksčiau pasirinkto elemento arba ant krano (jei dar nepasirinkote antrojo langelio).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Sveikiname atnaujinus tvorą! Pažiūrėkime, ką jis gali dabar.
+To use the fence, click on one of the blue (cyan) objects around the field.	Norėdami naudoti tvorą, spustelėkite vieną iš mėlynų (mėlynos spalvos) objektų aplink lauką.
+Swipe the chosen object(s) towards the fence you've initiated.	Braukite pasirinktu objektu (-ais) link tvoros, kurią inicijavote.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Paprastai tvoroms reikia šiek tiek laiko, kol vėl galėsite jas naudoti, todėl atitinkamai planuokite savo judesius.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Hidraulinė tvora yra žaidimo keitiklis – ji gali tvarkyti visas šiukšles, net ir nemagnetines.
+It's your go-to tool for bio-garbage removal. Give it a shot!	Tai jūsų įrankis biologinėms šiukšlėms šalinti. Pabandyk!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Jūs ką tik įsigijote vieną atnaujinimą, tai yra ~10% waht reikia norint padidinti lauko dydį!
+Keep up! :D	Laikytis! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	Organines atliekas gausite su {#prob}% tikimybe
+You will recive rust debris with probabiliy of {#prob}%	Jūs gausite rūdžių šiukšles su {#prob}% tikimybe
+The probability of obtaining an improved detail is {#prob}%	Tikimybė gauti patobulintą detalę yra {#prob} %
+The probability of successfully merging two details is approximately {#prob}%	Tikimybė sėkmingai sujungti dvi detales yra maždaug {#prob}%
+Magnets will break with a probability of {#prob}%	Magnetai sulūžs su {#prob}% tikimybe
+More details will drop on the field after {#move} moves	Daugiau informacijos bus rodoma lauke po {#move} judėjimo
+No Workshop	Nėra seminaro
+Collects {#cell1}. Cooldown time:	Surenka {#cell1}. Atvėsimo laikas:
+Collects {#cell1} and {#cell2}. Cooldown time:	Surenka {#cell1} ir {#cell2}. Atvėsimo laikas:
+No Crane	Nėra krano
+Move items up to {#cell3}.	Perkelkite elementus į {#cell3}.
+Move items up to {#cell6}.	Perkelkite elementus į {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Perkelkite elementus iki {#cell6} ir pakeiskite juos elementais iki {#cell2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Perkelkite elementus į {#cell11} ir pakeiskite juos elementais iki {#cell6}.
+Move anything and swap it with items up to {#cell9}.	Perkelkite bet ką ir pakeiskite elementais iki {#cell9}.
+Move and swap anything!	Perkelkite ir pakeiskite bet ką!
+Simple fence	Paprasta tvora
+Available again after following number of moves: {#move}	Vėl pasiekiamas atlikus šį skaičių judesių: {#move}
+Details failed to merge!	Detalių nepavyko sujungti!
+Warning! Langueages besides English could have some errors (and English also, lol)	Įspėjimas! Be anglų kalbos gali būti klaidų (ir anglų kalbos taip pat, lol)
+The game was saved. You can exit, and resume it later	Žaidimas buvo išsaugotas. Galite išeiti ir tęsti vėliau
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Kranas yra įrankis, leidžiantis perkelti objektus lauke. Pagrindinė versija veikia tik tempiant lengvus objektus į tuščią vietą. Atnaujinę galite vilkti sudėtingesnius elementus ir net sukeisti du objektus. Norėdami jį naudoti, spustelėkite krano piktogramą, pasirinkite objektą ir pasirinkite vietą, kurioje norite jį pastatyti.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Pavargote nuo paprastų dalių, besimaišančių su jūsų pažangiomis konstrukcijomis? Pasinaudokite dirbtuvėmis!{#}Dirbtuvės – nedidelis atskirtas pastatas, kuriame galimas rankinis paprastų dalių apdorojimas. Kuo aukštesnis dirbtuvės lygis, tuo daugiau dalių jis gali apdoroti. Be to, patobulinimas leidžia jį naudoti dažniau.{#}Jei norite naudoti, spustelėkite dirbtuvės piktogramą, nebent ji atvėsusi.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Ar matėte tą daiktą savo lauko kampuose? Kaip padaryti, kad tai būtų naudinga? Pagerinkite savo tvorą pridėdami galimybę ją atidaryti!{#}Leidžia atsikratyti nemechaninių šiukšlių. Galimi tolesni siurblių patobulinimai, leidžiantys dažniau naudoti hidraulinę tvorą.{#}Jei norite naudoti, spustelėkite norimą tvoros dalį ir patraukite dalis ta kryptimi. Visos dalys eilėje, kur atidaryta tvora, bus išmestos. Atminkite: saugumas pirmiausia!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Deja, už atliekų rūšiavimą atsakingi ne visi. Kartais konteineriai su šiukšlėmis susiduria su medienos gabalais, atliekomis ir kitomis įprastomis šiukšlėmis.{#}Įdiekite papildomą rūšiavimo įrangą ir sumažinkite nemechaninių šiukšlių procentą iki nulio.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	Pasaulinė klimato kaita ir net dykumose liūtys tapo įprasti. Galbūt kažkam tai netgi naudinga, tačiau kai kurios dalys gali surūdyti, todėl jų neįmanoma perdirbti. Hidroizoliacijos stiprinimas sumažina dalių korozijos tikimybę.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Norite pagreitinti perdirbimo procesą? Pridėkite išankstinio surinkimo įrenginį prie savo transporterio! Jį įdiegus, kai kurios nukritusios dalys bus tobulesnės.{#}Šis naujovinimas yra privalomas, jei norite padidinti lauko dydį.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Nieko nėra tobulo. Tai taip pat taikoma surinkimo procesui. Ar pastebėjote, kad sujungimo metu detalės kartais lūžta? Laimei, galiu jus patikinti, kad tai liečia tik variklio surinkimą – sudėtingesnės dalys nėra problema. Bet vis tiek erzina, tiesa?{#}Tačiau šį procesą galite padaryti patikimesnį kalibruodami įrangą.{#}Šis naujovinimas yra privalomas, jei norite padidinti lauko dydį.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Daiktų krovimo dykumose pliusai – sausoje aplinkoje jie mažai rūdija. Trūkumai – čia gali būti tikrai karšta.{#}Kuo daugiau dirbate, tuo daugiau laiko reikia palaukti tarp kiekvieno perdirbimo, kad įranga sugrįš į tinkamą temperatūrą. Tai veda prie to, kad tarp jūsų judesių susikaupia daugiau daiktų. Galite atnaujinti aušinimo sistemą, suteikdami sau ilgesnį perdirbimo laiką.{#}Šis atnaujinimas yra privalomas, jei norite padidinti savo lauko dydį.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	„Pasidaryk pats“ elektromagnetai kartais gali sugesti. Patobulinkite juos, kad sumažintumėte veikimo sutrikimus.{#}Šis atnaujinimas yra privalomas, jei norite padidinti savo lauko dydį.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Ar kada nors paklausėte savęs, kodėl aš turiu tokį mažą lauką? Ar nėra nepatogu dirbti su dideliais pastatais? Sprendimas paprastas – išplėskite lauko dydį! {#}Atminkite, kad prieš išplėsdami turite įsitikinti, kad visi šie naujinimai yra įsigyti: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} ir {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Lygio dydis, kurį pasirinkote pagrindiniame vadove, skiriasi nuo išsaugoto žaidimo. Jei norite, galite baigti atskirtą žaidimą ir pradėti naują.{#}Ką norite daryti su išsaugotu žaidimu?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Šiukšlių sandėlis vidury dykumos. Galima sakyti, tai puiki vieta laikyti metalo laužą – daug laisvos vietos ir sausas oras. Nors jau ne. 2048 m. oras labai pašėlo.{#}Aš nenusprendžiau čia praleisti savo gyvenimo. Aš nesu turtingas, o tokiems kaip aš sienos uždaros. Kai buvau vaikas, svajojau užkariauti kosmosą. Ir dabar aš atsiduriu niekur.{#}Taigi vienintelė galimybė yra dirbti. Ir niekada neatsisakau pagalbos, dziaugiuosi tave cia radusi. Su tavimi žinau, kad kada nors pasieksiu kosmosą.{#}Taigi, kaip apie tai: dirbame kartu, perdirbame tiek dalių, kiek galime, ir padedame vieni kitiems pagerinti mūsų gyvenimą. Sandoris?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Ką tik baigėte žaidimą!{#}Paprastai kūrėjai čia pateikia ilgą darbuotojų vardų sąrašą. Bet šį žaidimą sukūriau tik aš (Gleb The Polar Citizen).{#}Noriu padėkoti savo žmonai, ypatingai padėkoti Annai M. už nuostabų automobilį ir visiems vertėjams!!{#}Jei norite , galite toliau žaisti šį žaidimą arba ieškoti kitų mano sukurtų žaidimų!{#}Likite stiprūs!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Jokių skelbimų
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Galite įsigyti šį naujovinimą, kad pašalintumėte pagrindinius skelbimus.{#}Tai neturės įtakos reward skelbimams!{#}Balų padvigubinimo mygtukas vis tiek bus pasiekiamas. Taigi tai paveiks tik skelbimus, kurie rodomi po žaidimo.{#}Be to, jei jūs tik ieškote būdo, kaip mane paremti, geriau apsvarstykite galimybę apsilankyti „buymeacoffe“ – širdies mygtuke, esančiame su medijos mygtukais.

@@ -1,0 +1,142 @@
+en	ms
+English	Malay
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	tempat_anda_(penterjemah)_nama_di sini
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Beli
+Back to menu	Kembali ke menu
+Settings	tetapan
+Play	Main
+Shop	kedai
+Coins:	syiling:
+Exit	Keluar
+Set the level	Tetapkan tahap
+Sell All	Jual semua
+Details:	Butiran:
+Double coins!{#}(Watch Ad)	Duit syiling berganda!{#}(Tonton Iklan)
+Restart	Mula semula
+Advertisement watched	Iklan ditonton
+Received coins:	Syiling yang diterima:
+Sound volume	Kelantangan bunyi
+next	seterusnya
+Tower crane	Kren menara
+Workshop	Bengkel
+Hydraulic fence	Pagar hidraulik
+Sorting of details	Menyusun butiran
+Waterproofing	Kalis air
+Preprocessing	Prapemprosesan
+Equipment calibration	Penentukuran peralatan
+Cooling system	Sistem penyejuk
+Magnets	Magnet
+Increase field size: {#price}	Tingkatkan saiz medan: {#price}
+See story	Lihat cerita
+Pause	jeda
+End round	Pusingan tamat
+Continue	teruskan
+End saved game, and start a new one	Tamatkan permainan yang disimpan dan mulakan permainan baharu
+Tutorials	Tutorial
+Basic	asas
+Fence	pagar
+Crane	Kren
+Workshop	Bengkel
+Before	Sebelum ini
+Now	Sekarang
+Next	Seterusnya
+Max detail:	Butiran maksimum:
+Bolt	Bolt
+Gear	Gear
+Gear box	Kotak gear
+Bearing	galas
+Piston	Omboh
+Engine	Enjin
+Moped	Moped
+Motorcycle	Motosikal
+Car	kereta
+Pickup	Pickup
+Truck	Lori
+Biplane	biplane
+Helicopter	Helikopter
+Plane	kapal terbang
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Enjin roket
+Soyuz	Soyuz
+Rocket	Roket
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Helo dan selamat datang ke 'Kitar Semula: 2048'! Adakah anda bersedia untuk beberapa cabaran? Dalam tutorial ini anda akan mempelajari asas yang diperlukan untuk kitar semula, tetapi beberapa ciri yang anda hanya boleh temui sendiri!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Terdapat 4 magnet di sekeliling medan (objek oren). Anda boleh mengaktifkannya dengan meleret (gerakkan jari anda pada skrin). Mereka boleh menggerakkan mana-mana bahan magnetik - sesuai untuk butiran yang kami gunakan! Cubalah dengan menggerakkan objek (seperti bolt) tiga kali.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	Butiran baharu telah muncul: bolt. Walaupun sesetengah orang mungkin melihatnya sebagai sampah, kita boleh mengitar semulanya menjadi sesuatu yang lebih maju, seperti gear!
+Recycle two bolts into a gear by moving them together.	Kitar semula dua bolt menjadi gear dengan menggerakkannya bersama-sama.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Hebat! Anda baru mengitar semula beberapa sampah! Teruskan, dan bersama-sama kita boleh mencapai matlamat kita untuk mencipta kehidupan yang lebih baik.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	Oh, tidak, magnet telah pecah! :({#} Anda lihat, magnet yang betul sekarang berwarna merah.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Cuba aktifkan magnet yang betul beberapa kali dan lihat tiada apa yang berlaku. (Leret ke kanan)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Anda lihat, tiada apa yang berlaku. Sekarang cuba leret ke arah yang berbeza (atas dan bawah). Mari kita tunggu sehingga magnet membaiki dirinya sendiri.
+Done! After several moves, all magnets will be repaired.	Selesai! Selepas beberapa langkah, semua magnet akan dibaiki.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Sekarang, mari kita bercakap tentang sampah bio (sisa epal). Cuba gerakkannya.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Kerana sampah bio kekurangan bahan magnetik, magnet tidak dapat menggerakkannya.
+Don't forget to sort your garbage! :)	Jangan lupa menyusun sampah anda! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Ini adalah sampah karat. Ia tidak boleh dikitar semula. Nombor itu menunjukkan berapa lama masa yang diperlukan untuk berkarat dan hilang.
+Amazing! You've improved your recycling skills!	Hebat! Anda telah meningkatkan kemahiran kitar semula anda!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Tahniah kerana memperoleh bengkel! Mari selami tutorial ringkas tentang cara memanfaatkannya sepenuhnya.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Gabungkan butiran ringkas serta-merta dari semua bidang menggunakan bengkel. Cubalah sekarang!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Ia agak keren, bukan? Hanya perlu ingat tempoh bertenang. Ia mengambil sedikit masa, jadi gunakannya dengan bijak!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Berhati-hati apabila terdapat hanya satu butiran yang tersedia untuk bengkel. Ia tidak akan dapat menggabungkannya dan hanya akan mengembalikan item tersebut.
+So, just use it carefully.	Jadi, gunakannya dengan berhati-hati.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Bengkel ini bersinar apabila anda dikelilingi oleh butiran ringkas yang menjengkelkan. Ia adalah alat yang sempurna untuk mengemas ruang anda dengan cekap!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Tahniah kerana membeli kren! Berikut ialah tutorial ringkas tentang cara bekerja dengannya.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Untuk menggunakan kren, hanya ketik pada ikon. Sekarang, anda telah memasuki mod KREN.
+In CRANE mode, choose an item on the field that you'd like to interact with.	Dalam mod KREN, pilih item pada medan yang anda ingin berinteraksi.
+Next, select an empty field where you want to move the chosen item.	Seterusnya, pilih medan kosong di mana anda ingin mengalihkan item yang dipilih.
+Now, press on the crane once more to execute the action.	Sekarang, tekan pada kren sekali lagi untuk melaksanakan tindakan.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	Semasa anda menaik taraf, anda akan mendapat keupayaan untuk menukar bukan sahaja kepada medan kosong tetapi juga menukarnya dengan item lain.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Jangan takut untuk bereksperimen! Jika anda menghadapi ralat, permainan akan memberikan petunjuk. {#}Cuba buat ralat (cth., klik pada 2 sel kosong).
+This is the error indication.	Ini adalah petunjuk ralat.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	Dan yang terakhir, tetapi tidak kurang pentingnya, cuba nyahpilih. Untuk berbuat demikian, tekan pada item yang dipilih sebelum ini, atau pada kren (jika anda belum memilih sel kedua lagi).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Tahniah kerana menaik taraf pagar anda! Mari lihat apa yang ia mampu sekarang.
+To use the fence, click on one of the blue (cyan) objects around the field.	Untuk menggunakan pagar, klik pada salah satu objek biru (cyan) di sekeliling medan.
+Swipe the chosen object(s) towards the fence you've initiated.	Leret objek yang dipilih ke arah pagar yang telah anda mulakan.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Pagar biasanya memerlukan sedikit masa sebelum anda boleh menggunakannya semula, jadi rancang pergerakan anda dengan sewajarnya.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Pagar hidraulik adalah penukar permainan-ia boleh mengendalikan semua jenis sampah, walaupun bukan magnet.
+It's your go-to tool for bio-garbage removal. Give it a shot!	Ia adalah alat yang anda perlukan untuk penyingkiran bio-sampah. Cubalah!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Anda baru sahaja membeli satu peningkatan, iaitu ~10% daripada waht diperlukan untuk meningkatkan saiz medan!
+Keep up! :D	Teruskan! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	Anda akan menerima sisa organik dengan kebarangkalian sebanyak {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	Anda akan menerima serpihan karat dengan kebarangkalian sebanyak {#prob}%
+The probability of obtaining an improved detail is {#prob}%	Kebarangkalian untuk mendapatkan butiran yang lebih baik ialah {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	Kebarangkalian untuk berjaya menggabungkan dua butiran adalah lebih kurang {#prob}%
+Magnets will break with a probability of {#prob}%	Magnet akan pecah dengan kebarangkalian sebanyak {#prob}%
+More details will drop on the field after {#move} moves	Butiran lanjut akan dikeluarkan pada medan selepas {#move} bergerak
+No Workshop	Tiada Bengkel
+Collects {#cell1}. Cooldown time:	Mengumpul {#cell1}. Masa bertenang:
+Collects {#cell1} and {#cell2}. Cooldown time:	Mengumpul {#cell1} dan {#cell2}. Masa bertenang:
+No Crane	Tiada Kren
+Move items up to {#cell3}.	Alihkan item ke atas ke {#cell3}.
+Move items up to {#cell6}.	Alihkan item ke atas ke {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Alihkan item ke atas ke {#cell6} dan tukarkannya dengan item sehingga {#cell2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Alihkan item ke atas ke {#cell11} dan tukarkannya dengan item sehingga {#cell6}.
+Move anything and swap it with items up to {#cell9}.	Alihkan apa sahaja dan tukarkannya dengan item sehingga {#cell9}.
+Move and swap anything!	Bergerak dan tukar apa sahaja!
+Simple fence	Pagar sederhana
+Available again after following number of moves: {#move}	Tersedia semula selepas bilangan pergerakan berikut: {#move}
+Details failed to merge!	Butiran gagal digabungkan!
+Warning! Langueages besides English could have some errors (and English also, lol)	Amaran! Bahasa selain bahasa Inggeris mungkin mempunyai beberapa ralat (dan bahasa Inggeris juga, lol)
+The game was saved. You can exit, and resume it later	Permainan telah diselamatkan. Anda boleh keluar, dan sambung semula kemudian
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Kren ialah alat yang membolehkan anda menempatkan semula objek di lapangan. Versi asas hanya berfungsi dengan menyeret objek ringan ke tempat kosong. Dengan peningkatan, anda boleh menyeret item yang lebih kompleks, dan juga menukar dua objek. Untuk menggunakannya, klik pada ikon kren, pilih objek, dan pilih tempat, di mana anda mahu meletakkannya.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Bosan dengan bahagian mudah yang bermain-main dengan binaan lanjutan anda? Gunakan bengkel!{#}Bengkel - bangunan kecil yang diasingkan di mana pemprosesan manual bahagian mudah boleh dilakukan. Lebih tinggi tahap bengkel, lebih banyak bahagian yang boleh diproses. Selain itu, penambahbaikan membolehkan anda menggunakannya dengan lebih kerap.{#}Untuk menggunakan, klik pada ikon bengkel melainkan ia dalam tempoh bertenang.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Adakah anda melihat perkara itu di sudut padang anda? Bagaimana dengan menjadikannya berguna? Tingkatkan pagar anda dengan menambahkan keupayaan untuk membukanya!{#}Membolehkan anda menyingkirkan serpihan bukan mekanikal. Penambahbaikan lanjut pada pam boleh dilakukan, membolehkan penggunaan pagar hidraulik dengan lebih kerap.{#}Untuk menggunakan, klik pada bahagian pagar yang dikehendaki dan tarik bahagian ke arah itu. Semua bahagian dalam barisan di mana pagar terbuka akan dibuang. Ingat: keselamatan dahulu!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Malangnya, tidak semua orang bertanggungjawab untuk mengasingkan sisa. Kadangkala bekas dengan sampah menjumpai kepingan kayu, sisa dan sampah biasa yang lain.{#}Pasang peralatan pengisihan tambahan dan kurangkan peratusan serpihan bukan mekanikal kepada sifar.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	Perubahan iklim global, malah hujan di padang pasir telah menjadi perkara biasa. Mungkin bagi seseorang, ia juga berguna, tetapi sesetengah bahagian boleh berkarat, menjadikannya mustahil untuk mengitar semulanya. Pengukuhan kalis air mengurangkan kemungkinan kakisan bahagian.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Ingin mempercepatkan proses kitar semula? Tambahkan unit prapemasangan pada pengangkut anda! Dengan dipasang, beberapa bahagian yang tercicir akan menjadi lebih maju.{#}Naik taraf ini adalah wajib, jika anda ingin meningkatkan saiz medan anda.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Tiada yang sempurna. Ia juga terpakai kepada proses pemasangan. Adakah anda perasan, kadang-kadang bahagian pecah semasa penggabungan? Nasib baik, saya boleh memberi jaminan kepada anda, bahawa ia hanya menjejaskan pemasangan enjin - bahagian yang lebih rumit tidak ada masalah. Tetapi masih menjengkelkan, bukan?{#}Tetapi anda boleh menjadikan proses ini lebih dipercayai, dengan menentukur peralatan anda.{#}Naik taraf ini adalah wajib, jika anda ingin meningkatkan saiz medan anda.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Kebaikan menyusun barang-barang di padang pasir - ia tidak banyak berkarat dalam persekitaran yang kering. Keburukan - ia boleh menjadi sangat panas di sini.{#}Lebih banyak anda bekerja, lebih banyak masa anda perlu menunggu antara setiap kitar semula, membolehkan peralatan anda kembali ke suhu yang sesuai. Ia membawa kepada lebih banyak item terkumpul antara pergerakan anda. Anda boleh menaik taraf sistem penyejukan, memberikan anda masa yang lebih lama untuk kitar semula.{#}Naik taraf ini adalah wajib, jika anda ingin meningkatkan saiz medan anda.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	Elektromagnet DIY kadangkala boleh gagal. Perbaikinya, untuk mengurangkan kerosakan.{#}Naik taraf ini adalah wajib, jika anda ingin meningkatkan saiz medan anda.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Pernahkah anda bertanya kepada diri sendiri, mengapa saya mempunyai bidang yang kecil? Bukankah ia menyusahkan untuk bekerja dengan binaan besar? Penyelesaiannya mudah - kembangkan saiz medan anda! {#}Perhatikan, sebelum mengembangkan, anda perlu memastikan bahawa peningkatan berikut dibeli sepenuhnya: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} dan {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Saiz tahap yang telah anda pilih dalam manu utama, adalah berbeza daripada permainan anda yang disimpan. Anda boleh menamatkan permainan seved dan memulakan permainan baharu, jika anda mahu.{#}Apakah yang anda mahu lakukan dengan permainan yang disimpan?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Tempat sampah di tengah padang pasir. Anda boleh katakan ia adalah tempat yang sesuai untuk menyimpan sisa logam - banyak ruang kosong dan cuaca kering. Padahal tidak lagi. Pada tahun 2048 cuaca menjadi sangat teruk.{#}Saya tidak memilih untuk menghabiskan hidup saya di sini. Saya tidak kaya, dan sempadan ditutup untuk orang seperti saya. Semasa saya kecil, saya bermimpi untuk menakluki angkasa. Dan sekarang, saya mendapati diri saya terperangkap di tengah-tengah kekosongan.{#}Jadi satu-satunya pilihan ialah bekerja. Dan saya tidak pernah menolak bantuan, saya gembira dapat menemui awak di sini. Dengan anda, saya tahu, suatu hari nanti saya akan pergi ke angkasa lepas.{#}Jadi, bagaimana pula dengan ini: kita bekerjasama, mengitar semula seberapa banyak bahagian yang boleh dan membantu antara satu sama lain untuk menjadikan hidup kita lebih baik. perjanjian?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Anda baru sahaja menamatkan permainan!{#}Biasanya pembangun meletakkan di sini senarai panjang nama pekerja. Tetapi permainan ini dibangunkan hanya oleh saya (Gleb The Polar Citizen).{#}Saya ingin mengucapkan terima kasih kepada isteri saya, ucapkan terima kasih khas kepada Anna M. untuk kereta yang hebat dan kepada semua penterjemah!!{#}Jika anda mahu , anda boleh terus bermain permainan ini atau cari permainan lain yang saya hasilkan!{#}Kekal kuat!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Tiada iklan
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Anda boleh membeli peningkatan ini untuk mengalih keluar iklan asas.{#}Ia tidak akan menjejaskan iklan revard!{#}Butang untuk menggandakan markah masih tersedia. Jadi ia hanya akan menjejaskan iklan, yang muncul selepas permainan.{#}Selain itu, saya yang sedang mencari jalan untuk menyokong saya, lebih baik pertimbangkan untuk melawat buymeacoffe — butang jantung, terletak dengan butang media.

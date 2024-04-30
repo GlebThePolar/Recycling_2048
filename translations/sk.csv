@@ -1,0 +1,142 @@
+en	sk
+English	Slovak
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	umiestnite_vaše_(prekladateľ)_meno_tu
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Kúpiť
+Back to menu	Späť do menu
+Settings	nastavenie
+Play	hrať
+Shop	Obchod
+Coins:	Mince:
+Exit	VÝCHOD
+Set the level	Nastavte úroveň
+Sell All	Predať všetko
+Details:	Podrobnosti:
+Double coins!{#}(Watch Ad)	Dvojité mince!{#}(Pozrite si reklamu)
+Restart	Reštart
+Advertisement watched	Reklama sledovaná
+Received coins:	Prijaté mince:
+Sound volume	Hlasitosť zvuku
+next	Ďalšie
+Tower crane	Vežový žeriav
+Workshop	Dielňa
+Hydraulic fence	Hydraulický plot
+Sorting of details	Triedenie detailov
+Waterproofing	Vodeodolný
+Preprocessing	Predspracovanie
+Equipment calibration	Kalibrácia zariadenia
+Cooling system	Chladiaci systém
+Magnets	Magnety
+Increase field size: {#price}	Zväčšiť veľkosť poľa: {#price}
+See story	Pozri príbeh
+Pause	Pauza
+End round	Koniec kola
+Continue	ďalej
+End saved game, and start a new one	Ukončite uloženú hru a začnite novú
+Tutorials	Návody
+Basic	Základné
+Fence	Plot
+Crane	Žeriav
+Workshop	Dielňa
+Before	Predtým
+Now	Teraz
+Next	Ďalšie
+Max detail:	Maximálny detail:
+Bolt	Bolt
+Gear	Výbava
+Gear box	Prevodovka
+Bearing	Ložisko
+Piston	Piest
+Engine	Motor
+Moped	Moped
+Motorcycle	Motocykel
+Car	Auto
+Pickup	Zdvihnúť
+Truck	Nákladné auto
+Biplane	Dvojplošník
+Helicopter	Helikoptéra
+Plane	Lietadlo
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Raketový motor
+Soyuz	Sojuz
+Rocket	Raketa
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Dobrý deň a vitajte v 'Recycling: 2048'! Si pripravený na nejakú výzvu? V tomto návode sa naučíte základ potrebný na recykláciu, ale niektoré funkcie môžete nájsť iba sami!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Okolo poľa sú 4 magnety (oranžové predmety). Môžete ich aktivovať potiahnutím prstom (pohybom prsta po obrazovke). Môžu pohybovať akýmkoľvek magnetickým materiálom - ideálne pre detaily, s ktorými pracujeme! Skúste to tak, že trikrát pohnete objektom (napríklad skrutkou).
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	Objavil sa nový detail: skrutka. Zatiaľ čo niektorí to môžu považovať za odpad, môžeme to recyklovať na niečo pokročilejšie, ako napríklad výstroj!
+Recycle two bolts into a gear by moving them together.	Recyklujte dve skrutky na ozubené koleso tak, že ich posuniete dohromady.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Fantastické! Práve ste recyklovali nejaký odpad! Len tak ďalej a spoločne dosiahneme náš cieľ vytvoriť lepší život.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	Oh, nie, magnet sa zlomil! :({#} Vidíte, pravý magnet je teraz červený.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Skúste niekoľkokrát aktivovať správny magnet a uvidíte, že sa nič nestane. (Potiahnite prstom doprava)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Vidíš, nič sa nestalo. Teraz skúste prejsť prstom v rôznych smeroch (hore a dole). Počkajme, kým sa magnet sám opraví.
+Done! After several moves, all magnets will be repaired.	Hotový! Po niekoľkých presunoch budú všetky magnety opravené.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Teraz sa bavme o bio odpade (zvyšku jablka). Skúste to posunúť.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Pretože biologickému odpadu chýbajú magnetické materiály, magnety s ním nemôžu pohybovať.
+Don't forget to sort your garbage! :)	Nezabudnite triediť odpad! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Toto je hrdzavý odpad. Ani sa to nedá recyklovať. Číslo udáva, koľko času potrebuje na zhrdzavenie a zmiznutie.
+Amazing! You've improved your recycling skills!	Úžasný! Zlepšili ste svoje recyklačné schopnosti!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Gratulujeme k získaniu dielne! Poďme sa vrhnúť na rýchly návod, ako z neho vyťažiť maximum.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Pomocou dielne okamžite skombinujte jednoduché detaily zo všetkých oblastí. Skúste to teraz!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Je to celkom fajn, však? Len majte na pamäti cooldown. Trvá to nejaký čas, tak to používajte rozumne!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Buďte opatrní, keď je pre dielňu k dispozícii iba jeden detail. Nebude to môcť skombinovať a iba vráti položku späť.
+So, just use it carefully.	Takže ho používajte opatrne.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Dielňa žiari, keď vás obklopujú otravné jednoduché detaily. Je to perfektný nástroj na efektívne upratovanie vášho priestoru!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Gratulujeme ku kúpe žeriavu! Tu je krátky návod, ako s ním pracovať.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Ak chcete použiť žeriav, jednoducho klepnite na ikonu. Teraz ste vstúpili do režimu CRANE.
+In CRANE mode, choose an item on the field that you'd like to interact with.	V režime CRANE vyberte položku v poli, s ktorou chcete pracovať.
+Next, select an empty field where you want to move the chosen item.	Ďalej vyberte prázdne pole, kam chcete presunúť vybratú položku.
+Now, press on the crane once more to execute the action.	Teraz stlačte žeriav ešte raz, aby ste vykonali akciu.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	Pri inovácii získate možnosť zmeniť nielen prázdne polia, ale aj ich zameniť za iné položky.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Nebojte sa experimentovať! Ak narazíte na chybu, hra vám to oznámi. {#}Skúste spôsobiť chybu (napr. kliknite na 2 prázdne bunky).
+This is the error indication.	Toto je indikácia chyby.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	A v neposlednom rade skúste zrušiť výber. Ak to chcete urobiť, stlačte na predtým vybranú položku alebo na žeriave (ak ste ešte nevybrali druhú bunku).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Gratulujeme k modernizácii vášho plotu! Pozrime sa, čoho je teraz schopný.
+To use the fence, click on one of the blue (cyan) objects around the field.	Ak chcete použiť plot, kliknite na jeden z modrých (azúrových) objektov okolo poľa.
+Swipe the chosen object(s) towards the fence you've initiated.	Potiahnite vybraný objekt (objekty) smerom k plotu, ktorý ste iniciovali.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Ploty zvyčajne potrebujú nejaký čas, kým ich budete môcť znova použiť, preto si podľa toho naplánujte svoje pohyby.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Hydraulické oplotenie mení hru – dokáže si poradiť so všetkými druhmi odpadu, dokonca aj s nemagnetickými.
+It's your go-to tool for bio-garbage removal. Give it a shot!	Je to váš obľúbený nástroj na odstraňovanie biologického odpadu. Skús to!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Práve ste si kúpili jeden upgrade, to znamená ~ 10 % wahtu potrebných na zväčšenie veľkosti poľa!
+Keep up! :D	Drž krok! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	Budete dostávať organický odpad s pravdepodobnosťou {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	Prijmete zvyšky hrdze s pravdepodobnosťou {#prob}%
+The probability of obtaining an improved detail is {#prob}%	Pravdepodobnosť získania vylepšených detailov je {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	Pravdepodobnosť úspešného zlúčenia dvoch detailov je približne {#prob}%
+Magnets will break with a probability of {#prob}%	Magnety sa zlomia s pravdepodobnosťou {#prob}%
+More details will drop on the field after {#move} moves	Ďalšie podrobnosti sa zobrazia v poli po {#move} ťahoch
+No Workshop	Žiadna dielňa
+Collects {#cell1}. Cooldown time:	Zbiera {#cell1}. Čas vychladnutia:
+Collects {#cell1} and {#cell2}. Cooldown time:	Zhromažďuje {#cell1} a {#cell2}. Čas vychladnutia:
+No Crane	Žiadny žeriav
+Move items up to {#cell3}.	Presuňte položky hore do {#cell3}.
+Move items up to {#cell6}.	Presuňte položky hore do {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Presuňte položky až do {#cell6} a vymeňte ich za položky až do {#cell2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Presuňte položky do {#cell11} a vymeňte ich za položky do {#cell6}.
+Move anything and swap it with items up to {#cell9}.	Presuňte čokoľvek a vymeňte to za položky až do {#cell9}.
+Move and swap anything!	Presuňte a vymeňte čokoľvek!
+Simple fence	Jednoduchý plot
+Available again after following number of moves: {#move}	K dispozícii opäť po nasledujúcom počte ťahov: {#move}
+Details failed to merge!	Podrobnosti sa nepodarilo zlúčiť!
+Warning! Langueages besides English could have some errors (and English also, lol)	POZOR! Jazyky okrem angličtiny môžu mať nejaké chyby (a tiež angličtina, lol)
+The game was saved. You can exit, and resume it later	Hra bola uložená. Môžete ho ukončiť a pokračovať v ňom neskôr
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Žeriav je nástroj, ktorý vám umožňuje premiestňovať predmety na ihrisku. Základná verzia funguje iba pretiahnutím ľahkých predmetov na prázdne miesto. S vylepšeniami môžete pretiahnuť zložitejšie položky a dokonca vymeniť dva objekty. Ak ho chcete použiť, kliknite na ikonu žeriavu, vyberte objekt a vyberte miesto, kam ho chcete umiestniť.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Už vás nebavia jednoduché časti, ktoré sa pohrávajú s vašimi pokročilými zostavami? Využi dielňu!{#}Workshop – malá oddelená budova, kde je možné ručné spracovanie jednoduchých dielov. Čím vyššia je úroveň dielne, tým viac dielov dokáže spracovať. Vylepšenie vám tiež umožňuje používať ho častejšie.{#}Ak ho chcete použiť, kliknite na ikonu dielne, pokiaľ nie je v režime cooldown.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Videli ste tú vec za rohmi ihriska? Čo tak urobiť to užitočným? Vylepšite svoj plot pridaním možnosti jeho otvorenia!{#}Umožňuje vám zbaviť sa nemechanického odpadu. Sú možné ďalšie vylepšenia čerpadiel, ktoré umožňujú častejšie používanie hydraulického oplotenia.{#}Ak ho chcete použiť, kliknite na požadovanú časť oplotenia a potiahnite diely v tomto smere. Všetky časti v rade, kde je plot otvorený, sa vyhodia. Pamätajte: bezpečnosť na prvom mieste!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Žiaľ, nie každý je zodpovedný za triedenie odpadu. Niekedy sa v kontajneroch s odpadom objavia kusy dreva, odpad a iný bežný odpad.{#}Nainštalujte dodatočné triediace zariadenie a znížte percento nemechanického odpadu na nulu.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	Globálna zmena klímy a dokonca aj dažde v púšti sa stali bežnými. Možno pre niekoho je to dokonca užitočné, ale niektoré časti môžu hrdzavieť, čo znemožňuje ich recykláciu. Posilnenie hydroizolácie znižuje pravdepodobnosť korózie dielov.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Chcete urýchliť proces recyklácie? Pridajte k svojmu transportéru predmontážnu jednotku! Po nainštalovaní budú niektoré vypadnuté časti pokročilejšie.{#}Táto inovácia je povinná, ak chcete zväčšiť veľkosť poľa.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Nič nie je dokonalé. Platí to aj pre proces montáže. Všimli ste si, že niekedy sa časti pri spájaní zlomia? Našťastie vás môžem ubezpečiť, že sa to týka len montáže motora - komplikovanejšie diely nie sú problém. Ale stále otravné, však?{#}Tento proces však môžete urobiť spoľahlivejším kalibráciou svojho zariadenia.{#}Táto inovácia je povinná, ak chcete zväčšiť veľkosť poľa.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Výhody stohovania predmetov v púšti - v suchom prostredí veľmi nehrdzavejú. Nevýhody – môže tu byť naozaj horúco.{#}Čím viac pracujete, tým viac času musíte čakať medzi jednotlivými recykláciami, aby sa vaše zariadenie vrátilo na vhodnú teplotu. To vedie k tomu, že medzi vašimi ťahmi sa hromadí viac položiek. Chladiaci systém môžete upgradovať, čím získate dlhší čas na recykláciu.{#}Táto inovácia je povinná, ak chcete zväčšiť plochu svojho poľa.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	Elektromagnety vyrobené vlastnými rukami môžu niekedy zlyhať. Vylepšite ich, aby ste znížili poruchy.{#}Táto inovácia je povinná, ak chcete zväčšiť veľkosť svojho poľa.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Položili ste si niekedy otázku, prečo mám také malé pole? Nie je nepohodlné pracovať s veľkými stavbami? Riešenie je jednoduché – zväčšite veľkosť poľa! {#}Upozorňujeme, že pred rozšírením sa musíte uistiť, že sú úplne zakúpené nasledujúce aktualizácie: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} a {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Veľkosť úrovne, ktorú ste vybrali v hlavnom menu, sa líši od vašej uloženej hry. Ak chcete, môžete ukončiť siedmu hru a začať novú.{#}Čo chcete urobiť s uloženou hrou?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Smetisko uprostred púšte. Dalo by sa povedať, že je to ideálne miesto na skladovanie kovových zvyškov – veľa voľného miesta a sychravé počasie. Aj keď už nie. V roku 2048 sa počasie naozaj zbláznilo.{#}Nerozhodol som sa stráviť svoj život tu. Nie som bohatý a pre ľudí ako som ja sú hranice zatvorené. Keď som bol dieťa, sníval som o dobytí vesmíru. A teraz som uviazol uprostred ničoho.{#}Takže jedinou možnosťou je pracovať. A nikdy neodmietam pomoc, som rád, že ťa tu nájdem. Viem, že s vami sa jedného dňa dostanem do vesmíru.{#}Takže, čo poviete na toto: pracujeme spolu, recyklujeme čo najviac častí a navzájom si pomáhame zlepšovať naše životy. Obchod?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Práve ste dokončili hru!{#}Vývojári spoločnosti Usaly sem umiestnili dlhý zoznam mien pracovníkov. Ale túto hru som vyvinul iba ja (Gleb The Polar Citizen).{#}Chcem poďakovať svojej manželke, špeciálne poďakovať Anne M. za úžasné auto a všetkým prekladateľom!!{#}Ak chcete , môžete pokračovať v hraní tejto hry alebo hľadať iné hry, ktoré som vyvinul!{#}Zostaňte silní!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Žiadne reklamy
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Túto inováciu si môžete zakúpiť na odstránenie základných reklám.{#}Neovplyvní to reklamy s prehodnotením!{#}Tlačidlo na zdvojnásobenie skóre bude stále dostupné. Ovplyvní to teda iba reklamy, ktoré sa zobrazujú po hre.{#}Tiež, ak len hľadáte spôsob, ako ma podporiť, radšej zvážte návštevu buymeacoffe — tlačidla srdca, ktoré sa nachádza s tlačidlami médií.

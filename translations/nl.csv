@@ -1,0 +1,142 @@
+en	nl
+English	Dutch
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	plaats_uw_(vertaler)_naam_hier
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Kopen
+Back to menu	Terug naar menu
+Settings	Instellingen
+Play	Toneelstuk
+Shop	Winkel
+Coins:	Munten:
+Exit	Uitgang
+Set the level	Stel het niveau in
+Sell All	Verkoop alles
+Details:	Details:
+Double coins!{#}(Watch Ad)	Dubbele munten!{#}(Bekijk advertentie)
+Restart	Herstarten
+Advertisement watched	Advertentie bekeken
+Received coins:	Ontvangen munten:
+Sound volume	Geluidsvolume
+next	volgende
+Tower crane	Bouwkraan
+Workshop	Werkplaats
+Hydraulic fence	Hydraulisch hekwerk
+Sorting of details	Sorteren van details
+Waterproofing	Waterdichting
+Preprocessing	Voorverwerking
+Equipment calibration	Kalibratie van apparatuur
+Cooling system	Koelsysteem
+Magnets	Magneten
+Increase field size: {#price}	Veldgrootte vergroten: {#price}
+See story	Zie verhaal
+Pause	Pauze
+End round	Einde ronde
+Continue	Doorgaan
+End saved game, and start a new one	Beëindig het opgeslagen spel en start een nieuw spel
+Tutorials	Handleidingen
+Basic	Basis
+Fence	Schutting
+Crane	Kraan
+Workshop	Werkplaats
+Before	Voor
+Now	Nu
+Next	Volgende
+Max detail:	Maximaal detail:
+Bolt	Bout
+Gear	Versnelling
+Gear box	Versnellingsbak
+Bearing	Handelswijze
+Piston	Zuiger
+Engine	Motor
+Moped	Bromfiets
+Motorcycle	Motorfiets
+Car	Auto
+Pickup	Ophalen
+Truck	Vrachtauto
+Biplane	Tweedekker
+Helicopter	Helikopter
+Plane	Vliegtuig
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Raketmotor
+Soyuz	Sojoez
+Rocket	Raket
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Hallo en welkom bij 'Recycling: 2048'! Ben jij klaar voor een uitdaging? In deze tutorial leer je de basis die nodig is voor recycling, maar sommige functies kun je alleen zelf vinden!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Er zijn 4 magneten rond het veld (oranje voorwerpen). Je kunt ze activeren door te swipen (beweeg je vinger over het scherm). Ze kunnen alle magnetische materialen verplaatsen - perfect voor de details waarmee we werken! Probeer het eens door een voorwerp (zoals de grendel) drie keer te verplaatsen.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	Er is een nieuw detail verschenen: een bout. Hoewel sommigen het misschien als afval beschouwen, kunnen wij het recyclen tot iets geavanceerder, zoals een uitrusting!
+Recycle two bolts into a gear by moving them together.	Recycle twee bouten tot een tandwiel door ze samen te bewegen.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Fantastisch! Je hebt zojuist wat afval gerecycled! Ga zo door, en samen kunnen we ons doel bereiken: een beter leven creëren.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	Oh nee, de magneet is kapot! :({#} Zie je, de rechtermagneet is nu rood.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Probeer een paar keer de juiste magneet te activeren en zie dat er niets gebeurt. (Swipe naar rechts)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Zie je, er gebeurde niets. Probeer nu in verschillende richtingen te vegen (omhoog en omlaag). Laten we wachten tot de magneet zichzelf herstelt.
+Done! After several moves, all magnets will be repaired.	Klaar! Na enkele zetten zijn alle magneten gerepareerd.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Laten we het nu hebben over bio-afval (de overgebleven appel). Probeer het te verplaatsen.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Omdat bio-afval geen magnetisch materiaal bevat, kunnen magneten het niet verplaatsen.
+Don't forget to sort your garbage! :)	Vergeet niet uw afval te sorteren! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Dit is roestafval. Het kan ook niet worden gerecycled. Het getal geeft aan hoeveel tijd het nodig heeft om weg te roesten en te verdwijnen.
+Amazing! You've improved your recycling skills!	Verbazingwekkend! Je hebt je recyclingvaardigheden verbeterd!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Gefeliciteerd met het verwerven van de werkplaats! Laten we een korte tutorial bekijken over hoe u er het beste van kunt maken.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Combineer eenvoudige details direct uit alle vakgebieden met behulp van de workshop. Probeer het nu eens!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Het is best gaaf, toch? Houd wel rekening met de cooldown. Het kost wat tijd, dus gebruik het verstandig!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Wees voorzichtig als er maar één detail beschikbaar is voor de workshop. Hij kan het niet combineren en stuurt het artikel gewoon terug.
+So, just use it carefully.	Gebruik het dus gewoon voorzichtig.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	De werkplaats schittert als je omringd bent door vervelende simpele details. Het is het perfecte hulpmiddel om uw ruimte efficiënt op te ruimen!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Gefeliciteerd met de aankoop van de kraan! Hier vindt u een korte tutorial over hoe u ermee kunt werken.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Om de kraan te gebruiken, tikt u eenvoudig op het pictogram. Nu bent u in de CRANE-modus terechtgekomen.
+In CRANE mode, choose an item on the field that you'd like to interact with.	Kies in de CRANE-modus een item op het veld waarmee je wilt communiceren.
+Next, select an empty field where you want to move the chosen item.	Selecteer vervolgens een leeg veld waarnaar u het gekozen item wilt verplaatsen.
+Now, press on the crane once more to execute the action.	Druk nu nogmaals op de kraan om de actie uit te voeren.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	Naarmate je upgradet, krijg je de mogelijkheid om niet alleen naar lege velden te gaan, maar deze ook om te wisselen met andere items.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Wees niet bang om te experimenteren! Als je een fout tegenkomt, geeft het spel een indicatie. {#}Probeer een fout te veroorzaken (klik bijvoorbeeld op twee lege cellen).
+This is the error indication.	Dit is de foutindicatie.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	En last but not least, probeer de selectie ongedaan te maken. Om dit te doen, drukt u op het eerder geselecteerde item, of op de kraan (als u de tweede cel nog niet hebt geselecteerd).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Gefeliciteerd met het upgraden van uw hekwerk! Laten we eens kijken waartoe het nu in staat is.
+To use the fence, click on one of the blue (cyan) objects around the field.	Om het hek te gebruiken, klik je op een van de blauwe (cyaan) voorwerpen rondom het veld.
+Swipe the chosen object(s) towards the fence you've initiated.	Veeg het gekozen object(en) naar het hek dat je hebt geïnitieerd.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Hekken hebben meestal enige tijd nodig voordat je ze weer kunt gebruiken, dus plan je bewegingen dienovereenkomstig.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Het hydraulische hek is een gamechanger: het kan allerlei soorten afval verwerken, zelfs niet-magnetisch afval.
+It's your go-to tool for bio-garbage removal. Give it a shot!	Het is uw favoriete hulpmiddel voor het verwijderen van bio-afval. Probeer het eens!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Je hebt zojuist één upgrade gekocht, dat is ~10% van wat nodig is om de veldgrootte te vergroten!
+Keep up! :D	Houd je goed! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	U ontvangt organisch afval met een waarschijnlijkheid van {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	U ontvangt roestresten met een waarschijnlijkheid van {#prob}%
+The probability of obtaining an improved detail is {#prob}%	De kans op het verkrijgen van een verbeterd detail is {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	De kans op het succesvol samenvoegen van twee details is ongeveer {#prob}%
+Magnets will break with a probability of {#prob}%	Magneten zullen breken met een waarschijnlijkheid van {#prob}%
+More details will drop on the field after {#move} moves	Meer details verschijnen op het veld na {#move} zetten
+No Workshop	Geen werkplaats
+Collects {#cell1}. Cooldown time:	Verzamelt {#cell1}. Afkoeltijd:
+Collects {#cell1} and {#cell2}. Cooldown time:	Verzamelt {#cell1} en {#cell2}. Afkoeltijd:
+No Crane	Geen kraan
+Move items up to {#cell3}.	Verplaats items naar {#cell3}.
+Move items up to {#cell6}.	Verplaats items naar {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Verplaats items tot {#cell6} en wissel ze met items tot {#cell2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Verplaats items tot {#cell11} en ruil ze met items tot {#cell6}.
+Move anything and swap it with items up to {#cell9}.	Verplaats alles en ruil het met items tot {#cell9}.
+Move and swap anything!	Verplaats en ruil alles!
+Simple fence	Eenvoudig hek
+Available again after following number of moves: {#move}	Opnieuw beschikbaar na het volgende aantal zetten: {#move}
+Details failed to merge!	Details kunnen niet worden samengevoegd!
+Warning! Langueages besides English could have some errors (and English also, lol)	Waarschuwing! Talen naast Engels kunnen enkele fouten bevatten (en Engels ook, lol)
+The game was saved. You can exit, and resume it later	Het spel is opgeslagen. U kunt afsluiten en later verdergaan
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Een kraan is een hulpmiddel waarmee je objecten op het veld kunt verplaatsen. De basisversie werkt alleen door lichte objecten naar een lege plaats te slepen. Met upgrades kun je complexere items slepen en zelfs twee objecten verwisselen. Om het te gebruiken, klikt u op het kraanpictogram, selecteert u het object en selecteert u een plaats waar u het wilt plaatsen.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Ben je het beu dat simpele onderdelen je geavanceerde builds in de war brengen? Maak gebruik van de werkplaats!{#}Werkplaats - een klein, apart gebouw waar handmatige verwerking van eenvoudige onderdelen mogelijk is. Hoe hoger het niveau van de werkplaats, hoe meer onderdelen deze kan verwerken. Dankzij de verbetering kun je het ook vaker gebruiken.{#}Om het te gebruiken, klik je op het workshoppictogram, tenzij het in de cooldownmodus staat.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Heb je dat ding bij de hoeken van je veld gezien? Hoe zit het met het nuttig maken ervan? Verbeter je hek door de mogelijkheid toe te voegen om het te openen!{#}Hiermee kun je niet-mechanisch vuil verwijderen. Verdere verbeteringen aan de pompen zijn mogelijk, waardoor het hydraulische hek vaker kan worden gebruikt.{#}Om het te gebruiken, klikt u op het gewenste gedeelte van het hek en trekt u de onderdelen in die richting. Alle onderdelen in de rij waar het hek open staat, worden weggegooid. Onthoud: veiligheid eerst!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Helaas is niet iedereen verantwoordelijk voor het sorteren van afval. Soms komen containers met afval stukken hout, afval en ander gewoon afval tegen.{#}Installeer extra sorteerapparatuur en breng het percentage niet-mechanisch afval terug tot nul.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	De mondiale klimaatverandering, en zelfs in de woestijn, is regen gebruikelijk geworden. Misschien is het voor iemand zelfs nuttig, maar sommige onderdelen kunnen roesten, waardoor ze niet meer te recyclen zijn. Het versterken van de waterdichtheid vermindert de kans op corrosie van onderdelen.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Wilt u het recyclingproces versnellen? Voeg een voormontage-eenheid toe aan uw transporter! Als het is geïnstalleerd, zullen sommige verwijderde onderdelen geavanceerder zijn.{#}Deze upgrade is verplicht als u de omvang van uw veld wilt vergroten.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Niets is perfect. Het geldt ook voor het montageproces. Is het je opgevallen dat er soms onderdelen breken tijdens het samenvoegen? Gelukkig kan ik je verzekeren dat het alleen de montage van de motor betreft. Ingewikkeldere onderdelen zijn geen probleem. Maar toch vervelend, toch?{#}Maar u kunt dit proces betrouwbaarder maken door uw apparatuur te kalibreren.{#}Deze upgrade is verplicht als u de omvang van uw veld wilt vergroten.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Voordelen van het stapelen van items in woestijnen: ze roesten niet veel in droge omgevingen. Nadelen: het kan hier erg heet zijn.{#}Hoe meer u werkt, hoe meer tijd u moet wachten tussen elke recycling, zodat uw apparatuur weer op de juiste temperatuur kan komen. Het leidt ertoe dat er tussen je bewegingen meer items worden verzameld. U kunt het koelsysteem upgraden, waardoor u meer tijd heeft voor recycling.{#}Deze upgrade is verplicht als u de omvang van uw veld wilt vergroten.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	DIY-elektromagneten kunnen soms falen. Verbeter ze om storingen te verminderen.{#}Deze upgrade is verplicht als u de omvang van uw veld wilt vergroten.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Heb je jezelf ooit afgevraagd: waarom heb ik zo'n klein veld? Is het niet lastig om met grote builds te werken? De oplossing is eenvoudig: breid uw veldgrootte uit! {#}Let op: voordat u uitbreidt, moet u ervoor zorgen dat de volgende upgrades volledig zijn aangeschaft: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} en {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	De niveaugrootte die je in het hoofdmenu hebt geselecteerd, verschilt van je opgeslagen spel. Je kunt een bepaald spel beëindigen en een nieuw spel starten, als je wilt.{#}Wat wil je doen met het opgeslagen spel?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Een autokerkhof midden in de woestijn. Je zou kunnen zeggen dat het de perfecte plek is om metaalschroot op te slaan - veel vrije ruimte en droog weer. Maar niet meer. In het jaar 2048 is het weer echt gek geworden.{#}Ik heb er niet voor gekozen om hier mijn leven door te brengen. Ik ben niet rijk en de grenzen zijn gesloten voor mensen zoals ik. Als kind droomde ik ervan om de ruimte te veroveren. En nu zit ik vast in het midden van nergens.{#}Dus de enige optie is om te werken. En ik weiger nooit hulp, ik ben blij dat ik jou hier heb gevonden. Met jou weet ik dat ik op een dag de ruimte zal bereiken.{#}Dus, wat zeg je ervan: we werken samen, recyclen zoveel mogelijk onderdelen en helpen elkaar om ons leven beter te maken. Deal?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Je hebt het spel zojuist uitgespeeld!{#}Meestal plaatsen ontwikkelaars hier een lange lijst met namen van werknemers. Maar dit spel is alleen door mij ontwikkeld (Gleb The Polar Citizen).{#}Ik wil mijn vrouw bedanken, in het bijzonder Anna M. bedanken voor de geweldige auto, en alle vertalers!!{#}Als je wilt , je kunt dit spel blijven spelen of zoeken naar andere spellen die ik heb ontwikkeld!{#}Blijf sterk!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Geen advertenties
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	U kunt deze upgrade kopen voor het verwijderen van basisadvertenties.{#}Het heeft geen invloed op de advertenties!{#}De knop voor het verdubbelen van scores zal nog steeds beschikbaar zijn. Het heeft dus alleen invloed op advertenties die na de game verschijnen.{#}Als je gewoon op zoek bent naar een manier om mij te steunen, kun je beter overwegen om buymeacoffe te bezoeken: de hartknop met de mediaknoppen.

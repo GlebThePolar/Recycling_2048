@@ -1,0 +1,142 @@
+en	ko
+English	한국어
+lat	ko
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	place_your_(번역가)_name_here
+<!-- Basic names (objects and buttons) -->																																													
+Buy	구입하다
+Back to menu	메뉴로 돌아가기
+Settings	설정
+Play	놀다
+Shop	가게
+Coins:	동전:
+Exit	출구
+Set the level	레벨을 설정하세요
+Sell All	다 팔다
+Details:	세부:
+Double coins!{#}(Watch Ad)	더블 코인!{#}(광고 보기)
+Restart	재시작
+Advertisement watched	광고 시청
+Received coins:	받은 코인:
+Sound volume	사운드 볼륨
+next	다음
+Tower crane	타워크레인
+Workshop	작업장
+Hydraulic fence	유압 울타리
+Sorting of details	세부정보 정렬
+Waterproofing	방수
+Preprocessing	전처리
+Equipment calibration	장비 교정
+Cooling system	냉각 시스템
+Magnets	자석
+Increase field size: {#price}	필드 크기 늘리기: {#price}
+See story	스토리 보기
+Pause	정지시키다
+End round	라운드 종료
+Continue	계속하다
+End saved game, and start a new one	저장된 게임을 종료하고 새 게임을 시작하세요
+Tutorials	튜토리얼
+Basic	기초적인
+Fence	울타리
+Crane	두루미
+Workshop	작업장
+Before	전에
+Now	지금
+Next	다음
+Max detail:	최대 세부정보:
+Bolt	볼트
+Gear	기어
+Gear box	기어박스
+Bearing	베어링
+Piston	피스톤
+Engine	엔진
+Moped	모터 달린 자전거
+Motorcycle	오토바이
+Car	자동차
+Pickup	찾다
+Truck	트럭
+Biplane	복엽 비행기
+Helicopter	헬리콥터
+Plane	비행기
+AN-225 Mriya	AN-225 므리야
+Rocket engine	로켓 엔진
+Soyuz	소유즈
+Rocket	로켓
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	안녕하세요, '재활용: 2048'에 오신 것을 환영합니다! 도전할 준비가 되셨나요? 이 튜토리얼에서는 재활용에 필요한 기본 사항을 배우게 되지만 일부 기능은 혼자서만 찾을 수 있습니다!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	자기장 주위에는 4개의 자석이 있습니다(주황색 물체). 스와이프(화면에서 손가락을 움직여)하여 활성화할 수 있습니다. 어떤 자성 물질도 옮길 수 있어 우리가 작업하는 세부 사항에 딱 맞습니다! 볼트와 같은 물체를 세 번 움직여 보십시오.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	새로운 세부 사항이 나타났습니다: 볼트. 어떤 사람들은 그것을 쓰레기로 볼 수도 있지만, 우리는 그것을 기어와 같은 좀 더 발전된 것으로 재활용할 수 있습니다!
+Recycle two bolts into a gear by moving them together.	두 개의 볼트를 함께 움직여 기어로 재활용합니다.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	환상적입니다! 방금 쓰레기를 재활용했습니다! 계속 노력하시면 함께 더 나은 삶을 창조한다는 목표를 달성할 수 있습니다.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	아, 안돼, 자석이 부러졌어! :({#} 보시다시피 오른쪽 자석은 이제 빨간색입니다.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	오른쪽 자석을 몇 번 활성화해 보고 아무 일도 일어나지 않는지 확인하세요. (오른쪽으로 스와이프)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	알다시피, 아무 일도 일어나지 않았습니다. 이제 다양한 방향(위, 아래)으로 스와이프해 보세요. 자석이 스스로 수리될 때까지 기다리자.
+Done! After several moves, all magnets will be repaired.	완료! 몇 번 움직이면 모든 자석이 수리됩니다.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	이제 바이오 쓰레기(사과 찌꺼기)에 대해 이야기해 보겠습니다. 움직여 보세요.
+Because bio garbage lacks magnetic materials, magnets can't move it.	바이오 쓰레기에는 자성 물질이 부족하기 때문에 자석이 이를 움직일 수 없습니다.
+Don't forget to sort your garbage! :)	쓰레기를 분류하는 것을 잊지 마세요! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	이것은 녹슨 쓰레기입니다. 재활용도 안 돼요. 숫자는 녹슬고 사라지는 데 필요한 시간을 나타냅니다.
+Amazing! You've improved your recycling skills!	놀라운! 재활용 기술이 향상되었습니다!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	워크샵 획득을 축하합니다! 이를 최대한 활용하는 방법에 대한 빠른 튜토리얼을 살펴보겠습니다.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	워크샵을 사용하여 모든 분야의 간단한 세부 사항을 즉시 결합하십시오. 지금 시도해 보세요!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	정말 멋지죠? 쿨타임을 염두에 두세요. 시간이 좀 걸리므로 현명하게 사용하세요!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	워크숍에 사용할 수 있는 세부정보가 하나만 있는 경우 주의하세요. 결합할 수 없으며 항목만 다시 반환됩니다.
+So, just use it carefully.	그러니 조심해서 사용하세요.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	짜증나는 단순한 세부 사항에 둘러싸여 있을 때 워크숍은 빛을 발합니다. 공간을 효율적으로 정리하는 완벽한 도구입니다!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	크레인 구입을 축하드립니다! 다음은 작업 방법에 대한 간단한 튜토리얼입니다.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	크레인을 사용하려면 아이콘을 탭하기만 하면 됩니다. 이제 CRANE 모드로 들어갔습니다.
+In CRANE mode, choose an item on the field that you'd like to interact with.	CRANE 모드에서는 필드에서 상호 작용하려는 항목을 선택합니다.
+Next, select an empty field where you want to move the chosen item.	그런 다음 선택한 항목을 이동하려는 빈 필드를 선택합니다.
+Now, press on the crane once more to execute the action.	이제 크레인을 한 번 더 눌러 작업을 실행하세요.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	업그레이드하면 빈 필드로 변경할 수 있을 뿐만 아니라 다른 항목으로 바꿀 수도 있습니다.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	실험하는 것을 두려워하지 마세요! 오류가 발생하면 게임에서 표시를 제공합니다. {#}오류를 유발해 보세요(예: 빈 셀 2개 클릭).
+This is the error indication.	이것이 오류 표시입니다.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	마지막으로 선택을 취소해 보세요. 그렇게 하려면 이전에 선택한 항목을 누르거나 크레인(아직 두 번째 셀을 선택하지 않은 경우)을 누릅니다.
+Congratulations on upgrading your fence! Let's see what it is capable of now.	울타리 업그레이드를 축하합니다! 이제 그것이 무엇을 할 수 있는지 봅시다.
+To use the fence, click on one of the blue (cyan) objects around the field.	울타리를 사용하려면 필드 주변의 파란색(청록색) 개체 중 하나를 클릭하세요.
+Swipe the chosen object(s) towards the fence you've initiated.	선택한 개체를 시작한 울타리 쪽으로 스와이프하세요.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	울타리를 다시 사용하려면 일반적으로 시간이 좀 걸리므로 그에 따라 이동을 계획하세요.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	유압 울타리는 획기적인 제품입니다. 모든 종류의 쓰레기, 심지어 비자성 쓰레기까지 처리할 수 있습니다.
+It's your go-to tool for bio-garbage removal. Give it a shot!	이는 바이오 쓰레기 제거를 위한 유용한 도구입니다. 한번 시도해 보세요!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	방금 하나의 업그레이드를 구입하셨습니다. 즉, 필드 크기를 늘리는 데 필요한 전력의 ~10%입니다!
+Keep up! :D	유지하다! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	{#prob}%의 확률로 유기 폐기물을 받게 됩니다.
+You will recive rust debris with probabiliy of {#prob}%	{#prob}%의 확률로 녹 잔해를 받게 됩니다.
+The probability of obtaining an improved detail is {#prob}%	향상된 디테일을 얻을 확률은 {#prob}%입니다.
+The probability of successfully merging two details is approximately {#prob}%	두 세부정보를 성공적으로 병합할 확률은 약 {#prob}%입니다.
+Magnets will break with a probability of {#prob}%	자석은 {#prob}%의 확률로 깨집니다.
+More details will drop on the field after {#move} moves	{#move} 이동 후 자세한 내용이 필드에 표시됩니다.
+No Workshop	워크샵 없음
+Collects {#cell1}. Cooldown time:	{#cell1}을(를) 수집합니다. 쿨다운 시간:
+Collects {#cell1} and {#cell2}. Cooldown time:	{#cell1} 및 {#cell2}를 수집합니다. 쿨다운 시간:
+No Crane	크레인 없음
+Move items up to {#cell3}.	항목을 {#cell3}까지 이동합니다.
+Move items up to {#cell6}.	항목을 {#cell6}까지 이동합니다.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	최대 {#cell6}까지 아이템을 이동하고, 최대 {#cell2}까지의 아이템으로 교환하세요.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	아이템을 {#cell11}까지 이동하고, 아이템을 {#cell6}까지 교환합니다.
+Move anything and swap it with items up to {#cell9}.	무엇이든 이동하고 최대 {#cell9}까지의 항목으로 교환하세요.
+Move and swap anything!	무엇이든 옮기고 교환하세요!
+Simple fence	간단한 울타리
+Available again after following number of moves: {#move}	다음 이동 횟수 후에 다시 사용할 수 있습니다: {#move}
+Details failed to merge!	세부정보를 병합하지 못했습니다.
+Warning! Langueages besides English could have some errors (and English also, lol)	경고! 영어 이외의 언어에는 약간의 오류가 있을 수 있습니다. (그리고 영어도 ㅋㅋㅋ)
+The game was saved. You can exit, and resume it later	게임이 저장되었습니다. 종료하고 나중에 다시 시작할 수 있습니다.
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	크레인은 현장에서 물건을 재배치할 수 있는 도구입니다. 기본 버전은 가벼운 개체를 빈 곳으로 드래그해야만 작동합니다. 업그레이드를 사용하면 더 복잡한 항목을 드래그할 수 있고 두 개체를 교환할 수도 있습니다. 이를 사용하려면 크레인 아이콘을 클릭하고 개체를 선택한 다음 개체를 배치할 장소를 선택하세요.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	고급 빌드를 복잡하게 만드는 단순한 부품에 지치셨나요? 작업장을 이용하세요!{#}작업장 - 간단한 부품의 수동 처리가 가능한 작은 분리형 건물입니다. 작업장의 레벨이 높을수록 처리할 수 있는 부품이 많아집니다. 또한, 개선을 통해 더 자주 사용할 수 있게 되었습니다.{#}사용하려면 쿨타임이 아닌 이상 작업장 아이콘을 클릭하세요.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	운동장 모퉁이에서 저 것을 보셨나요? 유용하게 만들어 보면 어떨까요? 울타리를 여는 기능을 추가하여 울타리를 개선하세요!{#}비기계적 잔해를 제거할 수 있습니다. 펌프에 대한 추가 개선이 가능하여 유압 펜스를 더 자주 사용할 수 있습니다.{#}사용하려면 펜스의 원하는 부분을 클릭하고 부품을 해당 방향으로 당깁니다. 울타리가 열린 줄의 모든 부품은 폐기됩니다. 기억하세요: 안전이 최우선입니다!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	불행하게도 모든 사람이 폐기물 분류에 책임을 지는 것은 아닙니다. 때로는 쓰레기가 담긴 용기에 나무 조각, 폐기물, 기타 일반 쓰레기가 나오는 경우가 있습니다.{#}분류 장비를 추가로 설치하고 비기계적 잔해의 비율을 0으로 줄이세요.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	세계적인 기후변화, 심지어 사막에도 비가 내리는 일이 흔해졌습니다. 누군가에게는 유용할 수도 있지만 일부 부품은 녹이 슬어 재활용이 불가능할 수도 있습니다. 방수를 강화하면 부품의 부식 가능성이 줄어듭니다.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	재활용 프로세스의 속도를 높이고 싶으십니까? 운송 차량에 사전 조립 장치를 추가하세요! 이를 설치하면 일부 떨어뜨린 부분이 더욱 발전할 것입니다.{#}필드 크기를 늘리려면 이 업그레이드가 필수입니다.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	완벽한 것은 없습니다. 이는 조립 공정에도 적용됩니다. 병합 중에 부품이 파손되는 경우가 있다는 사실을 알고 계셨나요? 다행스럽게도 이는 엔진 조립에만 영향을 미치므로 더 복잡한 부품은 문제가 되지 않습니다. 하지만 여전히 귀찮죠?{#}하지만 장비를 보정하면 이 프로세스를 더욱 안정적으로 만들 수 있습니다.{#}분야의 규모를 늘리려면 이 업그레이드가 필수입니다.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	사막에 물건을 쌓을 때의 장점 - 건조한 환경에서도 녹슬지 않습니다. 단점 - 이곳은 정말 더울 수 있습니다.{#}작업을 많이 할수록 장비가 적절한 온도로 돌아갈 수 있도록 각 재활용 사이에 기다려야 하는 시간이 더 길어집니다. 이동 사이에 더 많은 항목이 축적됩니다. 냉각 시스템을 업그레이드하면 재활용 시간이 더 길어집니다.{#}밭의 크기를 늘리려면 이 업그레이드가 필수입니다.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	DIY 전자석은 때때로 실패할 수 있습니다. 오작동을 줄이려면 개선하세요.{#}필드 크기를 늘리려면 이 업그레이드가 필수입니다.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	왜 내가 그렇게 작은 밭을 가지고 있는지 스스로에게 물어본 적이 있습니까? 큰 빌드로 작업하는 것은 불편하지 않나요? 해결책은 간단합니다. 현장 규모를 확장하세요! {#}확장하기 전에 {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} 및 {#cooling_system} 업그레이드가 완전히 구매되었는지 확인해야 합니다.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	메인 메뉴에서 선택한 레벨 크기는 저장된 게임과 다릅니다. 원하는 경우 저장된 게임을 종료하고 새 게임을 시작할 수 있습니다.{#}저장된 게임으로 무엇을 하시겠습니까?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	사막 한가운데에 있는 폐차장. 여유 공간이 많고 건조한 날씨 덕분에 금속 스크랩을 보관하기에 완벽한 장소라고 할 수 있습니다. 더 이상은 아니지만. 2048년에는 날씨가 정말 변덕스럽습니다.{#}저는 이곳에서 인생을 보내기로 선택한 것이 아닙니다. 나는 부자가 아니며 나 같은 사람들에게는 국경이 폐쇄되어 있습니다. 나는 어렸을 때 우주를 정복하는 꿈을 꾸었습니다. 그런데 지금은 아무데도 갈 수 없는 상황에 처해 있습니다.{#}그래서 유일한 선택은 일하는 것입니다. 그리고 나는 결코 도움을 거부하지 않습니다. 여기서 당신을 만나서 기쁩니다. 당신과 함께라면 언젠가는 우주로 갈 수 있을 거예요.{#}그러면 어떨까요? 우리는 함께 일하고, 가능한 한 많은 부품을 재활용하고, 서로 도와 더 나은 삶을 살 수 있도록 돕습니다. 거래?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	방금 게임을 마쳤습니다!{#}보통 개발자들은 여기에 작업자 이름의 긴 목록을 배치합니다. 하지만 이 게임은 저 혼자 개발했습니다(Gleb The Polar Citizen).{#}아내에게 감사하고, 멋진 차를 만들어준 Anna M.과 모든 번역가들에게 특별한 감사를 전하고 싶습니다!!{#}원하신다면 , 이 게임을 계속 플레이하거나 제가 개발한 다른 게임을 찾아보세요!{#}힘내세요!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	광고 없음
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	기본 광고를 제거하기 위해 이 업그레이드를 구입할 수 있습니다.{#}리바드 광고에는 영향을 미치지 않습니다!{#}점수를 두 배로 늘리는 버튼은 계속 사용할 수 있습니다. 따라서 게임이 끝난 후 표시되는 광고에만 영향을 미칩니다.{#}또한 저를 지원할 방법을 찾고 계시다면 미디어 버튼이 있는 하트 버튼인 buymeacoffe를 방문하는 것이 좋습니다.

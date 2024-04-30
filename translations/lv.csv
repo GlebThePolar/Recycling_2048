@@ -1,0 +1,142 @@
+en	lv
+English	Latvian
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	vieta_jūsu_(tulkotāja)_vārds_šeit
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Pirkt
+Back to menu	Atpakaļ uz izvēlni
+Settings	Iestatījumi
+Play	Spēlēt
+Shop	Veikals
+Coins:	Monētas:
+Exit	Izeja
+Set the level	Iestatiet līmeni
+Sell All	Pārdod visu
+Details:	Sīkāka informācija:
+Double coins!{#}(Watch Ad)	Dubultās monētas!{#}(Skatieties reklāmu)
+Restart	Restartēt
+Advertisement watched	Reklāma noskatīta
+Received coins:	Saņemtās monētas:
+Sound volume	Skaņas skaļums
+next	Nākamais
+Tower crane	Torņa celtnis
+Workshop	Seminārs
+Hydraulic fence	Hidrauliskais žogs
+Sorting of details	Detaļu šķirošana
+Waterproofing	Hidroizolācija
+Preprocessing	Iepriekšēja apstrāde
+Equipment calibration	Iekārtas kalibrēšana
+Cooling system	Dzesēšanas sistēma
+Magnets	Magnēti
+Increase field size: {#price}	Palielināt lauka lielumu: {#price}
+See story	Skatīt stāstu
+Pause	Pauze
+End round	Beigt kārtu
+Continue	Turpināt
+End saved game, and start a new one	Pabeidziet saglabāto spēli un sāciet jaunu
+Tutorials	Pamācības
+Basic	Pamata
+Fence	Žogs
+Crane	Celtnis
+Workshop	Seminārs
+Before	Pirms tam
+Now	Tagad
+Next	Nākamais
+Max detail:	Maksimālā informācija:
+Bolt	Skrūve
+Gear	Gear
+Gear box	Ātrumkārba
+Bearing	Gultnis
+Piston	Virzulis
+Engine	Dzinējs
+Moped	Mopēds
+Motorcycle	Motocikls
+Car	Automašīna
+Pickup	Pacelt
+Truck	Smagā mašīna
+Biplane	Divplāksnis
+Helicopter	Helikopters
+Plane	Lidmašīna
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Raķešu dzinējs
+Soyuz	Sojuz
+Rocket	Raķete
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Sveicināti un laipni lūgti “Otrreizējā pārstrāde: 2048”! Vai esat gatavs kādam izaicinājumam? Šajā apmācībā jūs uzzināsit, kas ir nepieciešams pārstrādei, taču dažas funkcijas varat atrast tikai pats!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Ap lauku ir 4 magnēti (oranži objekti). Varat tos aktivizēt, velkot (pārvietojiet pirkstu pa ekrānu). Tie var pārvietot jebkādus magnētiskus materiālus – lieliski piemēroti detaļām, ar kurām mēs strādājam! Izmēģiniet to, trīs reizes pārvietojot objektu (piemēram, skrūvi).
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	Ir parādījusies jauna detaļa: skrūve. Lai gan daži to var uzskatīt par atkritumiem, mēs varam to pārstrādāt kaut ko modernākā veidā, piemēram, pārnesumā!
+Recycle two bolts into a gear by moving them together.	Pārstrādājiet divas skrūves zobratā, pārvietojot tās kopā.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Fantastiski! Jūs tikko esat pārstrādājis atkritumus! Turpiniet tā, un kopā mēs varam sasniegt savu mērķi izveidot labāku dzīvi.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	Ak, nē, magnēts ir saplīsis! :({#} Redzi, īstais magnēts tagad ir sarkans.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Mēģiniet dažas reizes aktivizēt pareizo magnētu un redzēt, ka nekas nenotiek. (Velciet pa labi)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Redziet, nekas nenotika. Tagad mēģiniet vilkt dažādos virzienos (augšup un lejup). Pagaidīsim, kamēr magnēts pats salabosies.
+Done! After several moves, all magnets will be repaired.	Gatavs! Pēc vairākām kustībām visi magnēti tiks salaboti.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Tagad parunāsim par bioloģiskajiem atkritumiem (ābolu pārpalikumiem). Mēģiniet to pārvietot.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Tā kā bioloģiskajiem atkritumiem trūkst magnētisko materiālu, magnēti nevar tos pārvietot.
+Don't forget to sort your garbage! :)	Neaizmirstiet šķirot atkritumus! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Tas ir rūsas atkritumi. To arī nevar pārstrādāt. Skaitlis norāda, cik daudz laika tam ir nepieciešams, lai tas sarūsētu un pazustu.
+Amazing! You've improved your recycling skills!	Apbrīnojami! Jūs esat uzlabojis savas otrreizējās pārstrādes prasmes!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Apsveicam ar darbnīcas iegūšanu! Iedziļināsimies īsā pamācībā par to, kā to maksimāli izmantot.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Izmantojot darbnīcu, uzreiz apvienojiet vienkāršas detaļas no visām jomām. Izmēģiniet to tūlīt!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Tas ir diezgan forši, vai ne? Vienkārši paturiet prātā atdzišanu. Tas aizņem kādu laiku, tāpēc izmantojiet to saprātīgi!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Esiet piesardzīgs, ja darbnīcai ir pieejama tikai viena detaļa. Tas nevarēs to apvienot un vienkārši atgriezīs preci atpakaļ.
+So, just use it carefully.	Tātad, izmantojiet to uzmanīgi.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Darbnīca spīd, kad jūs ieskauj kaitinošas vienkāršas detaļas. Tas ir ideāls rīks, lai efektīvi sakārtotu savu telpu!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Apsveicam ar celtņa iegādi! Šeit ir īsa apmācība par to, kā ar to strādāt.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Lai izmantotu celtni, vienkārši pieskarieties ikonai. Tagad esat iegājis CRANE režīmā.
+In CRANE mode, choose an item on the field that you'd like to interact with.	CRANE režīmā izvēlieties vienumu laukā, ar kuru vēlaties mijiedarboties.
+Next, select an empty field where you want to move the chosen item.	Pēc tam atlasiet tukšu lauku, uz kuru vēlaties pārvietot izvēlēto vienumu.
+Now, press on the crane once more to execute the action.	Tagad vēlreiz nospiediet celtni, lai veiktu darbību.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	Veicot jaunināšanu, jūs iegūsit iespēju mainīt ne tikai uz tukšiem laukiem, bet arī apmainīt tos ar citiem vienumiem.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Nebaidieties eksperimentēt! Ja rodas kļūda, spēle sniegs norādi. {#}Mēģiniet izraisīt kļūdu (piemēram, noklikšķiniet uz 2 tukšām šūnām).
+This is the error indication.	Šī ir kļūdas indikācija.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	Un visbeidzot, bet ne mazāk svarīgi, mēģiniet atcelt atlasi. Lai to izdarītu, nospiediet uz iepriekš atlasītā vienuma vai uz celtņa (ja vēl neesat izvēlējies otro šūnu).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Apsveicam ar žoga modernizāciju! Paskatīsimies, uz ko tas tagad ir spējīgs.
+To use the fence, click on one of the blue (cyan) objects around the field.	Lai izmantotu žogu, noklikšķiniet uz viena no zilajiem (ciānzilajiem) objektiem ap lauku.
+Swipe the chosen object(s) towards the fence you've initiated.	Pārvelciet izvēlēto(-os) objektu(-s) uz iniciēto žogu.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Žogiem parasti ir vajadzīgs zināms laiks, pirms tos atkal var izmantot, tāpēc plānojiet savas kustības atbilstoši.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Hidrauliskais žogs ir spēles mainītājs — tas var tikt galā ar visa veida atkritumiem, pat nemagnētiskiem.
+It's your go-to tool for bio-garbage removal. Give it a shot!	Tas ir jūsu galvenais rīks bioloģisko atkritumu izvešanai. Izmēģiniet!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Jūs tikko iegādājāties vienu jauninājumu, tas ir, ~10% no wahta ir nepieciešams lauka lieluma palielināšanai!
+Keep up! :D	Turi līdzi! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	Jūs saņemsiet organiskos atkritumus ar varbūtību {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	Jūs saņemsiet rūsas atliekas ar varbūtību {#prob}%
+The probability of obtaining an improved detail is {#prob}%	Varbūtība iegūt uzlabotu detaļu ir {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	Divu detaļu veiksmīgas sapludināšanas iespējamība ir aptuveni {#prob}%
+Magnets will break with a probability of {#prob}%	Magnēti salūzīs ar {#prob}% varbūtību
+More details will drop on the field after {#move} moves	Plašāka informācija tiks parādīta laukā pēc {#move} pārvietošanās
+No Workshop	Nav darbnīcas
+Collects {#cell1}. Cooldown time:	Savāc {#cell1}. Atdzesēšanas laiks:
+Collects {#cell1} and {#cell2}. Cooldown time:	Apkopo {#cell1} un {#cell2}. Atdzesēšanas laiks:
+No Crane	Nav celtņa
+Move items up to {#cell3}.	Pārvietot vienumus uz augšu uz {#cell3}.
+Move items up to {#cell6}.	Pārvietot vienumus uz augšu uz {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Pārvietojiet vienumus uz augšu uz {#cell6} un apmainiet tos ar vienumiem līdz {#cell2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Pārvietojiet vienumus uz augšu uz {#cell11} un apmainiet tos ar vienumiem līdz {#cell6}.
+Move anything and swap it with items up to {#cell9}.	Pārvietojiet jebko un apmainiet to ar vienumiem līdz {#cell9}.
+Move and swap anything!	Pārvietojieties un samainiet jebko!
+Simple fence	Vienkāršs žogs
+Available again after following number of moves: {#move}	Atkal pieejams pēc šāda kustību skaita: {#move}
+Details failed to merge!	Detaļu sapludināšana neizdevās!
+Warning! Langueages besides English could have some errors (and English also, lol)	Brīdinājums! Valodās, izņemot angļu valodu, var būt dažas kļūdas (un arī angļu valodā, lol)
+The game was saved. You can exit, and resume it later	Spēle tika saglabāta. Varat iziet un atsākt to vēlāk
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Celtnis ir rīks, kas ļauj pārvietot objektus uz lauka. Pamata versija darbojas tikai velkot gaismas objektus uz tukšu vietu. Izmantojot jauninājumus, varat vilkt sarežģītākus vienumus un pat apmainīt divus objektus. Lai to izmantotu, noklikšķiniet uz celtņa ikonas, atlasiet objektu un izvēlieties vietu, kur vēlaties to novietot.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Vai esat noguris no vienkāršām detaļām, kas tiek sajauktas ar jūsu uzlabotajām versijām? Izmantojiet darbnīcu!{#}Darbnīca — neliela atsevišķa ēka, kurā ir iespējama vienkāršu detaļu manuāla apstrāde. Jo augstāks ir darbnīcas līmenis, jo vairāk daļu tā var apstrādāt. Turklāt uzlabojumi ļauj to izmantot biežāk.{#}Lai izmantotu, noklikšķiniet uz darbnīcas ikonas, ja vien tā nav atdzisusi.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Vai jūs redzējāt to lietu ap jūsu lauka stūriem? Kā padarīt to noderīgu? Uzlabojiet savu žogu, pievienojot iespēju to atvērt!{#}Ļauj atbrīvoties no nemehāniskiem gružiem. Ir iespējami turpmāki sūkņu uzlabojumi, ļaujot biežāk izmantot hidraulisko nožogojumu.{#}Lai izmantotu, noklikšķiniet uz vajadzīgās žoga daļas un velciet daļas tajā virzienā. Visas daļas rindā, kur ir atvērts žogs, tiks izmestas. Atcerieties: drošība pirmajā vietā!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Diemžēl ne visi ir atbildīgi par atkritumu šķirošanu. Dažreiz konteineri ar atkritumiem saskaras ar koka gabaliem, atkritumiem un citiem parastiem atkritumiem.{#}Uzstādiet papildu šķirošanas aprīkojumu un samaziniet nemehānisko gružu procentuālo daudzumu līdz nullei.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	Globālās klimata pārmaiņas un pat tuksnesī lietus ir kļuvušas par izplatītām. Varbūt kādam tas ir pat noderīgi, taču dažas detaļas var sarūsēt, padarot tās neiespējamu pārstrādāt. Hidroizolācijas stiprināšana samazina detaļu korozijas iespējamību.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Vai vēlaties paātrināt pārstrādes procesu? Pievienojiet savam transportētājam priekšmontāžas vienību! Ja tas būs instalēts, dažas nomestās daļas būs uzlabotas.{#}Šis jauninājums ir obligāts, ja vēlaties palielināt sava lauka lielumu.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Nekas nav ideāls. Tas attiecas arī uz montāžas procesu. Vai esat ievērojuši, ka dažkārt sapludināšanas laikā detaļas saplīst? Par laimi, varu apliecināt, ka tas skar tikai dzinēja salikšanu – sarežģītākas detaļas nav problēma. Bet tas joprojām ir kaitinoši, vai ne?{#}Bet jūs varat padarīt šo procesu uzticamāku, kalibrējot aprīkojumu.{#}Šis jauninājums ir obligāts, ja vēlaties palielināt sava lauka lielumu.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Priekšrocības priekšmetu sakraušanai tuksnesī – tie nerūsē daudz sausā vidē. Mīnusi — šeit var būt ļoti karsts.{#}Jo vairāk jūs strādājat, jo vairāk laika jums jāgaida starp katru pārstrādi, lai jūsu aprīkojums varētu atgriezties pie atbilstošas ​​temperatūras. Tas noved pie tā, ka starp jūsu kustībām uzkrājas vairāk priekšmetu. Varat jaunināt dzesēšanas sistēmu, nodrošinot sev ilgāku laiku otrreizējai pārstrādei.{#}Šis jauninājums ir obligāts, ja vēlaties palielināt sava lauka lielumu.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	DIY elektromagnēti dažreiz var neizdoties. Uzlabojiet tos, lai samazinātu darbības traucējumus.{#}Šis jauninājums ir obligāts, ja vēlaties palielināt sava lauka lielumu.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Vai esat kādreiz sev jautājuši, kāpēc man ir tik mazs lauks? Vai nav neērti strādāt ar lielām būvēm? Risinājums ir vienkāršs – paplašiniet sava lauka izmērus! {#}Ņemiet vērā, ka pirms paplašināšanas jums ir jāpārliecinās, vai ir pilnībā iegādāti šādi jauninājumi: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} un {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Līmeņa lielums, kuru esat izvēlējies galvenajā lietojumprogrammā, atšķiras no saglabātās spēles. Ja vēlaties, varat beigt izdalīto spēli un sākt jaunu.{#}Ko vēlaties darīt ar saglabāto spēli?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Atkritumu krātuve tuksneša vidū. Varētu teikt, ka tā ir ideāla vieta metāllūžņu uzglabāšanai — daudz brīvas vietas un sauss laiks. Lai gan vairs ne. 2048. gadā laikapstākļi bija ļoti traki.{#}Es neizvēlējos šeit pavadīt savu dzīvi. Es neesmu bagāts, un tādiem cilvēkiem kā es robežas ir slēgtas. Kad es biju bērns, es sapņoju par kosmosa iekarošanu. Un tagad es esmu iestrēdzis nekurienes vidū.{#}Tāpēc vienīgā iespēja ir strādāt. Un es nekad neatsaku palīdzību, es priecājos jūs šeit atrast. Ar jums es zinu, ka kādreiz es nokļūšu kosmosā.{#}Tātad, mēs strādājam kopā, pārstrādājam tik daudz detaļu, cik vien iespējams, un palīdzam viens otram uzlabot mūsu dzīvi. Darījums?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Jūs tikko pabeidzāt spēli!{#}Parasti izstrādātāji šeit ievieto garu darbinieku vārdu sarakstu. Bet šo spēli izstrādāju tikai es (Gleb The Polar Citizen).{#}Es vēlos pateikties savai sievai, īpašu paldies Annai M. par lielisko auto un visiem tulkotājiem!{#}Ja vēlaties! , varat turpināt spēlēt šo spēli vai meklēt citas manis izstrādātas spēles!{#}Palieciet stiprs!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Nav reklāmu
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Varat iegādāties šo jauninājumu, lai noņemtu pamata reklāmas.{#}Tas neietekmēs atlīdzības reklāmas!{#}Poga rezultātu dubultošanai joprojām būs pieejama. Tāpēc tas ietekmēs tikai reklāmas, kas tiek rādītas pēc spēles.{#}Tāpat, ja jūs tikai meklējat veidu, kā mani atbalstīt, labāk apsvērt iespēju apmeklēt buymeacoffe — sirds pogu, kas atrodas kopā ar multivides pogām.

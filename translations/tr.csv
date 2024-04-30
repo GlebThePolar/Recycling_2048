@@ -1,0 +1,142 @@
+en	tr
+English	Turkish
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	place_your_(çevirmen)_name_here
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Satın almak
+Back to menu	Menüye dön
+Settings	Ayarlar
+Play	Oynamak
+Shop	Mağaza
+Coins:	Madeni paralar:
+Exit	çıkış
+Set the level	Seviyeyi ayarlayın
+Sell All	Hepsini sat
+Details:	Detaylar:
+Double coins!{#}(Watch Ad)	Çift para!{#}(Reklamı İzle)
+Restart	Tekrar başlat
+Advertisement watched	Reklam izlendi
+Received coins:	Alınan paralar:
+Sound volume	Ses seviyesi
+next	Sonraki
+Tower crane	Kule vinci
+Workshop	Atölye
+Hydraulic fence	Hidrolik çit
+Sorting of details	Ayrıntıların sıralanması
+Waterproofing	Su Yalıtımı
+Preprocessing	Ön işleme
+Equipment calibration	Ekipman kalibrasyonu
+Cooling system	Soğutma sistemi
+Magnets	Mıknatıslar
+Increase field size: {#price}	Alan boyutunu artırın: {#price}
+See story	Hikayeye bakın
+Pause	Duraklat
+End round	Turu bitir
+Continue	Devam etmek
+End saved game, and start a new one	Kaydedilen oyunu sonlandırın ve yeni bir oyuna başlayın
+Tutorials	Öğreticiler
+Basic	Temel
+Fence	Çit
+Crane	Vinç
+Workshop	Atölye
+Before	Önce
+Now	Şimdi
+Next	Sonraki
+Max detail:	Maksimum ayrıntı:
+Bolt	cıvata
+Gear	Vites
+Gear box	Dişli kutusu
+Bearing	Rulman
+Piston	Piston
+Engine	Motor
+Moped	Moped
+Motorcycle	Motosiklet
+Car	Araba
+Pickup	Toplamak
+Truck	Kamyon
+Biplane	Çift kanatlı
+Helicopter	Helikopter
+Plane	Uçak
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Roket motoru
+Soyuz	Soyuz
+Rocket	Roket
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Merhaba, 'Geri Dönüşüm: 2048'e hoş geldiniz! Biraz meydan okumaya hazır mısın? Bu eğitimde geri dönüşüm için gereken temel bilgileri öğreneceksiniz, ancak bazı özellikleri yalnızca kendi başınıza bulabilirsiniz!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Alanın etrafında 4 mıknatıs vardır (turuncu nesneler). Bunları kaydırarak (parmağınızı ekranda hareket ettirerek) etkinleştirebilirsiniz. Her türlü manyetik malzemeyi hareket ettirebilirler. üzerinde çalıştığımız detaylar için mükemmel! Bir nesneyi (cıvata gibi) üç kez hareket ettirerek deneyin.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	Yeni bir detay ortaya çıktı: bir cıvata. Bazıları bunu çöp olarak görse de, biz onu dişli gibi daha gelişmiş bir şeye dönüştürebiliriz!
+Recycle two bolts into a gear by moving them together.	İki cıvatayı birlikte hareket ettirerek dişliye dönüştürün.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Fantastik! Az önce bir miktar çöpü geri dönüştürdünüz! Böyle devam edersek birlikte daha iyi bir yaşam yaratma hedefimize ulaşabiliriz.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	Oh, hayır, mıknatıs kırıldı! :({#} Görüyorsunuz, sağdaki mıknatıs artık kırmızı.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Doğru mıknatısı birkaç kez etkinleştirmeyi deneyin ve hiçbir şeyin olmadığını görün. (Sağa kaydırın)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Görüyorsun, hiçbir şey olmadı. Şimdi farklı yönlere (yukarı ve aşağı) kaydırmayı deneyin. Mıknatıs kendini tamir edene kadar bekleyelim.
+Done! After several moves, all magnets will be repaired.	Tamamlamak! Birkaç hamleden sonra tüm mıknatıslar onarılacaktır.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Şimdi biyo çöplerden (elma artığı) bahsedelim. Hareket ettirmeyi deneyin.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Biyo çöplerde manyetik materyal bulunmadığından mıknatıslar onu hareket ettiremez.
+Don't forget to sort your garbage! :)	Çöplerinizi ayırmayı unutmayın! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Bu bir pas çöpüdür. O da geri dönüştürülemez. Sayı, paslanması ve kaybolması için ne kadar zamana ihtiyacı olduğunu gösterir.
+Amazing! You've improved your recycling skills!	İnanılmaz! Geri dönüşüm becerilerinizi geliştirdiniz!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Atölyeyi satın aldığınız için tebrikler! Şimdi bundan en iyi şekilde nasıl yararlanabileceğinize dair hızlı bir eğitime dalalım.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Atölyeyi kullanarak tüm alanlardaki basit ayrıntıları anında birleştirin. Şimdi deneyin!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Oldukça hoş, değil mi? Bekleme süresini aklınızda bulundurun. Biraz zaman alır, bu yüzden bunu akıllıca kullanın!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Atölye için yalnızca tek bir detay mevcut olduğunda dikkatli olun. Ürünü birleştiremeyecek ve yalnızca ürünü geri gönderecektir.
+So, just use it carefully.	Bu yüzden dikkatli kullanın.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Atölye, etrafınız sinir bozucu basit ayrıntılarla çevrili olduğunda parlar. Alanınızı verimli bir şekilde düzenlemek için mükemmel bir araçtır!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Vinci satın aldığınız için tebrikler! İşte bununla nasıl çalışılacağına dair kısa bir eğitim.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Vinci kullanmak için simgeye dokunmanız yeterlidir. Artık CRANE moduna girdiniz.
+In CRANE mode, choose an item on the field that you'd like to interact with.	CRANE modunda, sahada etkileşim kurmak istediğiniz bir öğeyi seçin.
+Next, select an empty field where you want to move the chosen item.	Daha sonra seçilen öğeyi taşımak istediğiniz boş bir alan seçin.
+Now, press on the crane once more to execute the action.	Şimdi eylemi gerçekleştirmek için vince bir kez daha basın.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	Yükseldikçe, yalnızca boş alanları değiştirmekle kalmayacak, aynı zamanda bunları diğer öğelerle de değiştirebileceksiniz.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Denemekten korkmayın! Bir hatayla karşılaşırsanız oyun bir gösterge sağlayacaktır. {#}Hataya neden olmaya çalışın (ör. 2 boş hücreye tıklayın).
+This is the error indication.	Bu hata göstergesidir.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	Ve son olarak seçimi kaldırmayı deneyin. Bunu yapmak için önceden seçilen öğeye veya vinçte (henüz ikinci hücreyi seçmediyseniz) basın.
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Çitinizi yükselttiğiniz için tebrikler! Şimdi neler yapabileceğini görelim.
+To use the fence, click on one of the blue (cyan) objects around the field.	Çiti kullanmak için alanın etrafındaki mavi (mavi) nesnelerden birine tıklayın.
+Swipe the chosen object(s) towards the fence you've initiated.	Seçilen nesneyi/nesneleri başlattığınız çite doğru kaydırın.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Çitlerin tekrar kullanılabilmesi için genellikle biraz zamana ihtiyacı vardır, bu nedenle hareketlerinizi buna göre planlayın.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Hidrolik çit oyunun kurallarını değiştirir. Manyetik olmayanlar da dahil olmak üzere her türlü çöpün üstesinden gelebilir.
+It's your go-to tool for bio-garbage removal. Give it a shot!	Biyo-çöplerin temizlenmesi için başvuracağınız araçtır. Bi dene!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Az önce bir yükseltme satın aldınız, yani alan boyutunu artırmak için gerekenin ~%10'u!
+Keep up! :D	Sürdür! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	%{#prob} olasılıkla organik atık alacaksınız
+You will recive rust debris with probabiliy of {#prob}%	%{#prob} olasılıkla pas kalıntıları alacaksınız
+The probability of obtaining an improved detail is {#prob}%	İyileştirilmiş bir ayrıntı elde etme olasılığı %{#prob}
+The probability of successfully merging two details is approximately {#prob}%	İki ayrıntıyı başarıyla birleştirme olasılığı yaklaşık %{#prob}
+Magnets will break with a probability of {#prob}%	Mıknatıslar %{#prob} olasılıkla kırılacak
+More details will drop on the field after {#move} moves	{#move} hamleden sonra sahaya daha fazla ayrıntı eklenecek
+No Workshop	Atölye Yok
+Collects {#cell1}. Cooldown time:	{#cell1}'i toplar. Bekleme süresi:
+Collects {#cell1} and {#cell2}. Cooldown time:	{#cell1} ve {#cell2}'yi toplar. Bekleme süresi:
+No Crane	Vinç yok
+Move items up to {#cell3}.	Öğeleri {#cell3} hücresine taşıyın.
+Move items up to {#cell6}.	Öğeleri {#cell6} hücresine taşıyın.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Öğeleri {#cell6}'a kadar taşıyın ve bunları {#cell2}'ye kadar olan öğelerle değiştirin.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Öğeleri {#cell11}'a kadar taşıyın ve bunları {#cell6}'a kadar olan öğelerle değiştirin.
+Move anything and swap it with items up to {#cell9}.	Herhangi bir şeyi taşıyın ve {#cell9}'a kadar olan öğelerle değiştirin.
+Move and swap anything!	Her şeyi taşıyın ve değiştirin!
+Simple fence	Basit çit
+Available again after following number of moves: {#move}	Aşağıdaki hamle sayısından sonra tekrar kullanılabilir: {#move}
+Details failed to merge!	Ayrıntılar birleştirilemedi!
+Warning! Langueages besides English could have some errors (and English also, lol)	Uyarı! İngilizce dışındaki dillerde bazı hatalar olabilir (ve İngilizce de, hahaha)
+The game was saved. You can exit, and resume it later	Oyun kaydedildi. Çıkabilir ve daha sonra devam edebilirsiniz
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Vinç, sahadaki nesnelerin yerini değiştirmenizi sağlayan bir araçtır. Temel sürüm yalnızca hafif nesnelerin boş bir yere sürüklenmesiyle çalışır. Yükseltmelerle daha karmaşık öğeleri sürükleyebilir ve hatta iki nesneyi değiştirebilirsiniz. Kullanmak için vinç simgesine tıklayın, nesneyi seçin ve yerleştirmek istediğiniz yeri seçin.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Gelişmiş yapılarınızla uğraşan basit parçalardan bıktınız mı? Atölyeyi kullanın!{#}Atölye - basit parçaların manuel olarak işlenmesinin mümkün olduğu küçük, ayrı bir bina. Atölyenin seviyesi ne kadar yüksek olursa o kadar fazla parça işlenebilir. Ayrıca iyileştirme, onu daha sık kullanmanıza olanak tanır.{#}Kullanmak için, bekleme süresinde olmadığı sürece atölye simgesini tıklayın.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Tarlanızın köşelerinde o şeyi gördünüz mü? Bunu faydalı hale getirmeye ne dersiniz? Açma özelliğini ekleyerek çitinizi geliştirin!{#}Mekanik olmayan döküntülerden kurtulmanızı sağlar. Hidrolik çitin daha sık kullanılmasına olanak sağlayacak şekilde pompalarda daha fazla iyileştirme yapılması mümkündür.{#}Kullanmak için çitin istediğiniz bölümüne tıklayın ve parçaları o yöne doğru çekin. Çitin açık olduğu sıradaki tüm parçalar atılacaktır. Unutmayın: önce güvenlik!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Maalesef atıkların ayrıştırılmasından herkes sorumlu değil. Bazen çöp konteynerlerinde tahta parçaları, atıklar ve diğer sıradan çöpler bulunabilir.{#}Ek ayıklama ekipmanı takın ve mekanik olmayan çöp yüzdesini sıfıra indirin.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	Küresel iklim değişikliği, çöllerde bile yağmurlar olağan hale geldi. Belki birileri için faydalıdır, ancak bazı parçalar paslanıp geri dönüştürülmesini imkansız hale getirebilir. Su yalıtımının güçlendirilmesi, parçaların korozyon olasılığını azaltır.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Geri dönüşüm sürecini hızlandırmak mı istiyorsunuz? Taşıyıcınıza bir ön montaj ünitesi ekleyin! Kurulduğunda bazı düşen parçalar daha gelişmiş olacaktır.{#}Tarlanızın boyutunu artırmak istiyorsanız bu yükseltme zorunludur.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Hiçbir sey mükemmel değildir. Aynı zamanda montaj süreci için de geçerlidir. Bazen birleştirme sırasında parçaların kırıldığını fark ettiniz mi? Neyse ki, sizi temin ederim ki bu durum yalnızca motorun montajını etkiliyor. Daha karmaşık parçalar sorun değil. Ama yine de sinir bozucu, değil mi?{#}Ancak ekipmanınızı kalibre ederek bu süreci daha güvenilir hale getirebilirsiniz.{#}Tarlanızın boyutunu artırmak istiyorsanız bu yükseltme zorunludur.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Eşyaları çöllerde istiflemenin artıları: Kuru ortamlarda fazla paslanmazlar. Eksileri - burası gerçekten sıcak olabilir.{#}Ne kadar çok çalışırsanız, her geri dönüşüm arasında o kadar çok beklemeniz gerekir, bu da ekipmanınızın uygun sıcaklığa dönmesine olanak tanır. Hareketleriniz arasında daha fazla öğenin birikmesine yol açar. Kendinize daha uzun bir geri dönüşüm süresi sağlayacak şekilde soğutma sistemini yükseltebilirsiniz.{#}Tarlanızın boyutunu artırmak istiyorsanız bu yükseltme zorunludur.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	DIY elektromıknatıslar bazen başarısız olabilir. Arızaları azaltmak için bunları iyileştirin.{#}Tarlanızın boyutunu artırmak istiyorsanız bu yükseltme zorunludur.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Hiç kendinize neden bu kadar küçük bir alanım olduğunu sordunuz mu? Büyük yapılarla çalışmak sakıncalı değil mi? Çözüm basit. Alan boyutunuzu genişletin! {#}Genişletmeden önce aşağıdaki yükseltmelerin tamamen satın alındığından emin olmanız gerektiğini unutmayın: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} ve {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Ana menüde seçmiş olduğunuz seviye boyutu kayıtlı oyununuzdan farklıdır. İsterseniz sevilen oyunu sonlandırıp yeni bir oyuna başlayabilirsiniz.{#}Kayıtlı oyunla ne yapmak istiyorsunuz?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Bir çöplük, ortasında bir çöl. Metal hurdasını depolamak için mükemmel bir yer olduğunu söyleyebilirsiniz - çok fazla boş alan ve kuru hava. Ancak artık değil. 2048'de hava gerçekten delirdi.{#}Hayatımı burada geçirmeyi seçmedim. Zengin değilim ve sınırlar bana benzer insanlar için kapalı. Çocukken uzayı fethetmeyi hayal ederdim. Ve şimdi, kendimi hiçbir şeyin ortasında sıkışmış buluyorum.{#}Yani, tek seçenek çalışmak. Ve asla yardımı reddetmem, seni burada bulduğuma sevindim. Seninle, bir gün uzaya ulaşacağımı biliyorum.{#}Yani, ne dersin: birlikte çalışalım, mümkün olduğunca çok parça geri dönüştürelim ve birbirimize hayatımızı daha iyi yapmada yardım edelim. Anlaştık mı?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Oyunu yeni bitirdiniz!{#}Genelde geliştiriciler buraya işçilerin adlarından oluşan uzun bir liste yerleştirir. Ancak bu oyun yalnızca benim tarafımdan geliştirildi (Gleb The Polar Citizen).{#}Karıma, muhteşem araba için Anna M.'ye ve tüm çevirmenlere özel olarak teşekkür etmek istiyorum!!{#}İstersen , bu oyunu oynamaya devam edebilir veya geliştirdiğim diğer oyunları arayabilirsin!{#}Güçlü kal!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Reklamsız
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Temel reklamların kaldırılması için bu yükseltmeyi satın alabilirsiniz.{#}Geçerli reklamları etkilemeyecektir!{#}Puanları ikiye katlama düğmesi hâlâ kullanılabilir olacaktır. Bu nedenle, yalnızca oyundan sonra gösterilen reklamları etkileyecektir.{#}Ayrıca, beni desteklemenin bir yolunu arıyorsanız, medya düğmelerinin yanında bulunan kalp düğmesi olan buymeacoffe'yi ziyaret etmeyi düşünseniz iyi olur.

@@ -1,0 +1,142 @@
+en	ja
+English	日本語
+lat	ja
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	あなた（翻訳者）の名前をここに配置してください
+<!-- Basic names (objects and buttons) -->																																													
+Buy	買う
+Back to menu	メニューに戻る
+Settings	設定
+Play	遊ぶ
+Shop	店
+Coins:	コイン:
+Exit	出口
+Set the level	レベルを設定する
+Sell All	売り切る
+Details:	詳細：
+Double coins!{#}(Watch Ad)	コインが 2 倍になります!{#}(広告を見る)
+Restart	再起動
+Advertisement watched	視聴した広告
+Received coins:	受け取ったコイン:
+Sound volume	音量
+next	次
+Tower crane	タワークレーン
+Workshop	ワークショップ
+Hydraulic fence	水圧フェンス
+Sorting of details	詳細の並べ替え
+Waterproofing	防水加工
+Preprocessing	前処理
+Equipment calibration	機器の校正
+Cooling system	冷却システム
+Magnets	磁石
+Increase field size: {#price}	フィールドサイズを増やす: {#price}
+See story	ストーリーを見る
+Pause	一時停止
+End round	エンドラウンド
+Continue	続く
+End saved game, and start a new one	保存したゲームを終了し、新しいゲームを開始する
+Tutorials	チュートリアル
+Basic	基本
+Fence	フェンス
+Crane	クレーン
+Workshop	ワークショップ
+Before	前に
+Now	今
+Next	次
+Max detail:	最大詳細:
+Bolt	ボルト
+Gear	装備
+Gear box	ギアボックス
+Bearing	ベアリング
+Piston	ピストン
+Engine	エンジン
+Moped	原付
+Motorcycle	オートバイ
+Car	車
+Pickup	選び出す
+Truck	トラック
+Biplane	複葉機
+Helicopter	ヘリコプター
+Plane	飛行機
+AN-225 Mriya	AN-225 ムリヤ
+Rocket engine	ロケットエンジン
+Soyuz	ソユーズ
+Rocket	ロケット
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	こんにちは、「リサイクル: 2048」へようこそ!挑戦する準備はできていますか?このチュートリアルでは、リサイクルに必要な基礎を学びますが、自分でしか見つけられない機能もいくつかあります。
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	フィールド (オレンジ色のオブジェクト) の周囲に 4 つの磁石があります。スワイプ (画面上で指を動かす) することでアクティブにできます。あらゆる磁性材料を動かすことができるので、私たちが扱う細部に最適です。オブジェクト (ボルトなど) を 3 回動かしてみてください。
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	新しいディテール、ボルトが登場しました。それをゴミだと思う人もいるかもしれませんが、ギアなどのより高度なものにリサイクルすることができます。
+Recycle two bolts into a gear by moving them together.	2 本のボルトを一緒に動かしてギアにリサイクルします。
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	素晴らしい！ゴミをリサイクルしました！それを続けて、一緒により良い生活を築くという目標を達成しましょう。
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	あ、いや、磁石が壊れてしまいました！ :({#} ほら、右側の磁石が赤くなっています。
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	右側の磁石を数回作動させてみて、何も起こらないことを確認してください。 (右にスワイプ)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	わかりますか、何も起こりませんでした。次に、さまざまな方向 (上下) にスワイプしてみます。磁石が自然に修復されるまで待ちましょう。
+Done! After several moves, all magnets will be repaired.	終わり！数回移動すると、すべての磁石が修復されます。
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	さて、バイオゴミ（リンゴの残りカス）についてお話します。動かしてみてください。
+Because bio garbage lacks magnetic materials, magnets can't move it.	バイオゴミには磁性体が含まれていないため、磁石で動かすことができません。
+Don't forget to sort your garbage! :)	ゴミの分別も忘れずに！ :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	これは錆びたゴミです。リサイクルもできません。数字は、錆びて消えるまでに必要な時間を示します。
+Amazing! You've improved your recycling skills!	すばらしい！リサイクルスキルが向上しました！
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	ワークショップ取得おめでとうございます！それを最大限に活用する方法についての簡単なチュートリアルを見てみましょう。
+Combine simple details instantly from all fields using the workshop. Give it a try now!	ワークショップを使用して、あらゆる分野のシンプルなディテールを瞬時に組み合わせます。今すぐ試してみてください!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	かなりクールですよね？クールダウンに注意してください。時間がかかるので、賢く利用しましょう！
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	ワークショップで利用できる詳細が 1 つしかない場合は注意してください。組み合わせることはできず、商品は返送されるだけです。
+So, just use it carefully.	したがって、慎重に使用してください。
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	面倒なシンプルなディテールに囲まれたときに、ワークショップは輝きます。スペースを効率的に整理整頓するのに最適なツールです。
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	クレーンのご購入おめでとうございます。これを使用する方法についての簡単なチュートリアルを次に示します。
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	クレーンを使用するには、アイコンをタップするだけです。これでCRANEモードに入りました。
+In CRANE mode, choose an item on the field that you'd like to interact with.	CRANE モードでは、フィールド上で操作したいアイテムを選択します。
+Next, select an empty field where you want to move the chosen item.	次に、選択した項目を移動する空のフィールドを選択します。
+Now, press on the crane once more to execute the action.	ここで、もう一度クレーンを押してアクションを実行します。
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	アップグレードすると、空のフィールドに変更するだけでなく、他のアイテムと交換することもできるようになります。
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	実験することを恐れないでください！エラーが発生した場合は、ゲームによって通知が表示されます。 {#}エラーを引き起こしてみます (例: 2 つの空のセルをクリックします)。
+This is the error indication.	これがエラー表示です。
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	最後に、選択を解除してみてください。これを行うには、以前に選択した項目を押すか、クレーン (2 番目のセルをまだ選択していない場合) を押します。
+Congratulations on upgrading your fence! Let's see what it is capable of now.	フェンスのアップグレードおめでとうございます!では、今何ができるのか見てみましょう。
+To use the fence, click on one of the blue (cyan) objects around the field.	フェンスを使用するには、フィールドの周囲にある青色 (シアン) のオブジェクトの 1 つをクリックします。
+Swipe the chosen object(s) towards the fence you've initiated.	選択したオブジェクトを開始したフェンスに向かってスワイプします。
+Fences usually need some time before you can use them again, so plan your moves accordingly.	フェンスは通常、再び使用できるようになるまでに時間がかかるため、それに応じて移動を計画してください。
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	油圧式フェンスは革新的な製品です。非磁性のゴミも含め、あらゆる種類のゴミを処理できます。
+It's your go-to tool for bio-garbage removal. Give it a shot!	バイオゴミを除去するための頼りになるツールです。試してみます！
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	アップグレードを 1 つ購入しました。つまり、フィールド サイズを増やすには最大 10% のワットが必要です。
+Keep up! :D	ついていく！ :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	{#prob}% の確率で有機廃棄物を受け取ります
+You will recive rust debris with probabiliy of {#prob}%	{#prob}%の確率で錆びの破片を受け取ります
+The probability of obtaining an improved detail is {#prob}%	改善された詳細が得られる確率は {#prob}% です
+The probability of successfully merging two details is approximately {#prob}%	2 つの詳細を正常にマージできる確率は約 {#prob}% です
+Magnets will break with a probability of {#prob}%	磁石は {#prob}% の確率で壊れます
+More details will drop on the field after {#move} moves	{#move} の移動後に詳細がフィールドにドロップされます
+No Workshop	ワークショップなし
+Collects {#cell1}. Cooldown time:	{#cell1} を収集します。クールダウン時間:
+Collects {#cell1} and {#cell2}. Cooldown time:	{#cell1} と {#cell2} を収集します。クールダウン時間:
+No Crane	クレーンなし
+Move items up to {#cell3}.	項目を {#cell3} まで移動します。
+Move items up to {#cell6}.	項目を {#cell6} まで移動します。
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	アイテムを {#cell6} まで移動し、{#cell2} までのアイテムと入れ替えます。
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	アイテムを {#cell11} まで移動し、{#cell6} までのアイテムと入れ替えます。
+Move anything and swap it with items up to {#cell9}.	何かを移動して、{#cell9} までのアイテムと交換します。
+Move and swap anything!	何でも移動して交換しましょう！
+Simple fence	シンプルなフェンス
+Available again after following number of moves: {#move}	次の移動回数の後に再び利用可能になります: {#move}
+Details failed to merge!	詳細を結合できませんでした。
+Warning! Langueages besides English could have some errors (and English also, lol)	警告！英語以外の言語ではエラーが発生する可能性があります (英語もです、笑)
+The game was saved. You can exit, and resume it later	ゲームは保存されました。終了して後で再開できます
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	クレーンはフィールド上のオブジェクトを移動させるためのツールです。基本バージョンは、ライト オブジェクトを空の場所にドラッグするだけで機能します。アップグレードすると、より複雑なアイテムをドラッグしたり、2 つのオブジェクトを交換したりできるようになります。これを使用するには、クレーンのアイコンをクリックしてオブジェクトを選択し、配置する場所を選択します。
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	高度なビルドを複雑にする単純なパーツにうんざりしていませんか?ワークショップを利用しましょう!{#}ワークショップ - 単純な部品を手動で処理できる小さな独立した建物です。工房のレベルが高くなるほど、加工できる部品の数が増えます。また、改善により、より頻繁に使用できるようになります。{#}使用するには、クールダウン中でない限り、ワークショップ アイコンをクリックしてください。
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	畑の角であれを見ましたか？活用してみてはいかがでしょうか？フェンスを開く機能を追加して、フェンスを改善しましょう!{#}機械以外の破片を取り除くことができます。ポンプをさらに改良して、油圧フェンスをより頻繁に使用できるようにすることも可能です。{#}使用するには、フェンスの目的のセクションをクリックし、部品をその方向に引っ張ります。柵が開いている列の部品はすべて捨てられます。安全第一であることを忘れないでください。
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	残念ながら、誰もが廃棄物の分別を担当するわけではありません。場合によっては、ゴミの入ったコンテナに木片、廃棄物、その他の一般ゴミが混入することがあります。{#}追加の分別装置を設置し、機械以外のゴミの割合をゼロまで減らします。
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	地球規模の気候変動があり、砂漠でも雨が降るのが一般的になっています。誰かにとっては役に立つかもしれませんが、一部の部品が錆びてリサイクルできなくなる可能性があります。防水性を強化することで部品の腐食を軽減します。
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	リサイクルプロセスをスピードアップしたいですか?組み立て済みのユニットをトランスポーターに追加しましょう。これをインストールすると、ドロップされる一部のパーツがより高度になります。{#}フィールドのサイズを拡大したい場合、このアップグレードは必須です。
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	何も完璧ではありません。それは組み立て工程にも当てはまります。マージ中にパーツが壊れることがあることに気づきましたか?幸いなことに、影響を受けるのはエンジンの組み立てのみであり、より複雑な部品は問題ありません。しかし、それでも面倒ですよね?{#}ただし、機器を調整することで、このプロセスの信頼性を高めることができます。{#}フィールドのサイズを拡大したい場合、このアップグレードは必須です。
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	砂漠でアイテムを積み重ねる利点 - 乾燥した環境でもあまり錆びません。短所 - ここは非常に高温になる可能性があります。{#}作業をすればするほど、各リサイクルの間に待機時間が長くなり、機器が適切な温度に戻ることができます。移動の間にさらに多くのアイテムが蓄積されてしまいます。冷却システムをアップグレードすると、リサイクル時間を長くすることができます。{#}圃場の規模を拡大したい場合、このアップグレードは必須です。
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	DIYの電磁石は時々故障することがあります。誤動作を減らすためにそれらを改善してください。{#}フィールドのサイズを拡大したい場合、このアップグレードは必須です。
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	なぜフィールドがこんなに小さいのか、自問したことがありますか?大きなビルドで作業するのは不便ではありませんか?解決策は簡単です。フィールドのサイズを拡大してください。 {#}拡張する前に、次のアップグレードが完全に購入されていることを確認する必要があることに注意してください: {#equipment_calibration}、{#magnets}、{#preprocessing_of_details}、および {#cooling_system}。
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	メインマニュアルで選択したレベルサイズは、保存したゲームとは異なります。必要に応じて、7 つのゲームを終了して、新しいゲームを開始することができます。{#}保存したゲームをどうしますか?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	砂漠の真ん中にある廃品置き場。空きスペースが多く、乾燥した気候なので、金属スクラップを保管するのに最適な場所であると言えます。もうそうではありませんが。 2048 年、天候は非常に悪化しました。{#}私はここで人生を過ごすことを選択しませんでした。私は裕福ではありませんし、私のような人々にとって国境は閉鎖されています。子供の頃、私は宇宙を征服することを夢見ていました。そして今、私は何もない場所で立ち往生していることに気づきました。{#}したがって、唯一の選択肢は働くことです。そして、私は決して助けを拒否しません、ここであなたを見つけることができてうれしいです。あなたがいれば、いつか私は宇宙に行けるとわかっています。{#}それではどうでしょうか。私たちは協力して、できるだけ多くの部品をリサイクルし、お互いに助け合って生活をより良くしていきます。取引？
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	ゲームを終了しました!{#}通常、開発者はここに従業員の名前の長いリストを置きます。しかし、このゲームは私だけが開発したものです (Gleb The Polar Citizen)。{#}妻に感謝します。素晴らしい車を提供してくれた Anna M.、そして翻訳者の皆さんに特別な感謝を表します!!{#}よろしければ、このゲームを続けてプレイすることも、私が開発した他のゲームを探すこともできます。{#}頑張ってください!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	広告なし
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	このアップグレードを購入すると、基本的な広告を削除できます。{#}リバード広告には影響しません。{#}スコアを 2 倍にするボタンは引き続き使用できます。したがって、影響を受けるのはゲーム後に表示される広告のみです。{#}また、私をサポートする方法を探しているだけなら、buymeacoffe (メディア ボタンと並んで配置されているハート ボタン) にアクセスすることを検討してください。
