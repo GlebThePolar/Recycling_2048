@@ -1,0 +1,142 @@
+en	uk
+English	Ukrainian
+lat	kir
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	розмістіть_тут_ваше_(перекладач)_ім'я
+<!-- Basic names (objects and buttons) -->																																													
+Buy	купити
+Back to menu	Назад до меню
+Settings	Налаштування
+Play	грати
+Shop	Магазин
+Coins:	Монети:
+Exit	Вихід
+Set the level	Встановіть рівень
+Sell All	Продати все
+Details:	Подробиці:
+Double coins!{#}(Watch Ad)	Подвійні монети!{#}(Переглянути рекламу)
+Restart	Перезапустіть
+Advertisement watched	Переглянув рекламу
+Received coins:	Отримано монети:
+Sound volume	Гучність звуку
+next	наступний
+Tower crane	Баштовий кран
+Workshop	Майстерня
+Hydraulic fence	Гідравлічна огорожа
+Sorting of details	Сортування деталей
+Waterproofing	Гідроізоляція
+Preprocessing	Попередня обробка
+Equipment calibration	Калібрування обладнання
+Cooling system	Охолоджувальна система
+Magnets	магніти
+Increase field size: {#price}	Збільшити розмір поля: {#price}
+See story	Дивіться історію
+Pause	Пауза
+End round	Кінцевий раунд
+Continue	Продовжити
+End saved game, and start a new one	Завершіть збережену гру та почніть нову
+Tutorials	Підручники
+Basic	Базовий
+Fence	Паркан
+Crane	Журавель
+Workshop	Майстерня
+Before	Раніше
+Now	Зараз
+Next	Далі
+Max detail:	Максимальна деталізація:
+Bolt	Болт
+Gear	спорядження
+Gear box	Коробка передач
+Bearing	Підшипник
+Piston	Поршень
+Engine	Двигун
+Moped	Мопед
+Motorcycle	мотоцикл
+Car	автомобіль
+Pickup	Пікап
+Truck	Вантажівка
+Biplane	Біплан
+Helicopter	Вертоліт
+Plane	Літак
+AN-225 Mriya	Ан-225 Мрія
+Rocket engine	Ракетний двигун
+Soyuz	Союз
+Rocket	Ракета
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Привіт і ласкаво просимо до «Переробки: 2048»! Ви готові до виклику? У цьому підручнику ви дізнаєтесь про основу, необхідну для переробки, але деякі функції ви можете знайти лише самі!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Навколо поля розташовано 4 магніти (помаранчеві предмети). Ви можете активувати їх, свайпуючи (рухаючи пальцем по екрану). Вони можуть рухати будь-які магнітні матеріали - ідеально для деталей, з якими ми працюємо! Спробуйте, перемістивши об’єкт (наприклад, болт) тричі.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	З'явилася нова деталь: болт. Хоча дехто може вважати це сміттям, ми можемо переробити його у щось більш досконале, як-от спорядження!
+Recycle two bolts into a gear by moving them together.	Переробіть два болти в шестерню, зрушуючи їх разом.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	фантастично! Ви щойно переробили сміття! Так тримати, і разом ми зможемо досягти нашої мети – створити краще життя.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	О, ні, магніт зламався! :({#} Ви бачите, правий магніт тепер червоний.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Спробуйте кілька разів активувати правий магніт і переконайтеся, що нічого не відбувається. (Проведіть вправо)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Бачите, нічого не сталося. Тепер спробуйте провести пальцем у різних напрямках (вгору та вниз). Давайте почекаємо, поки магніт відновиться.
+Done! After several moves, all magnets will be repaired.	Готово! Після кількох ходів усі магніти будуть відремонтовані.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Тепер поговоримо про біосміття (залишки яблук). Спробуйте перемістити його.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Оскільки біосміття не має магнітних матеріалів, магніти не можуть його перемістити.
+Don't forget to sort your garbage! :)	Не забувайте сортувати сміття! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Це сміття іржі. Його також не можна переробити. Число вказує, скільки часу йому потрібно, щоб іржавіти та зникнути.
+Amazing! You've improved your recycling skills!	Дивовижний! Ви покращили свої навички переробки!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Вітаємо з придбанням майстерні! Давайте зануримося в коротку інструкцію про те, як максимально використати це.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Миттєво комбінуйте прості деталі з усіх сфер за допомогою майстерні. Спробуйте зараз!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Це дуже круто, правда? Просто майте на увазі час відновлення. Це займає деякий час, тому використовуйте його з розумом!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Будьте обережні, коли для майстерні доступна лише одна деталь. Він не зможе поєднати його і просто поверне предмет назад.
+So, just use it carefully.	Тому використовуйте його обережно.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Майстерня сяє, коли вас оточують надокучливі прості деталі. Це ідеальний інструмент для ефективного наведення порядку у вашому просторі!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Вітаємо з придбанням крана! Ось короткий посібник про те, як з ним працювати.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Щоб скористатися краном, просто натисніть на значок. Тепер ви увійшли в режим CRANE.
+In CRANE mode, choose an item on the field that you'd like to interact with.	У режимі CRANE виберіть предмет на полі, з яким ви хочете взаємодіяти.
+Next, select an empty field where you want to move the chosen item.	Далі виберіть порожнє поле, куди ви хочете перемістити вибраний елемент.
+Now, press on the crane once more to execute the action.	Тепер натисніть на кран ще раз, щоб виконати дію.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	Під час оновлення ви отримаєте можливість не лише змінювати порожні поля, а й міняти їх іншими елементами.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Не бійтеся експериментувати! Якщо ви зіткнетеся з помилкою, гра повідомить про це. {#}Спробуйте викликати помилку (наприклад, клацніть 2 порожні клітинки).
+This is the error indication.	Це ознака помилки.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	І останнє, але не менш важливе, спробуйте скасувати вибір. Для цього натисніть на раніше виділений елемент або на кран (якщо ви ще не виділили другу клітинку).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Вітаємо з оновленням вашої огорожі! Давайте подивимося, на що він зараз здатний.
+To use the fence, click on one of the blue (cyan) objects around the field.	Щоб скористатися огорожею, клацніть на одному з синіх (блакитних) об’єктів навколо поля.
+Swipe the chosen object(s) towards the fence you've initiated.	Проведіть пальцем по вибраному об’єкту (об’єктам) до створеної вами огорожі.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Огорожі зазвичай потрібен деякий час, перш ніж ви зможете використовувати їх знову, тому плануйте свої рухи відповідно.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Гідравлічний паркан кардинально змінює правила — він може впоратися з будь-яким сміттям, навіть немагнітним.
+It's your go-to tool for bio-garbage removal. Give it a shot!	Це ваш улюблений інструмент для видалення біосміття. Спробуй!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Ви щойно купили одне оновлення, тобто ~10% вату потрібно для збільшення розміру поля!
+Keep up! :D	Не відставати! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	Ви отримаєте органічні відходи з ймовірністю {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	Ви отримаєте уламки іржі з імовірністю {#prob}%
+The probability of obtaining an improved detail is {#prob}%	Імовірність отримати покращену деталь становить {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	Імовірність успішного об’єднання двох деталей становить приблизно {#prob}%
+Magnets will break with a probability of {#prob}%	Магніти зламаються з імовірністю {#prob}%
+More details will drop on the field after {#move} moves	Більше деталей з’явиться на полі після {#move} ходів
+No Workshop	Немає майстерні
+Collects {#cell1}. Cooldown time:	Збирає {#cell1}. Час відновлення:
+Collects {#cell1} and {#cell2}. Cooldown time:	Збирає {#cell1} і {#cell2}. Час відновлення:
+No Crane	Жодного крана
+Move items up to {#cell3}.	Перемістити елементи до {#cell3}.
+Move items up to {#cell6}.	Перемістити елементи до {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Перемістіть елементи до {#cell6} і поміняйте їх елементами до {#cell2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Перемістіть елементи до {#cell11} і поміняйте їх елементами до {#cell6}.
+Move anything and swap it with items up to {#cell9}.	Перемістіть будь-що та поміняйте це елементами до {#cell9}.
+Move and swap anything!	Переміщайте та міняйте що завгодно!
+Simple fence	Простий паркан
+Available again after following number of moves: {#move}	Знову доступний після такої кількості ходів: {#move}
+Details failed to merge!	Не вдалося об’єднати деталі!
+Warning! Languages besides English could have some errors (and English also, lol)	УВАГА! Мови, окрім англійської, можуть мати деякі помилки (і англійська також, лол)
+The game was saved. You can exit, and resume it later	Гра була збережена. Ви можете вийти та відновити його пізніше
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Кран - це інструмент, який дозволяє переміщати предмети на полі. Базова версія працює лише шляхом перетягування легких об’єктів на порожнє місце. За допомогою оновлень ви можете перетягувати складніші предмети та навіть міняти місцями два об’єкти. Щоб скористатися ним, натисніть на значок крана, виберіть об'єкт і виберіть місце, де ви хочете його розмістити.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Набридло возитися з простими деталями з вашими просунутими збірками? Використовуйте майстерню!{#}Майстерня - невелика окрема будівля, де можлива ручна обробка простих деталей. Чим вище рівень майстерні, тим більше деталей вона може обробити. Крім того, покращення дозволяє використовувати його частіше.{#}Щоб скористатися, клацніть піктограму майстерні, якщо вона не перезаряджається.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Ви бачили цю штуку на своєму полі? Як щодо того, щоб зробити його корисним? Покращуйте свою огорожу, додавши можливість відкривати її!{#}Дозволяє позбутися немеханічного сміття. Можливі подальші вдосконалення насосів, що дозволить використовувати гідравлічну огорожу частіше.{#}Щоб скористатися, клацніть потрібну секцію огорожі та потягніть частини в цьому напрямку. Усі частини в ряду, де паркан відкритий, будуть викинуті. Пам'ятайте: безпека перш за все!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	На жаль, не всі відповідально ставляться до сортування сміття. Іноді в контейнерах зі сміттям трапляються шматки деревини, відходи та інше звичайне сміття.{#}Встановіть додаткове обладнання для сортування та зведіть відсоток немеханічного сміття до нуля.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	Глобальна зміна клімату, і навіть у пустелі дощі стали звичним явищем. Можливо, комусь це навіть стане в нагоді, але деякі деталі можуть іржавіти, через що їх неможливо буде переробити. Посилення гідроізоляції знижує ймовірність корозії деталей.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Хочете прискорити процес переробки? Додайте вузол попереднього складання до свого транспортера! Якщо його встановити, деякі випущені частини стануть кращими.{#}Це оновлення є обов’язковим, якщо ви хочете збільшити розмір свого поля.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Ніщо не ідеальне. Це також стосується процесу складання. Ви помічали, що іноді частини ламаються під час злиття? На щастя, я можу вас запевнити, що це впливає лише на збірку двигуна - складніші частини не є проблемою. Але все одно дратує, правда?{#}Але ви можете зробити цей процес більш надійним, відкалібрувавши своє обладнання.{#}Це оновлення є обов’язковим, якщо ви хочете збільшити розмір свого поля.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Переваги складання предметів у пустелі - вони не сильно іржавіють у сухому середовищі. Мінуси – тут може бути дуже жарко.{#}Що більше ви працюєте, то більше часу потрібно чекати між кожною переробкою, щоб ваше обладнання повернулося до відповідної температури. Це призводить до накопичення більшої кількості предметів між вашими ходами. Ви можете оновити систему охолодження, забезпечивши собі більший час для переробки.{#}Це оновлення є обов’язковим, якщо ви хочете збільшити розмір свого поля.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	Електромагніти своїми руками іноді можуть виходити з ладу. Покращуйте їх, щоб зменшити кількість несправностей.{#}Це оновлення є обов’язковим, якщо ви хочете збільшити розмір свого поля.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Ви коли-небудь запитували себе, чому в мене таке маленьке поле? Чи не незручно працювати з великими збірками? Рішення просте - розширте розмір поля! {#}Зауважте, що перед розширенням вам потрібно переконатися, що такі оновлення повністю придбано: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} і {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Розмір рівня, який ви вибрали в головному меню, відрізняється від збереженої гри. Ви можете завершити розділену гру та почати нову, якщо хочете.{#}Що ви хочете робити зі збереженою грою?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Склад автомобільних запчастин посеред пустелі. Можна сказати, що це ідеальне місце для зберігання металевого лому - багато вільного простору і суха погода. Хоча вже не так. У 2048 році погода зовсім вийшла з-під контролю.{#}Я не обрав це місце для життя. Я не багатий, і кордони закриті для людей, як я. Коли я був дитиною, мріяв завоювати космос. І ось тепер я застряг посеред ніоткуда.{#}Так що єдиний варіант - працювати. І я ніколи не відмовляюся від допомоги, я радий, що знайшов тебе тут. З тобою я знаю, що колись дістануся до космосу.{#}Отже, що скажеш: давай працювати разом, переробляти як можна більше деталей і допомагати один одному робити наше життя кращим. Угода?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Ви щойно закінчили гру!{#}Зазвичай розробники розміщують тут довгий список імен працівників. Але цю гру розробив лише я (Gleb The Polar Citizen).{#}Я хочу подякувати своїй дружині, особливо подякувати Анні М. за чудову машину та всім перекладачам!!{#}Якщо хочете , ти можеш продовжувати грати в цю гру або шукати інші розроблені мною ігри!{#}Будьте сильні!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Без реклами
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Ви можете придбати це оновлення для видалення основної реклами.{#}Це не вплине на рекламу зворотного зв’язку!{#}Кнопка подвоєння балів буде доступною. Тож це вплине лише на рекламу, яка з’являється після гри.{#}Крім того, я просто шукаю спосіб підтримати мене, краще відвідайте buymeacoffe — кнопку у формі серця, розташовану разом із кнопками медіа.

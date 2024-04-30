@@ -1,0 +1,142 @@
+en	zh-TW
+English	繁体字
+lat	zh-TW
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	place_譯者_name_here
+<!-- Basic names (objects and buttons) -->																																													
+Buy	買
+Back to menu	返回選單
+Settings	設定
+Play	玩
+Shop	店鋪
+Coins:	硬幣：
+Exit	出口
+Set the level	設定等級
+Sell All	全部出售
+Details:	細節：
+Double coins!{#}(Watch Ad)	雙倍硬幣！
+Restart	重新開始
+Advertisement watched	已觀看廣告
+Received coins:	收到金幣：
+Sound volume	音量
+next	下一個
+Tower crane	塔式起重機
+Workshop	作坊
+Hydraulic fence	油壓圍欄
+Sorting of details	細節排序
+Waterproofing	防水
+Preprocessing	預處理
+Equipment calibration	設備校準
+Cooling system	冷卻系統
+Magnets	磁鐵
+Increase field size: {#price}	增加欄位大小：{#price}
+See story	看故事
+Pause	暫停
+End round	結束回合
+Continue	繼續
+End saved game, and start a new one	結束已儲存的遊戲並開始新的遊戲
+Tutorials	教學
+Basic	基本的
+Fence	柵欄
+Crane	起重機
+Workshop	作坊
+Before	前
+Now	現在
+Next	下一個
+Max detail:	最大細節：
+Bolt	螺栓
+Gear	齒輪
+Gear box	齒輪箱
+Bearing	軸承
+Piston	活塞
+Engine	引擎
+Moped	輕型機車
+Motorcycle	摩托車
+Car	車
+Pickup	撿起
+Truck	卡車
+Biplane	雙翼飛機
+Helicopter	直升機
+Plane	飛機
+AN-225 Mriya	AN-225 米里亞
+Rocket engine	火箭發動機
+Soyuz	聯盟號
+Rocket	火箭
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	您好，歡迎來到「回收：2048」！你準備好迎接挑戰了嗎？在本教程中，您將學習回收所需的基礎知識，但有些功能您只能自己找到！
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	磁場周圍有 4 個磁鐵（橘色物體）。您可以透過滑動（在螢幕上移動手指）來啟動它們。它們可以移動任何磁性材料 - 非常適合我們處理的細節！移動一個物體（如螺栓）三次來嘗試。
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	出現了一個新的細節：一個螺栓。雖然有些人可能會將其視為垃圾，但我們可以將其回收成更高級的東西，例如齒輪！
+Recycle two bolts into a gear by moving them together.	將兩個螺栓移到一起，將它們回收為齒輪。
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	極好的！您剛剛回收了一些垃圾！堅持下去，我們就能共同實現創造更美好生活的目標。
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	哦，不，磁鐵壞了！ :({#} 你看，右邊的磁鐵現在是紅色的。
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	嘗試啟動右側磁鐵幾次，看看沒有任何反應。 （向右滑）
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	你看，什麼事也沒發生。現在嘗試向不同方向（向上和向下）滑動。讓我們等待磁鐵自行修復。
+Done! After several moves, all magnets will be repaired.	完畢！經過幾次移動後，所有磁鐵都會被修復。
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	現在，我們來談談生物垃圾（蘋果剩菜）。嘗試移動它。
+Because bio garbage lacks magnetic materials, magnets can't move it.	由於生物垃圾缺乏磁性材料，磁鐵無法移動它。
+Don't forget to sort your garbage! :)	別忘了將垃圾分類！ :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	這是鐵鏽垃圾。它也無法回收。該數字表示它需要多長時間生鏽並消失。
+Amazing! You've improved your recycling skills!	驚人的！您的回收技能得到了提升！
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	恭喜您獲得工作室！讓我們深入了解如何充分利用它的快速教學。
+Combine simple details instantly from all fields using the workshop. Give it a try now!	使用研討會立即組合來自各個領域的簡單細節。現在就嘗試一下吧！
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	很酷，對吧？只要記得冷卻時間即可。這需要一些時間，所以明智地使用它！
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	當研討會只有一個細節可用時要小心。它無法將其合併，只會將物品退回。
+So, just use it carefully.	所以，請小心使用。
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	當你被煩人的簡單細節包圍時，研討會就會閃閃發光。它是高效能整理空間的完美工具！
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	恭喜您購買起重機！這是有關如何使用它的簡短教程。
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	要使用起重機，只需點擊圖示即可。現在，您已進入起重機模式。
+In CRANE mode, choose an item on the field that you'd like to interact with.	在起重機模式下，選擇您想要與之互動的欄位上的項目。
+Next, select an empty field where you want to move the chosen item.	接下來，選擇一個要將所選項目移至的空白欄位。
+Now, press on the crane once more to execute the action.	現在，再次按下起重機來執行該操作。
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	當您升級時，您不僅能夠更改空白字段，還能夠將它們與其他項目交換。
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	不要害怕嘗試！如果您遇到錯誤，遊戲會提供指示。 {#}嘗試引發錯誤（例如，點擊 2 個空白儲存格）。
+This is the error indication.	這是錯誤指示。
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	最後但並非最不重要的一點是，嘗試取消選擇。為此，請按先前選擇的項目，或按起重機（如果您尚未選擇第二個單元格）。
+Congratulations on upgrading your fence! Let's see what it is capable of now.	恭喜您升級了圍欄！現在讓我們看看它有什麼能力。
+To use the fence, click on one of the blue (cyan) objects around the field.	若要使用圍欄，請點選場地周圍的藍色（青色）物件之一。
+Swipe the chosen object(s) towards the fence you've initiated.	將所選物件滑向您啟動的柵欄。
+Fences usually need some time before you can use them again, so plan your moves accordingly.	柵欄通常需要一些時間才能再次使用，因此請相應地計劃您的移動。
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	液壓圍欄是一個遊戲規則改變者——它可以處理各種垃圾，甚至是非磁性垃圾。
+It's your go-to tool for bio-garbage removal. Give it a shot!	它是您清除生物垃圾的首選工具。試一試！
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	您剛剛購買了一項升級，即增加場地大小需要大約 10% 的瓦特！
+Keep up! :D	趕上！ :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	您將收到有機廢棄物的機率為 {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	您將收到鐵鏽碎片的機率為 {#prob}%
+The probability of obtaining an improved detail is {#prob}%	獲得改進細節的機率為 {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	成功合併兩個細節的機率約為 {#prob}%
+Magnets will break with a probability of {#prob}%	磁鐵破裂的機率為 {#prob}%
+More details will drop on the field after {#move} moves	{#move} 移動後，更多詳細資訊將掉落在場地上
+No Workshop	無車間
+Collects {#cell1}. Cooldown time:	收集 {#cell1}。冷卻時間：
+Collects {#cell1} and {#cell2}. Cooldown time:	收集 {#cell1} 和 {#cell2}。冷卻時間：
+No Crane	沒有起重機
+Move items up to {#cell3}.	將項目向上移動到 {#cell3}。
+Move items up to {#cell6}.	將項目向上移動到 {#cell6}。
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	將項目移至 {#cell6} 之前，並與 {#cell2} 之前的項目交換。
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	將項目移至 {#cell11} 之前，並與 {#cell6} 之前的項目交換。
+Move anything and swap it with items up to {#cell9}.	移動任何東西並將其與 {#cell9} 以內的物品交換。
+Move and swap anything!	移動並交換任何東西！
+Simple fence	簡易圍欄
+Available again after following number of moves: {#move}	經過以下次數的移動後再次可用：{#move}
+Details failed to merge!	詳細資訊合併失敗！
+Warning! Languages besides English could have some errors (and English also, lol)	警告！英語以外的語言可能會有一些錯誤（英語也一樣，哈哈）
+The game was saved. You can exit, and resume it later	遊戲已儲存。您可以退出，稍後再恢復
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	起重機是一種可以在現場重新定位物體的工具。基本版本只能透過將燈光物件拖曳到空白處來運作。透過升級，您可以拖曳更複雜的項目，甚至交換兩個物件。要使用它，請按一下起重機圖標，選擇對象，然後選擇要放置它的位置。
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	厭倦了簡單的部件擾亂您的高級建置？使用工作坊！車間的等級越高，可以加工的零件越多。此外，這項改進還可以讓您更頻繁地使用它。
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	你看到你場地角落裡的那個東西了嗎？讓它變得有用怎麼樣？透過新增開啟柵欄的功能來改善柵欄！可以對泵浦進行進一步改進，從而更頻繁地使用液壓圍欄。柵欄打開的那排中的所有部件都將被丟棄。切記：安全第一！
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	不幸的是，並不是每個人都有責任將垃圾分類。有時，裝有垃圾的容器會遇到木片、廢物和其他普通垃圾。
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	全球氣候變化，甚至在沙漠中下雨也變得司空見慣。也許對某些人來說，它甚至是有用的，但有些零件可能會生鏽，無法回收。加強防水可降低部件腐蝕的可能性。
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	想要加快回收過程嗎？為您的運輸車添加預組裝單元！安裝後，一些掉落的部件將變得更加高級。
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	沒有什麼是完美的。它也適用於組裝過程。您是否注意到，有時零件在合併過程中會損壞？幸運的是，我可以向你保證，它只影響引擎的組裝——更複雜的零件沒有問題。但仍然很煩人，對吧？
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	在沙漠中堆疊物品的優點 - 它們在乾燥的環境中不會生鏽。缺點 - 這裡可能非常熱。它會導致你的移動之間累積更多的物品。您可以升級冷卻系統，為自己提供更長的回收時間。
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	DIY 電磁鐵有時會故障。改進它們，以減少故障。
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	你有沒有問過自己，為什麼我的領域這麼小？處理大型建置不是很不方便嗎？解決方案很簡單 - 擴大您的領域規模！ {#}請注意，在擴充功能之前，您需要確保已完全購買以下升級：{#equipment_calibration}、{#magnets}、{#preprocessing_of_details} 和 {#cooling_system}。
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	您在主選單中選擇的關卡大小與您儲存的遊戲不同。如果您願意，您可以結束遊戲並開始新的遊戲。
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	沙漠中央的一個垃圾場。您可以說這裡是儲存金屬廢料的完美場所 - 有大量的可用空間和乾燥的天氣。雖然不再是了。 2048 年，天氣變得非常糟糕。我並不富有，而且對於像我這樣的人來說，邊界是關閉的。當我還是個孩子的時候，我就夢想著征服太空。現在，我發現自己陷入了困境。我從不拒絕幫助，我很高興在這裡找到你。我知道，和你一起，有一天我會進入太空。交易？
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	您剛剛完成了遊戲！ {#}開發人員通常會在此處放置一長串工人的姓名。但這個遊戲是我一個人開發的（Gleb The Polar Citizen）。這個遊戲或尋找我開發的其他遊戲！
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	無廣告
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	您可以購買此升級來刪除基本廣告。因此，它只會影響遊戲後出現的廣告。

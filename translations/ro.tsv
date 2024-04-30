@@ -1,0 +1,142 @@
+en	ro
+English	Romanian
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	plasați_numele_(traducătorului)_aici
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Cumpără
+Back to menu	Inapoi la meniu
+Settings	Setări
+Play	Joaca
+Shop	Magazin
+Coins:	Monede:
+Exit	Ieșire
+Set the level	Setați nivelul
+Sell All	Vinde tot
+Details:	Detalii:
+Double coins!{#}(Watch Ad)	Monede duble!{#}(Urmăriți anunțul)
+Restart	Repornire
+Advertisement watched	Reclamă urmărită
+Received coins:	Monede primite:
+Sound volume	Volumul sunetului
+next	Următorul
+Tower crane	Macara turn
+Workshop	Atelier
+Hydraulic fence	Gard hidraulic
+Sorting of details	Sortarea detaliilor
+Waterproofing	Hidroizolarea
+Preprocessing	Preprocesare
+Equipment calibration	Calibrarea echipamentului
+Cooling system	Sistem de răcire
+Magnets	Magneți
+Increase field size: {#price}	Măriți dimensiunea câmpului: {#price}
+See story	Vezi povestea
+Pause	Pauză
+End round	Sfârșitul rundei
+Continue	Continua
+End saved game, and start a new one	Încheiați jocul salvat și începeți unul nou
+Tutorials	Tutoriale
+Basic	De bază
+Fence	Gard
+Crane	Macara
+Workshop	Atelier
+Before	Inainte de
+Now	Acum
+Next	Următorul
+Max detail:	Detaliu maxim:
+Bolt	Bolt
+Gear	Angrenaj
+Gear box	Cutie de viteze
+Bearing	Ținând
+Piston	Piston
+Engine	Motor
+Moped	ciclomotor
+Motorcycle	Motocicletă
+Car	Mașină
+Pickup	Ridica
+Truck	Camion
+Biplane	Biplan
+Helicopter	Elicopter
+Plane	Avion
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Motor rachetă
+Soyuz	Soyuz
+Rocket	Rachetă
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Bună ziua și bun venit la „Reciclare: 2048”! Ești pregătit pentru o provocare? În acest tutorial veți învăța baza necesară pentru reciclare, dar câteva caracteristici pe care le puteți găsi doar singur!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Există 4 magneți în jurul câmpului (obiecte portocalii). Le puteți activa glisând (mișcați degetul pe ecran). Pot muta orice materiale magnetice - perfecte pentru detaliile cu care lucram! Încercați mutând un obiect (cum ar fi șurubul) de trei ori.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	A apărut un nou detaliu: un șurub. În timp ce unii l-ar putea vedea ca un gunoi, îl putem recicla în ceva mai avansat, cum ar fi un angrenaj!
+Recycle two bolts into a gear by moving them together.	Reciclați două șuruburi într-un angrenaj mutându-le împreună.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Fantastic! Tocmai ai reciclat niște gunoi! Ține-o tot așa și împreună ne putem atinge obiectivul de a ne crea o viață mai bună.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	Oh, nu, magnetul s-a rupt! :({#} Vedeți, magnetul potrivit este roșu acum.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Încercați să activați magnetul potrivit de câteva ori și să vedeți că nu se întâmplă nimic. (Glisează spre dreapta)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Vezi tu, nu s-a întâmplat nimic. Acum încercați să glisați în direcții diferite (în sus și în jos). Să așteptăm până când magnetul se repară singur.
+Done! After several moves, all magnets will be repaired.	Terminat! După mai multe mișcări, toți magneții vor fi reparați.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Acum, să vorbim despre gunoiul bio (restul de măr). Încercați să-l mutați.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Deoarece gunoiul bio nu are materiale magnetice, magneții nu îl pot mișca.
+Don't forget to sort your garbage! :)	Nu uitați să vă sortați gunoiul! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Acesta este un gunoi ruginit. Nici nu poate fi reciclat. Numărul indică cât timp are nevoie pentru a se îndepărta și a dispărea.
+Amazing! You've improved your recycling skills!	Uimitor! Ți-ai îmbunătățit abilitățile de reciclare!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Felicitări pentru achiziționarea atelierului! Să ne aprofundăm într-un tutorial rapid despre cum să profităm la maximum de el.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Combinați instantaneu detalii simple din toate domeniile folosind atelierul. Încearcă acum!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	E destul de misto, nu? Ține cont de timpul de răcire. Durează ceva timp, așa că folosește-l cu înțelepciune!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Fiți precaut când există un singur detaliu disponibil pentru atelier. Nu îl va putea combina și doar va returna articolul înapoi.
+So, just use it carefully.	Deci, folosește-l cu grijă.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Atelierul strălucește atunci când ești înconjurat de detalii simple enervante. Este instrumentul perfect pentru a-ți aranja spațiul în mod eficient!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Felicitări pentru achiziționarea macaralei! Iată un scurt tutorial despre cum să lucrezi cu el.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Pentru a utiliza macaraua, pur și simplu atingeți pictograma. Acum, ați intrat în modul CRANE.
+In CRANE mode, choose an item on the field that you'd like to interact with.	În modul CRANE, alegeți un element de pe câmp cu care doriți să interacționați.
+Next, select an empty field where you want to move the chosen item.	Apoi, selectați un câmp gol în care doriți să mutați elementul ales.
+Now, press on the crane once more to execute the action.	Acum, apăsați încă o dată pe macara pentru a executa acțiunea.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	Pe măsură ce faceți upgrade, veți dobândi capacitatea de a schimba nu numai câmpurile goale, ci și de a le schimba cu alte elemente.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Nu vă fie frică să experimentați! Dacă întâmpinați o eroare, jocul vă va oferi o indicație. {#}Încercați să provocați o eroare (de exemplu, faceți clic pe 2 celule goale).
+This is the error indication.	Aceasta este indicația de eroare.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	Și nu în ultimul rând, încercați să deselectați. Pentru a face acest lucru, apăsați pe elementul selectat anterior sau pe macara (dacă nu ați selectat încă a doua celulă).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Felicitări pentru modernizarea gardului! Să vedem de ce este capabil acum.
+To use the fence, click on one of the blue (cyan) objects around the field.	Pentru a folosi gardul, faceți clic pe unul dintre obiectele albastre (cian) din jurul câmpului.
+Swipe the chosen object(s) towards the fence you've initiated.	Glisați obiectele alese spre gardul pe care l-ați inițiat.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Gardurile au nevoie de obicei de ceva timp înainte de a le putea folosi din nou, așa că planificați-vă mișcările în consecință.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Gardul hidraulic este un schimbător de joc - poate gestiona tot felul de gunoi, chiar și cele nemagnetice.
+It's your go-to tool for bio-garbage removal. Give it a shot!	Este instrumentul tău de bază pentru îndepărtarea gunoiului biologic. Încearcă!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Tocmai ați cumpărat o actualizare, adică ~10% din ceea ce este necesar pentru creșterea dimensiunii câmpului!
+Keep up! :D	Continuă! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	Veți primi deșeuri organice cu o probabilitate de {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	Veți primi resturi de rugină cu o probabilitate de {#prob}%
+The probability of obtaining an improved detail is {#prob}%	Probabilitatea de a obține un detaliu îmbunătățit este de {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	Probabilitatea de a îmbina cu succes două detalii este de aproximativ {#prob}%
+Magnets will break with a probability of {#prob}%	Magneții se vor rupe cu o probabilitate de {#prob}%
+More details will drop on the field after {#move} moves	Mai multe detalii vor apărea pe teren după mutarea {#move}
+No Workshop	Fără atelier
+Collects {#cell1}. Cooldown time:	Colectează {#cell1}. Timp de răcire:
+Collects {#cell1} and {#cell2}. Cooldown time:	Colectează {#cell1} și {#cell2}. Timp de răcire:
+No Crane	Fără macara
+Move items up to {#cell3}.	Mutați elementele în sus în {#cell3}.
+Move items up to {#cell6}.	Mutați elementele în sus la {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Mutați elementele până la {#cell6} și schimbați-le cu articole până la {#cell2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Mutați elementele până la {#cell11} și schimbați-le cu articole până la {#cell6}.
+Move anything and swap it with items up to {#cell9}.	Mutați orice și schimbați-l cu elemente până la {#cell9}.
+Move and swap anything!	Mută ​​și schimbă orice!
+Simple fence	Gard simplu
+Available again after following number of moves: {#move}	Disponibil din nou după următorul număr de mișcări: {#move}
+Details failed to merge!	Detaliile nu au putut fuziona!
+Warning! Languages besides English could have some errors (and English also, lol)	Avertizare! Limbile în afară de engleză ar putea avea unele erori (și engleza, lol)
+The game was saved. You can exit, and resume it later	Jocul a fost salvat. Puteți să ieșiți și să o reluați mai târziu
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	O macara este un instrument care vă permite să mutați obiecte pe teren. Versiunea de bază funcționează numai prin tragerea de obiecte ușoare într-un loc gol. Cu upgrade-uri, puteți trage elemente mai complexe și chiar puteți schimba două obiecte. Pentru a-l folosi, faceți clic pe pictograma macaralei, selectați obiectul și selectați un loc unde doriți să-l plasați.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Te-ai săturat de părți simple care se încurcă cu versiunile tale avansate? Folosiți atelierul!{#}Atelier - o clădire mică separată în care este posibilă prelucrarea manuală a pieselor simple. Cu cât nivelul atelierului este mai ridicat, cu atât poate procesa mai multe piese. De asemenea, îmbunătățirea vă permite să-l utilizați mai des.{#}Pentru a o utiliza, faceți clic pe pictograma atelierului, cu excepția cazului în care este în curs de răcire.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Ai văzut chestia aia în jurul colțurilor câmpului tău? Ce zici să-l faci util? Îmbunătățiți-vă gardul adăugând posibilitatea de a-l deschide!{#}Vă permite să scăpați de resturile nemecanice. Sunt posibile îmbunătățiri suplimentare ale pompelor, permițând utilizarea mai frecventă a gardului hidraulic.{#}Pentru a utiliza, faceți clic pe secțiunea dorită a gardului și trageți piesele în acea direcție. Toate părțile din rândul în care gardul este deschis vor fi aruncate. Amintiți-vă: siguranța pe primul loc!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Din păcate, nu toată lumea este responsabilă pentru sortarea deșeurilor. Uneori, containerele cu gunoi întâlnesc bucăți de lemn, deșeuri și alte deșeuri obișnuite.{#}Instalați echipamente suplimentare de sortare și reduceți procentul de resturi nemecanice la zero.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	Schimbările climatice globale și chiar și în deșert ploile au devenit comune. Poate că pentru cineva, este chiar util, dar unele piese pot rugini, făcând imposibilă reciclarea lor. Întărirea hidroizolației reduce probabilitatea coroziunii pieselor.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Vrei să accelerezi procesul de reciclare? Adaugă o unitate de pre-asamblare la transportorul tău! Cu acesta instalat, unele piese abandonate vor fi mai avansate.{#}Acest upgrade este obligatoriu, dacă doriți să măriți dimensiunea câmpului dvs.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Nimic nu este perfect. Se aplică și procesului de asamblare. Ați observat că uneori părți se rup în timpul îmbinării? Din fericire, vă asigur că afectează doar asamblarea motorului - piesele mai complicate nu reprezintă o problemă. Dar încă enervant, nu?{#}Dar puteți face acest proces mai fiabil, prin calibrarea echipamentului.{#}Acest upgrade este obligatoriu, dacă doriți să creșteți dimensiunea câmpului dvs.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Avantajele stivuirii articolelor în deșert - nu ruginesc prea mult în medii uscate. Contra - poate fi foarte cald aici.{#}Cu cât lucrați mai mult, cu atât trebuie să așteptați mai mult între fiecare reciclare, permițând echipamentului să revină la o temperatură adecvată. Aceasta duce la acumularea mai multor articole între mișcările tale. Puteți actualiza sistemul de răcire, oferindu-vă un timp mai lung pentru reciclare.{#}Acest upgrade este obligatoriu, dacă doriți să măriți dimensiunea câmpului dvs.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	Electromagneții DIY pot eșua uneori. Îmbunătățiți-le, pentru a reduce defecțiunile.{#}Acest upgrade este obligatoriu, dacă doriți să creșteți dimensiunea câmpului dvs.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Te-ai întrebat vreodată, de ce am un câmp atât de mic? Nu este incomod să lucrezi cu construcții mari? Soluția este simplă - extinde-ți dimensiunea câmpului! {#}Rețineți că, înainte de extindere, trebuie să vă asigurați că următoarele upgrade-uri sunt achiziționate integral: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} și {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Mărimea nivelului pe care ați selectat-o ​​în manualul principal diferă de jocul salvat. Puteți încheia jocul salvat și începe unul nou, dacă doriți.{#}Ce doriți să faceți cu jocul salvat?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Un depozit de fiare vechi în mijlocul deșertului. Ai putea spune că este locul perfect pentru a stoca resturi metalice - mult spațiu liber și vreme uscată. Cu toate acestea, nu mai este. În anul 2048, vremea a devenit cu adevărat nebună.{#}Nu am ales să-mi petrec viața aici. Nu sunt bogat, iar granițele sunt închise pentru oameni ca mine. Când eram copil, visam să cuceresc spațiul cosmic. Și acum, mă aflu blocat în mijlocul nimănui.{#}Deci, singura opțiune este să lucrezi. Și nu refuz niciodată ajutorul, sunt fericit să te găsesc aici. Cu tine, știu că într-o zi voi ajunge în spațiu.{#}Deci, ce zici: lucrăm împreună, reciclăm cât mai multe piese posibil și ne ajutăm unul pe altul să ne facem viața mai bună. Deal?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Tocmai ați terminat jocul!{#}Dezvoltatorii de obicei plasează aici o listă lungă de nume de lucrători. Dar acest joc a fost dezvoltat doar de mine (Gleb The Polar Citizen).{#}Vreau să-i mulțumesc soției mele, să îi mulțumesc în mod special Annei M. pentru mașina asweme și tuturor traducătorilor!!{#}Dacă doriți , puteți continua să jucați acest joc sau să căutați alte jocuri pe care le-am dezvoltat!{#}Fiți puternic!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Fără reclame
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Puteți cumpăra acest upgrade pentru eliminarea anunțurilor de bază.{#}Nu va afecta anunțurile de revard!{#}Butonul pentru dublarea scorurilor va fi în continuare disponibil. Deci, va afecta numai reclamele care apar după joc.{#}De asemenea, dacă doar căutați o modalitate de a mă sprijini, mai bine vă gândiți să vizitați buymeacoffe — butonul inimii, situat cu butoane media.

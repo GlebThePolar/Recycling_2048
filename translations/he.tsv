@@ -1,0 +1,142 @@
+en	he
+English	Hebrew
+lat	he
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	מקום_שמך_(מתרגם)_שם_כאן
+<!-- Basic names (objects and buttons) -->																																													
+Buy	לִקְנוֹת
+Back to menu	חזרה לתפריט
+Settings	הגדרות
+Play	לְשַׂחֵק
+Shop	לִקְנוֹת
+Coins:	מטבעות:
+Exit	יְצִיאָה
+Set the level	הגדר את הרמה
+Sell All	תמכור הכל
+Details:	פרטים:
+Double coins!{#}(Watch Ad)	מטבעות כפולים!{#}(מודעת צפייה)
+Restart	איתחול
+Advertisement watched	פרסומת נצפה
+Received coins:	מטבעות שהתקבלו:
+Sound volume	עוצמת קול
+next	הַבָּא
+Tower crane	מנוף
+Workshop	סדנה
+Hydraulic fence	גדר הידראולית
+Sorting of details	מיון פרטים
+Waterproofing	איטום למים
+Preprocessing	עיבוד מקדים
+Equipment calibration	כיול ציוד
+Cooling system	מערכת קירור
+Magnets	מגנטים
+Increase field size: {#price}	הגדל את גודל השדה: {#price}
+See story	ראה סיפור
+Pause	הַפסָקָה
+End round	סיום סיבוב
+Continue	לְהַמשִׁיך
+End saved game, and start a new one	סיים משחק שמור והתחל משחק חדש
+Tutorials	הדרכות
+Basic	בסיסי
+Fence	גָדֵר
+Crane	מנוף
+Workshop	סדנה
+Before	לפני
+Now	עַכשָׁיו
+Next	הַבָּא
+Max detail:	מקסימום פירוט:
+Bolt	בְּרִיחַ
+Gear	גלגל שיניים
+Gear box	תיבת הילוכים
+Bearing	מֵסַב
+Piston	בּוּכנָה
+Engine	מנוע
+Moped	טוסטוס
+Motorcycle	אופנוע
+Car	אוטו
+Pickup	לאסוף
+Truck	מַשָׂאִית
+Biplane	דו-כנפי
+Helicopter	מַסוֹק
+Plane	מָטוֹס
+AN-225 Mriya	AN-225 מרייה
+Rocket engine	מנוע רקטה
+Soyuz	סויוז
+Rocket	רָקֵטָה
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	שלום וברוכים הבאים ל'מיחזור: 2048'! האם אתה מוכן לאיזה אתגר? במדריך זה תלמדו את הבסיס הדרוש למיחזור, אבל כמה תכונות תוכלו למצוא רק בעצמכם!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	ישנם 4 מגנטים מסביב לשדה (חפצים כתומים). אתה יכול להפעיל אותם על ידי החלקה (הזז את האצבע על המסך). הם יכולים להזיז כל חומר מגנטי - מושלם עבור הפרטים שאנו עובדים איתם! נסה זאת על ידי הזזת חפץ (כמו הבורג) שלוש פעמים.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	פרט חדש הופיע: בריח. בעוד שחלקם עשויים לראות בו זבל, אנו יכולים למחזר אותו למשהו מתקדם יותר, כמו ציוד!
+Recycle two bolts into a gear by moving them together.	מחזר שני ברגים להילוך על ידי הזזתם יחד.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	פַנטַסטִי! הרגע מיחזרת קצת זבל! המשיכו כך, וביחד נוכל להגיע ליעד שלנו ליצור חיים טובים יותר.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	הו, לא, המגנט נשבר! :({#} אתה מבין, המגנט הימני אדום עכשיו.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	נסה להפעיל את המגנט הנכון כמה פעמים ותראה שלא קורה כלום. (החלק ימינה)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	אתה מבין, שום דבר לא קרה. כעת נסה להחליק לכיוונים שונים (מעלה ומטה). נחכה עד שהמגנט יתקן את עצמו.
+Done! After several moves, all magnets will be repaired.	בוצע! לאחר מספר מהלכים, כל המגנטים יתוקנו.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	עכשיו, בואו נדבר על אשפה ביו (שארית התפוח). נסה להזיז אותו.
+Because bio garbage lacks magnetic materials, magnets can't move it.	בגלל שבביו-זבל חסרים חומרים מגנטיים, מגנטים לא יכולים להזיז אותו.
+Don't forget to sort your garbage! :)	אל תשכח למיין את האשפה שלך! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	זוהי זבל חלודה. גם את זה לא ניתן למחזר. המספר מציין כמה זמן הוא צריך להחליד ולהיעלם.
+Amazing! You've improved your recycling skills!	מדהים! שיפרת את כישורי המיחזור שלך!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	ברכות על רכישת הסדנה! בואו נצלול לתוך הדרכה מהירה כיצד להפיק ממנו את המרב.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	שלבו פרטים פשוטים באופן מיידי מכל התחומים באמצעות הסדנה. נסה את זה עכשיו!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	זה די מגניב, נכון? רק זכור את ההתקררות. זה לוקח קצת זמן, אז השתמש בזה בחוכמה!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	היזהר כאשר יש רק פרט אחד זמין עבור הסדנה. זה לא יוכל לשלב אותו ופשוט יחזיר את הפריט בחזרה.
+So, just use it carefully.	אז, פשוט השתמש בזה בזהירות.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	הסדנה זורחת כשאתה מוקף בפרטים פשוטים מעצבנים. זה הכלי המושלם לסדר את החלל שלך ביעילות!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	ברכות על רכישת המנוף! להלן הדרכה קצרה כיצד לעבוד עם זה.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	כדי להשתמש במנוף, פשוט הקש על הסמל. כעת, נכנסת למצב CRANE.
+In CRANE mode, choose an item on the field that you'd like to interact with.	במצב CRANE, בחר פריט בשדה שאיתו תרצה ליצור אינטראקציה.
+Next, select an empty field where you want to move the chosen item.	לאחר מכן, בחר שדה ריק שאליו ברצונך להעביר את הפריט הנבחר.
+Now, press on the crane once more to execute the action.	כעת, לחץ על המנוף פעם נוספת כדי לבצע את הפעולה.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	כשתשדרגו, תקבלו את היכולת לשנות לא רק לשדות ריקים אלא גם להחליף אותם בפריטים אחרים.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	אל תפחדו להתנסות! אם אתה נתקל בשגיאה, המשחק יספק אינדיקציה. {#}נסה לגרום לשגיאה (למשל, לחץ על 2 תאים ריקים).
+This is the error indication.	זה האינדיקציה לשגיאה.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	ואחרון חביב, נסה לבטל את הבחירה. לשם כך, לחץ על הפריט שנבחר קודם לכן, או על המנוף (אם עדיין לא בחרת את התא השני).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	ברכות על שדרוג הגדר שלך! בוא נראה למה הוא מסוגל עכשיו.
+To use the fence, click on one of the blue (cyan) objects around the field.	כדי להשתמש בגדר, לחץ על אחד מהאובייקטים הכחולים (ציאן) מסביב לשדה.
+Swipe the chosen object(s) towards the fence you've initiated.	החלק את האובייקט/ים שנבחרו לכיוון הגדר שיזמת.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	גדרות בדרך כלל זקוקות לזמן מה לפני שתוכלו להשתמש בהן שוב, אז תכננו את המהלכים שלכם בהתאם.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	הגדר ההידראולית היא מחליפה משחק - היא יכולה להתמודד עם כל מיני אשפה, אפילו לא מגנטית.
+It's your go-to tool for bio-garbage removal. Give it a shot!	זה הכלי הרצוי שלך לפינוי אשפה ביו. תן לזה הזדמנות!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	זה עתה קניתם שדרוג אחד, כלומר ~10% מהמהט הדרושים להגדלת גודל השדה!
+Keep up! :D	לעמוד בקצב! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	תקבל פסולת אורגנית בסבירות של {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	תקבל פסולת חלודה בסבירות של {#prob}%
+The probability of obtaining an improved detail is {#prob}%	ההסתברות לקבל פרט משופר היא {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	ההסתברות לאיחוד מוצלח של שני פרטים היא בערך {#prob}%
+Magnets will break with a probability of {#prob}%	מגנטים ישברו בהסתברות של {#prob}%
+More details will drop on the field after {#move} moves	פרטים נוספים יופיעו בשדה לאחר {#move} מהלכים
+No Workshop	אין סדנה
+Collects {#cell1}. Cooldown time:	אוסף {#cell1}. זמן צינון:
+Collects {#cell1} and {#cell2}. Cooldown time:	אוסף את {#cell1} ו-{#cell2}. זמן צינון:
+No Crane	אין מנוף
+Move items up to {#cell3}.	העבר פריטים עד {#cell3}.
+Move items up to {#cell6}.	העבר פריטים עד {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	הזז פריטים עד {#cell6}, והחלף אותם בפריטים עד {#cell2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	העבר פריטים עד {#cell11}, והחלף אותם בפריטים עד {#cell6}.
+Move anything and swap it with items up to {#cell9}.	הזז כל דבר והחלף אותו בפריטים עד {#cell9}.
+Move and swap anything!	לזוז ולהחליף כל דבר!
+Simple fence	גדר פשוטה
+Available again after following number of moves: {#move}	זמין שוב לאחר מספר המהלכים הבא: {#move}
+Details failed to merge!	הפרטים לא הצליחו להתמזג!
+Warning! Languages besides English could have some errors (and English also, lol)	אַזהָרָה! לשפות מלבד אנגלית יכולות להיות כמה שגיאות (וגם אנגלית, חחח)
+The game was saved. You can exit, and resume it later	המשחק נשמר. אתה יכול לצאת ולחדש אותו מאוחר יותר
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	מנוף הוא כלי המאפשר להעביר חפצים בשטח. הגרסה הבסיסית פועלת רק על ידי גרירת אובייקטים קלים למקום ריק. עם שדרוגים, אתה יכול לגרור פריטים מורכבים יותר, ואפילו להחליף שני אובייקטים. כדי להשתמש בו, לחץ על סמל העגורן, בחר את האובייקט ובחר מקום, שבו תרצה למקם אותו.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	נמאס לכם מחלקים פשוטים שמתעסקים עם הבנייה המתקדמת שלכם? השתמש בסדנה!{#}סדנה - בניין קטן מופרד שבו מתאפשר עיבוד ידני של חלקים פשוטים. ככל שרמת הסדנה גבוהה יותר, כך היא יכולה לעבד יותר חלקים. כמו כן, השיפור מאפשר לך להשתמש בו בתדירות גבוהה יותר.{#}כדי להשתמש בו, לחץ על סמל הסדנה אלא אם כן הוא בצינון.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	ראית את הדבר הזה סביב פינות השדה שלך? מה דעתך לעשות את זה שימושי? שפר את הגדר שלך על ידי הוספת היכולת לפתוח אותה!{#}מאפשר לך להיפטר מפסולת לא מכנית. אפשריים שיפורים נוספים במשאבות, המאפשרים שימוש בגדר ההידראולית בתדירות גבוהה יותר.{#}כדי להשתמש, לחץ על הקטע הרצוי של הגדר ומשוך את החלקים לכיוון זה. כל החלקים בשורה שבה הגדר פתוחה ייזרקו. זכור: בטיחות לפני הכל!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	למרבה הצער, לא כולם אחראים למיון הפסולת. לפעמים מכולות עם אשפה נתקלות בחתיכות עץ, פסולת ואשפה רגילה אחרת.{#}התקן ציוד מיון נוסף והורד את אחוז הפסולת הלא מכנית לאפס.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	שינויי אקלים עולמיים, ואפילו במדבר גשמים הפכו נפוצים. אולי עבור מישהו, זה אפילו שימושי, אבל חלקים מסוימים יכולים להחליד, מה שהופך את זה לבלתי אפשרי למחזר אותם. חיזוק האיטום מפחית את הסבירות לקורוזיה של חלקים.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	רוצים לזרז את תהליך המיחזור? הוסף יחידת הרכבה מוקדמת לטרנספורטר שלך! עם התקנתו, חלק מהחלקים שהורדו יהיו מתקדמים יותר.{#}שדרוג זה הוא חובה, אם ברצונך להגדיל את גודל השדה שלך.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	שום דבר אינו מושלם. זה חל גם על תהליך ההרכבה. שמתם לב שלפעמים חלקים נשברים במהלך המיזוג? למרבה המזל, אני יכול להבטיח לך, שזה משפיע רק על הרכבת המנוע - חלקים מסובכים יותר אינם בעיה. אבל עדיין מעצבן, נכון?{#}אבל אתה יכול להפוך את התהליך הזה לאמין יותר, על ידי כיול הציוד שלך.{#}שדרוג זה הוא חובה, אם אתה רוצה להגדיל את גודל השדה שלך.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	יתרונות של ערימת פריטים במדבריות - הם לא מחלידים הרבה בסביבות יבשות. חסרונות - יכול להיות ממש חם כאן.{#}ככל שתעבדו יותר, כך תצטרכו להמתין יותר זמן בין כל מיחזור, מה שיאפשר לציוד שלכם לחזור לטמפרטורה מתאימה. זה מוביל ליותר פריטים שמצטברים בין המהלכים שלך. אתה יכול לשדרג את מערכת הקירור, ולספק לעצמך זמן ארוך יותר למיחזור.{#}שדרוג זה הוא חובה, אם אתה רוצה להגדיל את גודל השדה שלך.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	אלקטרומגנטים עשה זאת בעצמך יכולים לפעמים להיכשל. שפר אותם כדי להפחית תקלות.{#}שדרוג זה הוא חובה, אם ברצונך להגדיל את גודל השדה שלך.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	האם אי פעם שאלת את עצמך, למה יש לי שדה כל כך קטן? האם זה לא נוח לעבוד עם מבנים גדולים? הפתרון פשוט - הרחב את גודל השדה שלך! {#}שים לב, לפני ההרחבה, עליך לוודא שהשדרוגים הבאים נרכשים במלואם: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} ו-{#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	גודל הרמה שבחרת במדריך הראשי שונה מהמשחק השמור שלך. אתה יכול לסיים משחק סבבה ולהתחיל משחק חדש, אם אתה רוצה.{#}מה אתה רוצה לעשות עם המשחק השמור?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	מגרש גרוטאות באמצע מדבר. אפשר לומר שזה המקום המושלם לאחסון שאריות מתכת - הרבה מקום פנוי ומזג אוויר יבש. אם כי כבר לא. בשנת 2048 מזג האוויר ממש השתגע.{#}לא בחרתי לבלות את חיי כאן. אני לא עשיר, והגבולות סגורים לאנשים כמוני. כשהייתי ילד, חלמתי לכבוש את החלל. ועכשיו, אני מוצא את עצמי תקוע באמצע שום מקום.{#}אז האפשרות היחידה היא לעבוד. ואני אף פעם לא מסרב לעזרה, אני שמח למצוא אותך כאן. איתך, אני יודע, מתישהו אגיע לחלל.{#}אז מה דעתך על זה: אנחנו עובדים יחד, ממחזרים כמה שיותר חלקים ועוזרים אחד לשני לשפר את חיינו. עִסקָה?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	זה עתה סיימת את המשחק!{#}מפתחים בדרך כלל מציבים כאן רשימה ארוכה של שמות עובדים. אבל המשחק הזה פותח רק על ידי (Gleb The Polar Citizen).{#}אני רוצה להודות לאשתי, תודה מיוחדת לאנה מ' על המכונית המדהימה, ולכל המתרגמים!!{#}אם אתה רוצה , אתה יכול להמשיך לשחק במשחק הזה או לחפש משחקים אחרים שפיתחתי!{#}הישאר חזק!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	ללא פרסומות
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	אתה יכול לקנות שדרוג זה להסרת מודעות בסיסיות.{#}זה לא ישפיע על מודעות פרסומות!{#}הלחצן להכפלת הניקוד עדיין יהיה זמין. אז זה ישפיע רק על מודעות שמופיעות לאחר המשחק.{#}כמו כן, אני רק מחפש דרך לתמוך בי, כדאי לשקול לבקר ב-buymeacoffe - כפתור הלב, הממוקם עם לחצני מדיה.

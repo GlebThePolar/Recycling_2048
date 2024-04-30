@@ -1,0 +1,142 @@
+en	ca
+English	Catalan
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	col·loca_el teu_(traductor)_nom_aquí
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Compra
+Back to menu	Tornar al menú
+Settings	Configuració
+Play	Jugar
+Shop	Botiga
+Coins:	Monedes:
+Exit	Sortida
+Set the level	Estableix el nivell
+Sell All	Ven-ho tot
+Details:	Detalls:
+Double coins!{#}(Watch Ad)	Monedes dobles!{#}(Mira l'anunci)
+Restart	Reinicia
+Advertisement watched	Anunci mirat
+Received coins:	Monedes rebudes:
+Sound volume	Volum del so
+next	Pròxim
+Tower crane	Grua torre
+Workshop	Taller
+Hydraulic fence	Tanca hidràulica
+Sorting of details	Ordenació de detalls
+Waterproofing	Impermeabilització
+Preprocessing	Preprocessament
+Equipment calibration	Calibració d'equips
+Cooling system	Sistema de refrigeració
+Magnets	Imants
+Increase field size: {#price}	Augmenta la mida del camp: {#price}
+See story	Veure història
+Pause	Pausa
+End round	Final de ronda
+Continue	Continua
+End saved game, and start a new one	Finalitza la partida desada i comença una de nova
+Tutorials	Tutorials
+Basic	Bàsic
+Fence	Tanca
+Crane	Grua
+Workshop	Taller
+Before	Abans
+Now	Ara
+Next	Pròxim
+Max detail:	Detall màxim:
+Bolt	Bolt
+Gear	Engranatge
+Gear box	Caixa de canvis
+Bearing	Coixinet
+Piston	Pistó
+Engine	Motor
+Moped	Ciclomotor
+Motorcycle	Moto
+Car	Cotxe
+Pickup	Recollida
+Truck	Camió
+Biplane	Biplà
+Helicopter	helicòpter
+Plane	Avió
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Motor de coets
+Soyuz	Soiuz
+Rocket	Coet
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Hola i benvinguts a 'Reciclatge: 2048'! Estàs preparat per a algun repte? En aquest tutorial aprendràs la base necessària per al reciclatge, però algunes característiques que només pots trobar per tu mateix!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Hi ha 4 imants al voltant del camp (objectes taronges). Podeu activar-los fent lliscar el dit (moveu el dit per la pantalla). Poden moure qualsevol material magnètic, perfecte per als detalls amb què treballem! Prova-ho movent un objecte (com el cargol) tres vegades.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	Ha aparegut un nou detall: un parabolt. Tot i que alguns poden veure-ho com a escombraries, podem reciclar-lo en alguna cosa més avançada, com un engranatge!
+Recycle two bolts into a gear by moving them together.	Reciclar dos cargols en un engranatge movent-los junts.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Fantàstic! Acabes de reciclar una mica d'escombraries! Seguiu així i junts podrem assolir el nostre objectiu de crear una vida millor.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	Oh, no, l'imant s'ha trencat! :({#} Ja veus, l'imant correcte és vermell ara.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Intenteu activar l'imant correcte unes quantes vegades i comproveu que no passa res. (Fes lliscar cap a la dreta)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Ja veus, no va passar res. Ara prova de lliscar en diferents direccions (amunt i avall). Esperem fins que l'imant es repari sol.
+Done! After several moves, all magnets will be repaired.	Fet! Després de diversos moviments, tots els imants seran reparats.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Ara, parlem de les escombraries bio (les restes de poma). Prova de moure'l.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Com que les escombraries bio no tenen materials magnètics, els imants no les poden moure.
+Don't forget to sort your garbage! :)	No us oblideu de classificar les escombraries! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Això és una escombraria d'òxid. Tampoc es pot reciclar. El número indica quant de temps necessita per oxidar-se i desaparèixer.
+Amazing! You've improved your recycling skills!	Increïble! Has millorat les teves habilitats de reciclatge!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Felicitats per adquirir el taller! Anem a submergir-nos en un tutorial ràpid sobre com treure'n el màxim profit.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Combina detalls senzills a l'instant de tots els camps mitjançant el taller. Prova-ho ara!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Està molt bé, oi? Només cal tenir en compte el temps de reutilització. Triga una mica de temps, així que feu-lo servir amb prudència!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Aneu amb compte quan només hi ha un detall disponible per al taller. No es podrà combinar i només tornarà l'article.
+So, just use it carefully.	Per tant, només cal utilitzar-lo amb cura.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	El taller brilla quan estàs envoltat de detalls senzills molestos. És l'eina perfecta per ordenar el teu espai de manera eficient!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Enhorabona per la compra de la grua! Aquí teniu un breu tutorial sobre com treballar-hi.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Per utilitzar la grua, només cal que toqueu la icona. Ara, heu entrat en el mode CRANE.
+In CRANE mode, choose an item on the field that you'd like to interact with.	En el mode CRANE, trieu un element del camp amb el qual vulgueu interactuar.
+Next, select an empty field where you want to move the chosen item.	A continuació, seleccioneu un camp buit on voleu moure l'element escollit.
+Now, press on the crane once more to execute the action.	Ara, premeu la grua una vegada més per executar l'acció.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	A mesura que actualitzeu, obtindreu la possibilitat de canviar no només a camps buits, sinó també intercanviar-los amb altres elements.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	No tinguis por d'experimentar! Si trobeu un error, el joc us proporcionarà una indicació. {#}Intenta provocar un error (p. ex., fes clic a 2 cel·les buides).
+This is the error indication.	Aquesta és la indicació d'error.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	I per últim, però no menys important, prova de deseleccionar. Per fer-ho, premeu sobre l'element seleccionat anteriorment, o sobre la grua (si encara no heu seleccionat la segona cel·la).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Felicitats per millorar la teva tanca! A veure de què és capaç ara.
+To use the fence, click on one of the blue (cyan) objects around the field.	Per utilitzar la tanca, feu clic a un dels objectes blaus (cians) al voltant del camp.
+Swipe the chosen object(s) towards the fence you've initiated.	Feu lliscar els objectes escollits cap a la tanca que heu iniciat.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Les tanques solen necessitar un temps abans de poder-les tornar a utilitzar, així que planifiqueu els vostres moviments en conseqüència.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	La tanca hidràulica és un canvi de joc: pot gestionar tot tipus d'escombraries, fins i tot les no magnètiques.
+It's your go-to tool for bio-garbage removal. Give it a shot!	És la vostra eina de referència per a l'eliminació d'escombraries biològiques. Dona-li una oportunitat!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Acabeu de comprar una actualització, és a dir, el ~10% del que es necessita per augmentar la mida del camp!
+Keep up! :D	Continua, mantingues! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	Rebreu residus orgànics amb una probabilitat del {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	Rebràs restes d'òxid amb una probabilitat del {#prob}%
+The probability of obtaining an improved detail is {#prob}%	La probabilitat d'obtenir un detall millorat és del {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	La probabilitat de combinar amb èxit dos detalls és aproximadament del {#prob}%
+Magnets will break with a probability of {#prob}%	Els imants es trencaran amb una probabilitat del {#prob}%
+More details will drop on the field after {#move} moves	Més detalls es mostraran al camp després que {#move} es mogui
+No Workshop	Sense Taller
+Collects {#cell1}. Cooldown time:	Recull {#cell1}. Temps de refredament:
+Collects {#cell1} and {#cell2}. Cooldown time:	Recull {#cell1} i {#cell2}. Temps de refredament:
+No Crane	Sense grua
+Move items up to {#cell3}.	Mou els elements fins a {#cell3}.
+Move items up to {#cell6}.	Mou els elements fins a {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Mou els elements fins a {#cell6} i intercanvia'ls amb elements fins a {#cell2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Mou els elements fins a {#cell11} i intercanvia'ls amb elements fins a {#cell6}.
+Move anything and swap it with items up to {#cell9}.	Mou qualsevol cosa i intercanvia-la amb elements fins a {#cell9}.
+Move and swap anything!	Mou i intercanvia qualsevol cosa!
+Simple fence	Tanca senzilla
+Available again after following number of moves: {#move}	Disponible de nou després del nombre següent de moviments: {#move}
+Details failed to merge!	Els detalls no s'han pogut combinar!
+Warning! Languages besides English could have some errors (and English also, lol)	Avís! Els idiomes a més de l'anglès poden tenir alguns errors (i també l'anglès, lol)
+The game was saved. You can exit, and resume it later	El joc es va salvar. Podeu sortir i reprendre-ho més tard
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Una grua és una eina que permet reubicar objectes al camp. La versió bàsica només funciona arrossegant objectes lleugers a un lloc buit. Amb les actualitzacions, podeu arrossegar elements més complexos i fins i tot intercanviar dos objectes. Per utilitzar-lo, feu clic a la icona de la grua, seleccioneu l'objecte i seleccioneu un lloc on voleu col·locar-lo.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Estàs cansat de les parts senzilles que s'espatllen amb les teves compilacions avançades? Utilitzeu el taller!{#}Taller: un petit edifici separat on és possible el processament manual de peces senzilles. Com més alt sigui el nivell del taller, més peces pot processar. A més, la millora us permet fer-lo servir més sovint.{#}Per utilitzar-lo, feu clic a la icona del taller tret que estigui en repòs.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Has vist aquella cosa als racons del teu camp? Què tal fer-lo útil? Milloreu la vostra tanca afegint-hi la possibilitat d'obrir-la!{#}Us permet desfer-vos de residus no mecànics. Són possibles més millores a les bombes, que permeten utilitzar la tanca hidràulica amb més freqüència.{#}Per utilitzar-la, feu clic a la secció desitjada de la tanca i estireu les peces en aquesta direcció. Es llençaran totes les parts de la fila on la tanca està oberta. Recordeu: la seguretat primer!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Malauradament, no tothom és responsable de la classificació dels residus. De vegades, els contenidors amb escombraries es troben amb peces de fusta, residus i altres escombraries normals.{#}Instal·leu equips de classificació addicionals i reduïu a zero el percentatge de deixalles no mecàniques.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	El canvi climàtic global, i fins i tot en el desert les pluges s'han tornat habituals. Potser per a algú, fins i tot és útil, però algunes peces es poden rovellar, cosa que fa que sigui impossible reciclar-les. L'enfortiment de la impermeabilització redueix la probabilitat de corrosió de les peces.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Vols accelerar el procés de reciclatge? Afegiu una unitat de premuntatge al vostre transportador! Amb aquesta instal·lació, algunes peces caigudes seran més avançades.{#}Aquesta actualització és obligatòria si voleu augmentar la mida del vostre camp.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Res és perfecte. També s'aplica al procés de muntatge. Us heu adonat que de vegades les parts es trenquen durant la fusió? Afortunadament, us puc assegurar que només afecta el muntatge del motor: les peces més complicades no són cap problema. Però encara molest, oi?{#}Però podeu fer que aquest procés sigui més fiable calibrant el vostre equip.{#}Aquesta actualització és obligatòria, si voleu augmentar la mida del vostre camp.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Avantatges d'apilar articles als deserts: no s'oxiden gaire en ambients secs. Contres: aquí pot fer molta calor.{#}Com més treballeu, més temps haureu d'esperar entre cada reciclatge, de manera que el vostre equip torni a la temperatura adequada. Fa que s'acumulin més articles entre els vostres moviments. Podeu actualitzar el sistema de refrigeració, oferint-vos més temps per al reciclatge.{#}Aquesta actualització és obligatòria si voleu augmentar la mida del vostre camp.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	Els electroimants de bricolatge de vegades poden fallar. Milloreu-los per reduir els errors de funcionament.{#}Aquesta actualització és obligatòria si voleu augmentar la mida del vostre camp.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	T'has preguntat mai, per què tinc un camp tan petit? No és inconvenient treballar amb grans construccions? La solució és senzilla: amplieu la mida del vostre camp! {#}Tingueu en compte que abans d'ampliar, heu d'assegurar-vos que les actualitzacions següents s'han comprat completament: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} i {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	La mida del nivell que heu seleccionat al manual principal és diferent de la vostra partida desada. Pots finalitzar la partida desada i començar-ne una de nova, si vols.{#}Què vols fer amb la partida desada?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Un desguàs al mig del desert. Podries dir que és el lloc perfecte per emmagatzemar ferralla - molt espai lliure i un clima sec. Tot i que ja no. El temps s'ha tornat realment boig l'any 2048.{#}No vaig triar passar la meva vida aquí. No sóc ric, i les fronteres estan tancades per a gent com jo. Quan era petit, somiava en conquerir l'espai. I ara, em trobo atrapat enmig de res.{#}Així que l'única opció és treballar. I mai refuso ajuda, estic feliç de trobar-te aquí. Amb tu, sé que algun dia arribaré a l'espai.{#}Així que, què en penses: treballem junts, reciclem tantes peces com puguem i ens ajudem mutuament a millorar les nostres vides. Tracte?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Acabeu d'acabar el joc!{#}Normalment, els desenvolupadors posen aquí una llarga llista de noms de treballadors. Però aquest joc l'he desenvolupat només jo (Gleb The Polar Citizen).{#}Vull donar les gràcies a la meva dona, donar un agraïment especial a Anna M. pel cotxe asweme i a tots els traductors!!{#}Si vols , pots continuar jugant a aquest joc o cercar altres jocs que he desenvolupat!{#}Sigues fort!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Sense anuncis
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Podeu comprar aquesta actualització per eliminar els anuncis bàsics.{#}No afectarà els anuncis de revard!{#}El botó per duplicar les puntuacions encara estarà disponible. Per tant, només afectarà els anuncis que apareixen després del joc.{#}A més, si només busqueu una manera d'ajudar-me, millor que considereu visitar buymeacoffe, el botó del cor, situat amb botons multimèdia.

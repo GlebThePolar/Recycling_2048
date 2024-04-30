@@ -1,0 +1,142 @@
+en	ka
+English	Georgian
+lat	ka
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	ადგილი_თქვენი_(მთარგმნელი)_სახელი_აქ
+<!-- Basic names (objects and buttons) -->																																													
+Buy	იყიდე
+Back to menu	მენიუში დაბრუნება
+Settings	პარამეტრები
+Play	ითამაშეთ
+Shop	Მაღაზია
+Coins:	მონეტები:
+Exit	გასვლა
+Set the level	დააყენეთ დონე
+Sell All	გაყიდე ყველა
+Details:	დეტალები:
+Double coins!{#}(Watch Ad)	ორმაგი მონეტები!{#}(რეკლამის ყურება)
+Restart	Რესტარტი
+Advertisement watched	რეკლამა უყურე
+Received coins:	მიღებული მონეტები:
+Sound volume	ხმის მოცულობა
+next	შემდეგი
+Tower crane	Ამწეკრანი
+Workshop	სახელოსნო
+Hydraulic fence	ჰიდრავლიკური ღობე
+Sorting of details	დეტალების დახარისხება
+Waterproofing	ჰიდროიზოლაცია
+Preprocessing	წინასწარი დამუშავება
+Equipment calibration	აღჭურვილობის კალიბრაცია
+Cooling system	Გაგრილების სისტემა
+Magnets	მაგნიტები
+Increase field size: {#price}	ველის ზომის გაზრდა: {#price}
+See story	იხილეთ ამბავი
+Pause	პაუზა
+End round	დასასრული რაუნდი
+Continue	განაგრძეთ
+End saved game, and start a new one	დაასრულეთ შენახული თამაში და დაიწყეთ ახალი
+Tutorials	გაკვეთილები
+Basic	ძირითადი
+Fence	ღობე
+Crane	ამწე
+Workshop	სახელოსნო
+Before	მანამდე
+Now	ახლა
+Next	შემდეგი
+Max detail:	მაქსიმალური დეტალი:
+Bolt	ბოლტი
+Gear	მექანიზმი
+Gear box	გადაცემათა კოლოფი
+Bearing	ტარების
+Piston	დგუში
+Engine	ძრავი
+Moped	მოპედი
+Motorcycle	მოტოციკლი
+Car	მანქანა
+Pickup	Აღება
+Truck	სატვირთო მანქანა
+Biplane	ბიპლანი
+Helicopter	ვერტმფრენი
+Plane	თვითმფრინავი
+AN-225 Mriya	AN-225 მრია
+Rocket engine	სარაკეტო ძრავა
+Soyuz	სოიუზი
+Rocket	რაკეტა
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	მოგესალმებით და კეთილი იყოს თქვენი მობრძანება "გადამუშავებაში: 2048"! მზად ხართ რაიმე გამოწვევისთვის? ამ გაკვეთილზე თქვენ შეიტყობთ გადამუშავებისთვის საჭირო საფუძველს, მაგრამ ზოგიერთი მახასიათებლის პოვნა მხოლოდ თქვენ შეგიძლიათ!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	ველის გარშემო არის 4 მაგნიტი (ნარინჯისფერი ობიექტები). მათი გააქტიურება შეგიძლიათ გადაფურცლით (გადაიტანეთ თითი ეკრანზე). მათ შეუძლიათ ნებისმიერი მაგნიტური მასალის გადატანა - იდეალურია იმ დეტალებისთვის, რომლებთანაც ჩვენ ვმუშაობთ! სცადეთ ობიექტის სამჯერ გადაადგილებით (როგორც ჭანჭიკი).
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	გამოჩნდა ახალი დეტალი: ჭანჭიკი. მიუხედავად იმისა, რომ ზოგიერთმა შეიძლება მას ნაგად აღიქვას, ჩვენ შეგვიძლია მისი გადამუშავება უფრო მოწინავეში, როგორიცაა მექანიზმი!
+Recycle two bolts into a gear by moving them together.	გადაამუშავეთ ორი ჭანჭიკი მექანიზმში მათი ერთად გადაადგილებით.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Ზღაპრული! თქვენ ახლახან გადაამუშავეთ ნაგავი! გააგრძელეთ ასე და ერთად ჩვენ მივაღწევთ ჩვენს მიზანს, რომ შევქმნათ უკეთესი ცხოვრება.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	ო, არა, მაგნიტი გატეხილია! :({#} ხედავთ, მარჯვენა მაგნიტი ახლა წითელია.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	სცადეთ რამდენჯერმე გაააქტიუროთ სწორი მაგნიტი და დაინახავთ, რომ არაფერი მოხდება. (გადაფურცლეთ მარჯვნივ)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	ხომ ხედავ, არაფერი მომხდარა. ახლა სცადეთ გადაფურცვლა სხვადასხვა მიმართულებით (ზემოთ და ქვევით). დაველოდოთ მაგნიტის გამოსწორებას.
+Done! After several moves, all magnets will be repaired.	Შესრულებულია! რამდენიმე სვლის შემდეგ ყველა მაგნიტი შეკეთდება.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	ახლა მოდით ვისაუბროთ ბიო ნაგავზე (ვაშლის ნარჩენი). სცადეთ მისი გადატანა.
+Because bio garbage lacks magnetic materials, magnets can't move it.	იმის გამო, რომ ბიო ნაგავს აკლია მაგნიტური მასალები, მაგნიტები ვერ გადაადგილდებიან.
+Don't forget to sort your garbage! :)	არ დაგავიწყდეთ თქვენი ნაგვის დახარისხება! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	ეს არის ჟანგის ნაგავი. მისი გადამუშავებაც არ შეიძლება. რიცხვი მიუთითებს იმაზე, თუ რამდენი დრო სჭირდება მას დაჟანგვას და გაქრობას.
+Amazing! You've improved your recycling skills!	საოცარი! თქვენ გააუმჯობესეთ თქვენი გადამუშავების უნარი!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	გილოცავთ სახელოსნოს შეძენას! მოდით ჩავუღრმავდეთ სწრაფ ინსტრუქციას, თუ როგორ უნდა გამოიყენოთ იგი მაქსიმალურად.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	შეუთავსეთ მარტივი დეტალები მყისიერად ყველა სფეროდან სემინარის გამოყენებით. სცადე ახლავე!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	საკმაოდ მაგარია, არა? უბრალოდ გაითვალისწინეთ გაგრილება. ამას გარკვეული დრო სჭირდება, ამიტომ გამოიყენეთ იგი გონივრულად!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	იყავით ფრთხილად, როდესაც სემინარისთვის მხოლოდ ერთი დეტალია ხელმისაწვდომი. ის ვერ შეძლებს მის გაერთიანებას და უბრალოდ დააბრუნებს ნივთს უკან.
+So, just use it carefully.	ასე რომ, უბრალოდ გამოიყენეთ იგი ფრთხილად.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	სახელოსნო ანათებს მაშინ, როცა გარშემორტყმული ხარ შემაშფოთებელი მარტივი დეტალებით. ეს არის შესანიშნავი ინსტრუმენტი თქვენი სივრცის ეფექტურად დასალაგებლად!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	გილოცავთ ამწის შეძენას! აქ არის მოკლე გაკვეთილი, თუ როგორ უნდა იმუშაოთ მასთან.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	ამწის გამოსაყენებლად, უბრალოდ შეეხეთ ხატულას. ახლა თქვენ შეხვედით CRANE რეჟიმში.
+In CRANE mode, choose an item on the field that you'd like to interact with.	CRANE რეჟიმში აირჩიეთ ველზე ელემენტი, რომელთანაც გსურთ ურთიერთობა.
+Next, select an empty field where you want to move the chosen item.	შემდეგი, აირჩიეთ ცარიელი ველი, სადაც გსურთ არჩეული ელემენტის გადატანა.
+Now, press on the crane once more to execute the action.	ახლა კიდევ ერთხელ დააჭირეთ ამწეს მოქმედების შესასრულებლად.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	განახლებისას თქვენ მიიღებთ შესაძლებლობას შეცვალოთ არა მხოლოდ ცარიელი ველები, არამედ შეცვალოთ ისინი სხვა ელემენტებთან.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	ნუ შეგეშინდებათ ექსპერიმენტების! თუ შეცდომას წააწყდებით, თამაში მოგცემთ მითითებას. {#}სცადეთ შეცდომის გამოწვევა (მაგ. დააწკაპუნეთ 2 ცარიელ უჯრედზე).
+This is the error indication.	ეს არის შეცდომის ნიშანი.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	და ბოლოს, მაგრამ არანაკლებ მნიშვნელოვანი, სცადეთ არჩევის გაუქმება. ამისათვის დააჭირეთ ადრე შერჩეულ ელემენტს, ან ამწეზე (თუ ჯერ არ გაქვთ შერჩეული მეორე უჯრედი).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	გილოცავთ თქვენი ღობის განახლებას! ვნახოთ, რა შეუძლია მას ახლა.
+To use the fence, click on one of the blue (cyan) objects around the field.	ღობის გამოსაყენებლად დააწკაპუნეთ ერთ-ერთ ლურჯ (ცისფერ) ობიექტზე მინდვრის გარშემო.
+Swipe the chosen object(s) towards the fence you've initiated.	გადაფურცლეთ არჩეული ობიექტი(ებ)ი თქვენს მიერ წამოწყებული ღობისკენ.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	ღობეებს, როგორც წესი, გარკვეული დრო სჭირდება, სანამ მათ ხელახლა გამოიყენებთ, ამიტომ დაგეგმეთ თქვენი სვლები შესაბამისად.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	ჰიდრავლიკური ღობე არის თამაშის შეცვლა - მას შეუძლია გაუმკლავდეს ყველანაირ ნაგავს, თუნდაც არამაგნიტურ ნაგავს.
+It's your go-to tool for bio-garbage removal. Give it a shot!	ეს არის ბიო-ნაგვის მოსაშორებლად საჭირო ინსტრუმენტი. გაუშვით!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	თქვენ ახლახან იყიდეთ ერთი განახლება, ეს არის ვაჰს ~10% საჭირო ველის ზომის გასაზრდელად!
+Keep up! :D	გააგრძელე! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	თქვენ მიიღებთ ორგანულ ნარჩენებს {#prob}%-ის ალბათობით
+You will recive rust debris with probabiliy of {#prob}%	თქვენ მიიღებთ ჟანგის ნამსხვრევებს ალბათობით {#prob}%
+The probability of obtaining an improved detail is {#prob}%	გაუმჯობესებული დეტალის მიღების ალბათობა არის {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	ორი დეტალის წარმატებით შერწყმის ალბათობა არის დაახლოებით {#prob}%
+Magnets will break with a probability of {#prob}%	მაგნიტები იშლება {#prob}% ალბათობით
+More details will drop on the field after {#move} moves	დამატებითი დეტალები მოედანზე გამოჩნდება {#move} გადაადგილების შემდეგ
+No Workshop	არ არის სახელოსნო
+Collects {#cell1}. Cooldown time:	აგროვებს {#cell1}-ს. გაგრილების დრო:
+Collects {#cell1} and {#cell2}. Cooldown time:	აგროვებს {#cell1} და {#cell2}. გაგრილების დრო:
+No Crane	არავითარი ამწე
+Move items up to {#cell3}.	გადაიტანეთ ელემენტები {#cell3}-მდე.
+Move items up to {#cell6}.	გადაიტანეთ ელემენტები {#cell6}-მდე.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	გადაიტანეთ ერთეულები {#cell6}-მდე და შეცვალეთ ისინი {#cell2}-მდე ერთეულებით.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	გადაიტანეთ ერთეულები {#cell11}-მდე და შეცვალეთ ისინი {#cell6}-მდე ერთეულებით.
+Move anything and swap it with items up to {#cell9}.	გადაიტანეთ ყველაფერი და შეცვალეთ იგი {#cell9}-მდე ერთეულებით.
+Move and swap anything!	იმოძრავეთ და შეცვალეთ ყველაფერი!
+Simple fence	მარტივი ღობე
+Available again after following number of moves: {#move}	ხელახლა ხელმისაწვდომია შემდეგი სვლების შემდეგ: {#move}
+Details failed to merge!	დეტალების შერწყმა ვერ მოხერხდა!
+Warning! Languages besides English could have some errors (and English also, lol)	გაფრთხილება! ინგლისურის გარდა ენებს შეიძლება ჰქონდეთ შეცდომები (და ინგლისურიც, lol)
+The game was saved. You can exit, and resume it later	თამაში გადაარჩინა. შეგიძლიათ გახვიდეთ და განაახლოთ მოგვიანებით
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	ამწე არის ინსტრუმენტი, რომელიც საშუალებას გაძლევთ გადაიტანოთ ობიექტები მინდორზე. ძირითადი ვერსია მუშაობს მხოლოდ მსუბუქი ობიექტების ცარიელ ადგილას გადათრევით. განახლებებით, შეგიძლიათ გადაიტანოთ უფრო რთული ელემენტები და გაცვალოთ ორი ობიექტიც კი. მის გამოსაყენებლად დააწკაპუნეთ ამწე ხატულაზე, აირჩიეთ ობიექტი და აირჩიეთ ადგილი, სადაც გსურთ მისი განთავსება.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	დაიღალეთ უბრალო ნაწილებით, რომლებიც არეულია თქვენს მოწინავე ნაგებობებთან? გამოიყენეთ სახელოსნო!{#}სახელოსნო - პატარა გამოყოფილი შენობა, სადაც შესაძლებელია მარტივი ნაწილების ხელით დამუშავება. რაც უფრო მაღალია სახელოსნოს დონე, მით მეტი ნაწილის დამუშავება შეუძლია. ასევე, გაუმჯობესება საშუალებას გაძლევთ გამოიყენოთ ის უფრო ხშირად.{#}გამოყენებისთვის დააწკაპუნეთ სახელოსნოს ხატულაზე, თუ ის არ არის გაგრილების რეჟიმში.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	დაინახეთ ეს რამ თქვენი მინდვრის კუთხეებში? რას იტყვით, რომ ის სასარგებლო იყოს? გააუმჯობესეთ თქვენი ღობე მისი გახსნის შესაძლებლობის დამატებით!{#}გაძლევს საშუალებას, მოიშორო არამექანიკური ნამსხვრევები. შესაძლებელია ტუმბოების შემდგომი გაუმჯობესება, რაც ჰიდრავლიკური ღობის უფრო ხშირად გამოყენების საშუალებას იძლევა.{#}გამოყენებისთვის დააწკაპუნეთ ღობის სასურველ მონაკვეთზე და გაიყვანეთ ნაწილები ამ მიმართულებით. მწკრივის ყველა ნაწილი, სადაც ღობე ღიაა, გადაყრილი იქნება. გახსოვდეთ: უპირველეს ყოვლისა უსაფრთხოება!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	სამწუხაროდ, ყველა არ არის პასუხისმგებელი ნარჩენების დახარისხებაზე. ზოგჯერ ნაგვის მქონე კონტეინერებში გვხვდება ხის ნაჭრები, ნარჩენები და სხვა ჩვეულებრივი ნაგავი.{#}დააინსტალირეთ დამატებითი დასალაგებელი მოწყობილობა და ნულამდე შეამცირეთ არამექანიკური ნარჩენების პროცენტი.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	გლობალური კლიმატის ცვლილება და უდაბნოში წვიმებიც კი ჩვეულებრივი გახდა. შესაძლოა ვინმესთვის ის სასარგებლოც კი იყოს, მაგრამ ზოგიერთმა ნაწილმა შეიძლება დაიჟანგოს, რაც შეუძლებელს ხდის მათ გადამუშავებას. ჰიდროიზოლაციის გაძლიერება ამცირებს ნაწილების კოროზიის ალბათობას.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	გსურთ დააჩქაროთ გადამუშავების პროცესი? დაამატეთ წინასწარ აწყობის ერთეული თქვენს გადამზიდველს! მისი დაყენებით, ზოგიერთი ამოვარდნილი ნაწილი უფრო დახვეწილი გახდება.{#}ეს განახლება სავალდებულოა, თუ გსურთ თქვენი ველის ზომის გაზრდა.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	არაფერი არ არის სრულყოფილი. ეს ასევე ეხება შეკრების პროცესს. შეგიმჩნევიათ, რომ ზოგჯერ ნაწილები იშლება შერწყმის დროს? საბედნიეროდ, შემიძლია დაგარწმუნოთ, რომ ეს გავლენას ახდენს მხოლოდ ძრავის აწყობაზე - უფრო რთული ნაწილები არ არის პრობლემა. მაგრამ მაინც შემაწუხებელია, არა?{#}მაგრამ თქვენ შეგიძლიათ ეს პროცესი უფრო საიმედო გახადოთ თქვენი აღჭურვილობის კალიბრირებით.{#}ეს განახლება სავალდებულოა, თუ გსურთ თქვენი ველის ზომის გაზრდა.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	უდაბნოებში ნივთების დაწყობის დადებითი მხარეები - მშრალ გარემოში ისინი დიდად არ ჟანგდებიან. მინუსები - აქ შეიძლება ძალიან ცხელა.{#}რაც მეტს მუშაობთ, მით მეტი დრო დაგჭირდებათ ყოველ გადამუშავებას შორის ლოდინი, რაც საშუალებას მისცემს თქვენს აღჭურვილობას დაუბრუნდეს შესაბამის ტემპერატურას. ეს იწვევს თქვენს სვლებს შორის მეტი ნივთის დაგროვებას. შეგიძლიათ განაახლოთ გაგრილების სისტემა, რაც თქვენს თავს უფრო მეტ დროს უზრუნველვყოფთ გადამუშავებისთვის.{#}ეს განახლება სავალდებულოა, თუ გსურთ თქვენი ველის ზომის გაზრდა.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	წვრილმანი ელექტრომაგნიტები ზოგჯერ შეიძლება ჩავარდეს. გააუმჯობესეთ ისინი, რათა შეამციროთ გაუმართაობა.{#}ეს განახლება სავალდებულოა, თუ გსურთ თქვენი ველის ზომის გაზრდა.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	ოდესმე გიკითხავთ საკუთარ თავს, რატომ მაქვს ასეთი პატარა ველი? უხერხული არ არის დიდ ნაგებობებთან მუშაობა? გამოსავალი მარტივია - გააფართოვეთ თქვენი ველის ზომა! {#}გაითვალისწინეთ, რომ გაფართოებამდე, თქვენ უნდა დარწმუნდეთ, რომ შემდეგი განახლებები სრულად არის შეძენილი: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} და {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	დონის ზომა, რომელიც არჩეული გაქვთ მთავარ სახელმძღვანელოში, განსხვავდება თქვენი შენახული თამაშისგან. შეგიძლიათ დაასრულოთ seved თამაში და დაიწყოთ ახალი, თუ გსურთ.{#}რის გაკეთება გსურთ შენახულ თამაშთან?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	ნაგავი უდაბნოს შუაგულში. შეიძლება ითქვას, რომ ეს შესანიშნავი ადგილია ლითონის ნარჩენების შესანახად - ბევრი თავისუფალი ადგილი და მშრალი ამინდი. თუმცა უკვე არა. 2048 წელს ამინდი ნამდვილად გაგიჟდა.{#}მე არ ავირჩიე აქ ჩემი ცხოვრების გატარება. მე არ ვარ მდიდარი და ჩემნაირი ადამიანებისთვის საზღვრები ჩაკეტილია. ბავშვობაში კოსმოსის დაპყრობაზე ვოცნებობდი. ახლა კი აღმოვჩნდი, რომ შუაში ვარ ჩარჩენილი.{#}ასე რომ, ერთადერთი ვარიანტია მუშაობა. და დახმარებაზე უარს არასდროს ვამბობ, მოხარული ვარ, რომ აქ გიპოვე. მე ვიცი, რომ თქვენთან ერთად ოდესღაც გავალ კოსმოსში.{#}მაშ, რა შეიძლება ითქვას: ჩვენ ერთად ვმუშაობთ, რაც შეიძლება მეტი ნაწილის გადამუშავება შეგვიძლია და ერთმანეთს ვეხმარებით ჩვენი ცხოვრების გაუმჯობესებაში. გარიგება?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	თქვენ ახლახან დაასრულეთ თამაში!{#}ამერიკის დეველოპერები აქ განათავსებენ მუშაკთა სახელების გრძელ სიას. მაგრამ ეს თამაში მხოლოდ მე შევქმენი (Gleb The Polar Citizen).{#}მინდა მადლობა გადავუხადო ჩემს მეუღლეს, განსაკუთრებული მადლობა გადავუხადო ანა მ.-ს asweme მანქანისთვის და ყველა მთარგმნელს!!{#}თუ გინდათ. , შეგიძლიათ გააგრძელოთ ამ თამაშის თამაში ან მოძებნოთ სხვა თამაშები, რომლებიც მე შევიმუშავე!{#}იყავით ძლიერი!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	არანაირი რეკლამა
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	თქვენ შეგიძლიათ შეიძინოთ ეს განახლება ძირითადი რეკლამის წასაშლელად.{#}ეს არ იმოქმედებს revard-ის რეკლამებზე!{#}ქულების გაორმაგების ღილაკი კვლავ ხელმისაწვდომი იქნება. ასე რომ, ეს გავლენას მოახდენს მხოლოდ რეკლამებზე, რომლებიც გამოჩნდება თამაშის შემდეგ.{#}ასევე, მე თქვენ უბრალოდ ეძებთ ჩემს მხარდაჭერის ხერხს, უმჯობესია ეწვიოთ buymeacoffe - გულის ღილაკს, რომელიც მდებარეობს მედია ღილაკებით.

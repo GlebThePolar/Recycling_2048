@@ -1,0 +1,142 @@
+en	da
+English	Danish
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	placer_dit_(oversætter)_navn_her
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Købe
+Back to menu	Tilbage til menuen
+Settings	Indstillinger
+Play	Spil
+Shop	Butik
+Coins:	Mønter:
+Exit	Afslut
+Set the level	Indstil niveauet
+Sell All	Sælg alle
+Details:	Detaljer:
+Double coins!{#}(Watch Ad)	Dobbeltmønter!{#}(Se annonce)
+Restart	Genstart
+Advertisement watched	Annoncen blev set
+Received coins:	Modtagne mønter:
+Sound volume	Lydstyrke
+next	Næste
+Tower crane	Tårnkran
+Workshop	Værksted
+Hydraulic fence	Hydraulisk hegn
+Sorting of details	Sortering af detaljer
+Waterproofing	Vandtætning
+Preprocessing	Forbehandling
+Equipment calibration	Udstyrskalibrering
+Cooling system	Kølesystem
+Magnets	Magneter
+Increase field size: {#price}	Forøg feltstørrelse: {#price}
+See story	Se historien
+Pause	Pause
+End round	Slut runde
+Continue	Blive ved
+End saved game, and start a new one	Afslut gemt spil, og start et nyt
+Tutorials	Selvstudier
+Basic	Grundlæggende
+Fence	Hegn
+Crane	Kran
+Workshop	Værksted
+Before	Før
+Now	Nu
+Next	Næste
+Max detail:	Max detalje:
+Bolt	Bolt
+Gear	Gear
+Gear box	Gearkasse
+Bearing	Leje
+Piston	Stempel
+Engine	Motor
+Moped	Knallert
+Motorcycle	Motorcykel
+Car	Bil
+Pickup	Saml op
+Truck	Lastbil
+Biplane	Biplan
+Helicopter	Helikopter
+Plane	Fly
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Raketmotor
+Soyuz	Soyuz
+Rocket	Raket
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Hej og velkommen til 'Genbrug: 2048'! Er du klar til en udfordring? I denne tutorial lærer du den nødvendige basis for genbrug, men nogle funktioner kan du kun finde selv!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Der er 4 magneter rundt om feltet (orange genstande). Du kan aktivere dem ved at stryge (bevæg fingeren på skærmen). De kan flytte alle magnetiske materialer - perfekt til de detaljer, vi arbejder med! Prøv det ved at flytte en genstand (som bolten) tre gange.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	En ny detalje er dukket op: en bolt. Selvom nogle måske ser det som affald, kan vi genbruge det til noget mere avanceret, som et gear!
+Recycle two bolts into a gear by moving them together.	Genbrug to bolte til et gear ved at flytte dem sammen.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Fantastisk! Du har lige genbrugt noget affald! Bliv ved, og sammen kan vi nå vores mål om at skabe et bedre liv.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	Åh nej, magneten er gået i stykker! :({#} Ser du, den højre magnet er rød nu.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Prøv at aktivere den rigtige magnet et par gange og se, at der ikke sker noget. (Swip til højre)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Ser du, der skete ikke noget. Prøv nu at stryge i forskellige retninger (op og ned). Lad os vente, indtil magneten reparerer sig selv.
+Done! After several moves, all magnets will be repaired.	Færdig! Efter flere bevægelser vil alle magneter blive repareret.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Lad os nu tale om bioaffald (æbleresten). Prøv at flytte den.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Fordi bioaffald mangler magnetiske materialer, kan magneter ikke flytte det.
+Don't forget to sort your garbage! :)	Glem ikke at sortere dit affald! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Dette er et rustaffald. Det kan heller ikke genbruges. Tallet angiver, hvor lang tid den skal bruge på at ruste væk og forsvinde.
+Amazing! You've improved your recycling skills!	Fantastiske! Du har forbedret dine genbrugsevner!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Tillykke med erhvervelsen af ​​værkstedet! Lad os dykke ned i en hurtig tutorial om, hvordan du får mest muligt ud af det.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Kombiner enkle detaljer med det samme fra alle områder ved hjælp af værkstedet. Giv det en chance nu!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Det er ret fedt, ikke? Bare husk nedkølingen. Det tager lidt tid, så brug det med omtanke!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Vær forsigtig, når der kun er én detalje tilgængelig for workshoppen. Det vil ikke være i stand til at kombinere det og vil blot returnere varen.
+So, just use it carefully.	Så brug det forsigtigt.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Værkstedet skinner, når du er omgivet af irriterende enkle detaljer. Det er det perfekte værktøj til at rydde op i dit rum effektivt!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Tillykke med købet af kranen! Her er en kort vejledning i, hvordan du arbejder med det.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	For at bruge kranen skal du blot trykke på ikonet. Nu er du gået ind i CRANE-tilstand.
+In CRANE mode, choose an item on the field that you'd like to interact with.	I CRANE-tilstand skal du vælge et element på feltet, som du gerne vil interagere med.
+Next, select an empty field where you want to move the chosen item.	Vælg derefter et tomt felt, hvor du vil flytte det valgte element.
+Now, press on the crane once more to execute the action.	Tryk nu på kranen igen for at udføre handlingen.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	Når du opgraderer, får du muligheden for ikke kun at skifte til tomme felter, men også bytte dem med andre elementer.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Vær ikke bange for at eksperimentere! Hvis du støder på en fejl, vil spillet give en indikation. {#}Prøv at forårsage en fejl (klik f.eks. på 2 tomme celler).
+This is the error indication.	Dette er fejlindikationen.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	Og sidst, men ikke mindst, prøv at fravælge. For at gøre det skal du trykke på det tidligere valgte element eller på kranen (hvis du ikke har valgt den anden celle endnu).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Tillykke med opgraderingen af ​​dit hegn! Lad os se, hvad den er i stand til nu.
+To use the fence, click on one of the blue (cyan) objects around the field.	For at bruge hegnet skal du klikke på en af ​​de blå (cyan) objekter rundt om marken.
+Swipe the chosen object(s) towards the fence you've initiated.	Stryg den eller de valgte objekter mod det hegn, du har startet.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Hegn skal normalt bruge noget tid, før du kan bruge dem igen, så planlæg dine bevægelser derefter.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Det hydrauliske hegn er en game-changer - det kan håndtere al slags affald, selv ikke-magnetisk.
+It's your go-to tool for bio-garbage removal. Give it a shot!	Det er dit bedste værktøj til fjernelse af bio-affald. Giv det et skud!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Du har lige købt en opgradering, det vil sige ~10% af, hvad der er nødvendigt for at øge feltstørrelsen!
+Keep up! :D	Bliv ved! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	Du vil modtage organisk affald med sandsynlighed på {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	Du vil modtage rustrester med sandsynlighed på {#prob}%
+The probability of obtaining an improved detail is {#prob}%	Sandsynligheden for at opnå en forbedret detalje er {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	Sandsynligheden for succesfuld sammenlægning af to detaljer er ca. {#prob}%
+Magnets will break with a probability of {#prob}%	Magneter vil bryde med en sandsynlighed på {#prob}%
+More details will drop on the field after {#move} moves	Flere detaljer vil falde på feltet efter {#move} træk
+No Workshop	Intet værksted
+Collects {#cell1}. Cooldown time:	Samler {#celle1}. Nedkølingstid:
+Collects {#cell1} and {#cell2}. Cooldown time:	Samler {#cell1} og {#cell2}. Nedkølingstid:
+No Crane	Ingen kran
+Move items up to {#cell3}.	Flyt elementer op til {#celle3}.
+Move items up to {#cell6}.	Flyt elementer op til {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Flyt elementer op til {#celle6}, og skift dem med elementer op til {#celle2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Flyt elementer op til {#cell11}, og skift dem med elementer op til {#celle6}.
+Move anything and swap it with items up to {#cell9}.	Flyt hvad som helst, og skift det med elementer op til {#celle9}.
+Move and swap anything!	Flyt og skift hvad som helst!
+Simple fence	Simpelt hegn
+Available again after following number of moves: {#move}	Tilgængelig igen efter følgende antal træk: {#move}
+Details failed to merge!	Detaljer kunne ikke flettes!
+Warning! Languages besides English could have some errors (and English also, lol)	Advarsel! Sprog udover engelsk kan have nogle fejl (og engelsk også, lol)
+The game was saved. You can exit, and resume it later	Spillet blev reddet. Du kan afslutte og genoptage det senere
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	En kran er et værktøj, der giver dig mulighed for at flytte genstande på marken. Grundversionen fungerer kun ved at trække lette genstande til et tomt sted. Med opgraderinger kan du trække mere komplekse genstande og endda bytte to objekter. For at bruge det, klik på kranikonet, vælg objektet og vælg et sted, hvor du vil placere det.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Træt af simple dele, der roder rundt med dine avancerede builds? Brug værkstedet!{#}Værksted - en lille adskilt bygning, hvor manuel bearbejdning af simple dele er mulig. Jo højere niveau værkstedet er, jo flere dele kan det bearbejde. Forbedringen giver dig også mulighed for at bruge det oftere.{#}Klik på værkstedsikonet for at bruge det, medmindre det er ved nedkøling.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Så du den ting rundt om dine felthjørner? Hvad med at gøre det nyttigt? Forbedre dit hegn ved at tilføje muligheden for at åbne det!{#}Gør det muligt at slippe af med ikke-mekanisk affald. Yderligere forbedringer af pumperne er mulige, hvilket gør det muligt at bruge det hydrauliske hegn oftere.{#}For at bruge, skal du klikke på den ønskede del af hegnet og trække delene i den retning. Alle dele i rækken, hvor hegnet er åbent, bliver smidt væk. Husk: sikkerhed først!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Det er desværre ikke alle, der har ansvaret for at sortere affald. Nogle gange støder containere med affald på træstykker, affald og andet almindeligt affald.{#}Installer ekstra sorteringsudstyr og reducer procentdelen af ​​ikke-mekanisk affald ned til nul.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	Globale klimaændringer, og selv i ørkenen regner er blevet almindelige. Måske for nogen er det endda nyttigt, men nogle dele kan ruste, hvilket gør det umuligt at genbruge dem. Styrkelse af vandtætning reducerer sandsynligheden for korrosion af dele.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Vil du fremskynde genbrugsprocessen? Tilføj en formonteringsenhed til din transporter! Med den installeret vil nogle tabte dele være mere avancerede.{#}Denne opgradering er obligatorisk, hvis du vil øge størrelsen på dit felt.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Intet er perfekt. Det gælder også for monteringsprocessen. Har du bemærket, at nogle gange går dele i stykker under sammenlægning? Heldigvis kan jeg forsikre dig om, at det kun påvirker monteringen af ​​motoren - mere komplicerede dele er ikke noget problem. Men det er stadig irriterende, ikke?{#}Men du kan gøre denne proces mere pålidelig ved at kalibrere dit udstyr.{#}Denne opgradering er obligatorisk, hvis du vil øge størrelsen af ​​dit felt.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Fordele ved at stable ting i ørkener - de ruster ikke meget i tørre omgivelser. Ulemper - det kan være rigtig varmt her.{#}Jo mere du arbejder, jo mere tid skal du vente mellem hver genbrug, så dit udstyr kan vende tilbage til en passende temperatur. Det fører til, at flere ting samler sig mellem dine træk. Du kan opgradere kølesystemet, hvilket giver dig selv længere tid til genbrug.{#}Denne opgradering er obligatorisk, hvis du vil øge størrelsen på din mark.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	DIY elektromagneter kan nogle gange svigte. Forbedre dem for at reducere fejlfunktioner.{#}Denne opgradering er obligatorisk, hvis du vil øge størrelsen på dit felt.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Har du nogensinde spurgt dig selv, hvorfor har jeg så lille mark? Er det ikke ubelejligt at arbejde med store byggerier? Løsningen er enkel - udvid din markstørrelse! {#}Bemærk, at før du udvider, skal du sikre dig, at følgende opgraderinger er fuldt ud købt: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} og {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Den niveaustørrelse, du har valgt i hovedmanuen, er forskellig fra dit gemte spil. Du kan afslutte et spil og starte et nyt, hvis du vil.{#}Hvad vil du med det gemte spil?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	En skrotplads midt i ørkenen. Man kunne sige, at det er det perfektested at opbevare metalskrot - masser af plads og tørt vejr. Selvom ikkelængere. I år 2048 er vejret virkelig blevet skørt.{#}Jeg valgte ikke attilbringe mit liv her. Jeg er ikke rig, og grænserne er lukket for folksom mig. Da jeg var barn, drømte jeg om at erobre rummet. Og nu sidderjeg fast midt i ingenting.{#}Så det eneste valg er at arbejde. Og jegnægter aldrig hjælp, jeg er glad for at finde dig her. Med dig ved jeg,at jeg en dag vil nå rummet.{#}Så hvad siger du til dette: Vi arbejdersammen, genbruger så mange dele som muligt, og hjælper hinanden med atgøre vores liv bedre. Aftale?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Du har lige afsluttet spillet!{#}Usaly udviklere placerer her en lang liste over arbejdernavne. Men dette spil er kun udviklet af mig (Gleb The Polar Citizen).{#}Jeg vil gerne takke min kone, give en særlig tak til Anna M. for den fantastiske bil, og til alle oversætterne!!{#}Hvis du vil , du kan fortsætte med at spille dette spil eller se efter andre spil, jeg har udviklet!{#}Fortsæt!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Ingen annoncer
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Du kan købe denne opgradering til fjernelse af grundlæggende annoncer.{#}Det vil ikke påvirke reklameannoncer!{#}Knappen til at fordoble resultater vil stadig være tilgængelig. Så det vil kun påvirke annoncer, der vises efter kampen.{#}Også, hvis du bare søger efter en måde at støtte mig på, bør du hellere overveje at besøge buymeacoffe — hjerteknappen, der er placeret med medieknapper.

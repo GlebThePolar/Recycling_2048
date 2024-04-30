@@ -1,0 +1,142 @@
+en	es
+English	Spanish
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	coloque_su_(traductor)_nombre_aquí
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Comprar
+Back to menu	Volver al menú
+Settings	Ajustes
+Play	Jugar
+Shop	Comercio
+Coins:	Monedas:
+Exit	Salida
+Set the level	Establecer el nivel
+Sell All	Vender todo
+Details:	Detalles:
+Double coins!{#}(Watch Ad)	¡Doble monedas!{#}(Ver anuncio)
+Restart	Reanudar
+Advertisement watched	Anuncio visto
+Received coins:	Monedas recibidas:
+Sound volume	Volumen de sonido
+next	próximo
+Tower crane	Grúa torre
+Workshop	Taller
+Hydraulic fence	Valla hidráulica
+Sorting of details	clasificación de detalles
+Waterproofing	Impermeabilización
+Preprocessing	Preprocesamiento
+Equipment calibration	Calibración de equipos
+Cooling system	Sistema de refrigeración
+Magnets	Imanes
+Increase field size: {#price}	Aumentar tamaño del campo: {#price}
+See story	Ver historia
+Pause	Pausa
+End round	Fin de ronda
+Continue	Continuar
+End saved game, and start a new one	Finaliza la partida guardada y comienza una nueva.
+Tutorials	Tutoriales
+Basic	Básico
+Fence	Cerca
+Crane	Grua
+Workshop	Taller
+Before	Antes
+Now	Ahora
+Next	Próximo
+Max detail:	Detalle máximo:
+Bolt	Tornillo
+Gear	Engranaje
+Gear box	Caja de cambios
+Bearing	Cojinete
+Piston	Pistón
+Engine	Motor
+Moped	Ciclomotor
+Motorcycle	Motocicleta
+Car	Auto
+Pickup	Levantar
+Truck	Camión
+Biplane	Biplano
+Helicopter	Helicóptero
+Plane	Avión
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	motor de cohete
+Soyuz	Soyuz
+Rocket	Cohete
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	¡Hola y bienvenido a 'Reciclaje: 2048'! ¿Estás listo para algún desafío? En este tutorial aprenderás la base necesaria para el reciclaje, ¡pero algunas características solo podrás encontrarlas tú mismo!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Hay 4 imanes alrededor del campo (objetos de color naranja). Puedes activarlos deslizando (mueve el dedo sobre la pantalla). Pueden mover cualquier material magnético, ¡perfecto para los detalles con los que trabajamos! Pruébalo moviendo un objeto (como el perno) tres veces.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	Ha aparecido un nuevo detalle: un cerrojo. Si bien algunos pueden verlo como basura, podemos reciclarlo y convertirlo en algo más avanzado, ¡como un engranaje!
+Recycle two bolts into a gear by moving them together.	Recicle dos pernos en un engranaje moviéndolos juntos.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	¡Fantástico! ¡Acabas de reciclar un poco de basura! Sigue así y juntos podremos alcanzar nuestro objetivo de crear una vida mejor.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	¡Oh, no, el imán se ha roto! :({#} Verás, el imán derecho ahora es rojo.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Intente activar el imán correcto unas cuantas veces y compruebe que no pasa nada. (Desliza hacia la derecha)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Verás, no pasó nada. Ahora intenta deslizar el dedo en diferentes direcciones (arriba y abajo). Esperemos hasta que el imán se repare solo.
+Done! After several moves, all magnets will be repaired.	¡Hecho! Después de varios movimientos, todos los imanes quedarán reparados.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Ahora hablemos de la biobasura (los restos de la manzana). Intenta moverlo.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Debido a que la biobasura carece de materiales magnéticos, los imanes no pueden moverla.
+Don't forget to sort your garbage! :)	¡No olvides clasificar tu basura! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Esta es una basura de óxido. Tampoco se puede reciclar. El número indica cuánto tiempo necesita para oxidarse y desaparecer.
+Amazing! You've improved your recycling skills!	¡Asombroso! ¡Has mejorado tus habilidades de reciclaje!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	¡Felicitaciones por adquirir el taller! Profundicemos en un tutorial rápido sobre cómo aprovecharlo al máximo.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Combine detalles simples al instante de todos los campos utilizando el taller. ¡Pruébalo ahora!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Es muy bueno, ¿verdad? Solo tenga en cuenta el tiempo de reutilización. Lleva algo de tiempo, ¡así que úsalo sabiamente!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Ten cuidado cuando solo haya un detalle disponible para el taller. No podrá combinarlo y simplemente devolverá el artículo.
+So, just use it carefully.	Así que úsalo con cuidado.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	El taller brilla cuando estás rodeado de detalles simples y molestos. ¡Es la herramienta perfecta para ordenar tu espacio de manera eficiente!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	¡Felicitaciones por la compra de la grúa! Aquí hay un breve tutorial sobre cómo trabajar con él.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Para utilizar la grúa, simplemente toque el icono. Ahora ha ingresado al modo GRÚA.
+In CRANE mode, choose an item on the field that you'd like to interact with.	En el modo GRÚA, elija un elemento del campo con el que le gustaría interactuar.
+Next, select an empty field where you want to move the chosen item.	A continuación, seleccione un campo vacío donde desea mover el elemento elegido.
+Now, press on the crane once more to execute the action.	Ahora, presiona la grúa una vez más para ejecutar la acción.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	A medida que actualices, obtendrás la capacidad de cambiar no solo a campos vacíos sino también intercambiarlos con otros elementos.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	¡No tengas miedo de experimentar! Si encuentra un error, el juego le dará una indicación. {#}Intenta provocar un error (por ejemplo, haz clic en 2 celdas vacías).
+This is the error indication.	Esta es la indicación de error.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	Y por último, pero no menos importante, intenta deseleccionar. Para hacerlo, presione sobre el elemento previamente seleccionado, o sobre la grúa (si aún no ha seleccionado la segunda celda).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	¡Felicitaciones por mejorar su cerca! Veamos de qué es capaz ahora.
+To use the fence, click on one of the blue (cyan) objects around the field.	Para usar la cerca, haga clic en uno de los objetos azules (cian) alrededor del campo.
+Swipe the chosen object(s) towards the fence you've initiated.	Desliza los objetos elegidos hacia la valla que has iniciado.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Las vallas normalmente necesitan algo de tiempo antes de que puedas volver a usarlas, así que planifica tus movimientos en consecuencia.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	La cerca hidráulica cambia las reglas del juego: puede manejar todo tipo de basura, incluso la que no es magnética.
+It's your go-to tool for bio-garbage removal. Give it a shot!	Es su herramienta de referencia para la eliminación de biobasura. ¡Dale un tiro!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	¡Acabas de comprar una actualización, es decir, aproximadamente el 10 % de lo que se necesita para aumentar el tamaño del campo!
+Keep up! :D	¡Mantenga! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	Recibirás residuos orgánicos con una probabilidad del {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	Recibirás restos de óxido con una probabilidad del {#prob}%
+The probability of obtaining an improved detail is {#prob}%	La probabilidad de obtener un detalle mejorado es {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	La probabilidad de fusionar dos detalles con éxito es aproximadamente {#prob}%
+Magnets will break with a probability of {#prob}%	Los imanes se romperán con una probabilidad del {#prob}%
+More details will drop on the field after {#move} moves	Más detalles aparecerán en el campo después de que {#move} se mueva
+No Workshop	Sin taller
+Collects {#cell1}. Cooldown time:	Recoge {#cell1}. Tiempo de enfriamiento:
+Collects {#cell1} and {#cell2}. Cooldown time:	Recopila {#cell1} y {#cell2}. Tiempo de enfriamiento:
+No Crane	Sin grúa
+Move items up to {#cell3}.	Mover elementos hasta {#cell3}.
+Move items up to {#cell6}.	Mover elementos hasta {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Mueva elementos hasta {#cell6} e intercámbielos con elementos hasta {#cell2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Mueva elementos hasta {#cell11} e intercámbielos con elementos hasta {#cell6}.
+Move anything and swap it with items up to {#cell9}.	Mueve cualquier cosa e intercámbiala con elementos hasta {#cell9}.
+Move and swap anything!	¡Muévete e intercambia cualquier cosa!
+Simple fence	valla sencilla
+Available again after following number of moves: {#move}	Disponible nuevamente después de la siguiente cantidad de movimientos: {#move}
+Details failed to merge!	¡Los detalles no pudieron fusionarse!
+Warning! Languages besides English could have some errors (and English also, lol)	¡Advertencia! Otros idiomas además del inglés pueden tener algunos errores (y el inglés también, jajaja)
+The game was saved. You can exit, and resume it later	El juego fue salvado. Puedes salir y reanudarlo más tarde.
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Una grúa es una herramienta que permite reubicar objetos en el campo. La versión básica funciona sólo arrastrando objetos ligeros a un lugar vacío. Con las actualizaciones, puedes arrastrar elementos más complejos e incluso intercambiar dos objetos. Para usarlo, haga clic en el icono de la grúa, seleccione el objeto y seleccione el lugar donde desea colocarlo.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	¿Estás cansado de que las piezas simples interfieran con tus construcciones avanzadas? ¡Usa el taller!{#}Taller: un pequeño edificio separado donde es posible el procesamiento manual de piezas simples. Cuanto mayor sea el nivel del taller, más piezas podrá procesar. Además, la mejora te permite usarlo con más frecuencia.{#}Para usarlo, haz clic en el ícono del taller a menos que esté en tiempo de reutilización.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	¿Viste esa cosa en las esquinas de tu campo? ¿Qué tal si lo hacemos útil? ¡Mejora tu cerca agregando la capacidad de abrirla!{#}Te permite deshacerte de escombros no mecánicos. Es posible realizar mejoras adicionales a las bombas, lo que permitirá el uso de la guía hidráulica con mayor frecuencia.{#}Para usarla, haga clic en la sección deseada de la guía y tire de las piezas en esa dirección. Todas las partes de la fila donde está abierta la cerca se desecharán. Recuerde: ¡la seguridad es lo primero!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Lamentablemente, no todo el mundo es responsable de clasificar los residuos. A veces, los contenedores con basura se encuentran con trozos de madera, desechos y otra basura común.{#}Instale equipos de clasificación adicionales y reduzca el porcentaje de desechos no mecánicos a cero.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	El cambio climático global, e incluso en el desierto, las lluvias se han vuelto comunes. Quizás para alguien sea incluso útil, pero algunas piezas pueden oxidarse, haciendo imposible su reciclaje. El refuerzo de la impermeabilización reduce la probabilidad de corrosión de las piezas.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	¿Quiere acelerar el proceso de reciclaje? ¡Agregue una unidad de premontaje a su transportador! Una vez instalado, algunas piezas eliminadas serán más avanzadas.{#}Esta actualización es obligatoria si desea aumentar el tamaño de su campo.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Nada es perfecto. También se aplica al proceso de montaje. ¿Has notado que a veces las piezas se rompen durante la fusión? Afortunadamente, puedo asegurarles que sólo afecta al montaje del motor. Las piezas más complicadas no son un problema. Pero sigue siendo molesto, ¿verdad?{#}Pero puedes hacer que este proceso sea más confiable calibrando tu equipo.{#}Esta actualización es obligatoria si deseas aumentar el tamaño de tu campo.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Ventajas de apilar artículos en los desiertos: no se oxidan mucho en ambientes secos. Desventajas: puede hacer mucho calor aquí.{#}Cuanto más trabaje, más tiempo deberá esperar entre cada reciclaje, lo que permitirá que su equipo vuelva a una temperatura adecuada. Esto hace que se acumulen más elementos entre tus movimientos. Puede actualizar el sistema de enfriamiento, lo que le brindará más tiempo para reciclar.{#}Esta actualización es obligatoria si desea aumentar el tamaño de su campo.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	Los electroimanes de bricolaje a veces pueden fallar. Mejórelos para reducir el mal funcionamiento.{#}Esta actualización es obligatoria si desea aumentar el tamaño de su campo.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	¿Alguna vez te has preguntado por qué tengo un campo tan pequeño? ¿No es inconveniente trabajar con construcciones grandes? La solución es simple: ¡amplíe el tamaño de su campo! {#}Tenga en cuenta que antes de expandirse, debe asegurarse de haber adquirido en su totalidad las siguientes actualizaciones: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} y {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	El tamaño del nivel que has seleccionado en el menú principal difiere de tu juego guardado. Puedes finalizar un juego guardado y comenzar uno nuevo, si lo deseas.{#}¿Qué quieres hacer con el juego guardado?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Un desguace en medio del desierto. Podrías decir que es el lugar perfecto para almacenar chatarra de metal: mucho espacio libre y clima seco. Aunque ya no. En el año 2048, el clima realmente se volvió loco.{#}No elegí pasar mi vida aquí. No soy rico, y las fronteras están cerradas para personas como yo. Cuando era niño, soñaba con conquistar el espacio. Y ahora, me encuentro atrapado en medio de la nada.{#}Entonces, la única opción es trabajar. Y nunca rechazo la ayuda, estoy feliz de encontrarte aquí. Contigo, sé que algún día llegaré al espacio.{#}Entonces, ¿qué te parece esto: trabajamos juntos, reciclamos tantas piezas como podamos y nos ayudamos mutuamente a mejorar nuestras vidas. ¿Trato?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	¡Acabas de terminar el juego!{#}Los desarrolladores estadounidenses colocan aquí una larga lista de nombres de trabajadores. Pero este juego fue desarrollado solo por mí (Gleb The Polar Citizen).{#}¡Quiero agradecer a mi esposa, darle un agradecimiento especial a Anna M. por el increíble auto y a todos los traductores!{#}Si quieres , ¡puedes seguir jugando a este juego o buscar otros juegos que desarrollé!{#}¡Mantente fuerte!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Sin anuncios
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Puede comprar esta actualización para eliminar anuncios básicos.{#}¡No afectará a los anuncios revard!{#}El botón para duplicar puntuaciones seguirá estando disponible. Por lo tanto, afectará solo a los anuncios que aparecen después del juego.{#}Además, si estás buscando una manera de apoyarme, mejor considera visitar buymeacoffe, el botón del corazón, ubicado con los botones multimedia.

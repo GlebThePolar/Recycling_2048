@@ -1,0 +1,142 @@
+en	de
+English	German
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	place_your_(translator)_name_here
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Kaufen
+Back to menu	Zurück zum Menü
+Settings	Einstellungen
+Play	Spielen
+Shop	Geschäft
+Coins:	Münzen:
+Exit	Ausfahrt
+Set the level	Stellen Sie den Pegel ein
+Sell All	Alles verkaufen
+Details:	Einzelheiten:
+Double coins!{#}(Watch Ad)	Doppelte Münzen!{#}(Anzeige ansehen)
+Restart	Neu starten
+Advertisement watched	Werbung angeschaut
+Received coins:	Erhaltene Münzen:
+Sound volume	Lautstärke
+next	nächste
+Tower crane	Turmdrehkran
+Workshop	Werkstatt
+Hydraulic fence	Hydraulischer Zaun
+Sorting of details	Sortieren von Details
+Waterproofing	Abdichtung
+Preprocessing	Vorverarbeitung
+Equipment calibration	Gerätekalibrierung
+Cooling system	Kühlsystem
+Magnets	Magnete
+Increase field size: {#price}	Feldgröße erhöhen: {#price}
+See story	Siehe Geschichte
+Pause	Pause
+End round	Runde beenden
+Continue	Weitermachen
+End saved game, and start a new one	Beenden Sie das gespeicherte Spiel und starten Sie ein neues
+Tutorials	Tutorials
+Basic	Basic
+Fence	Zaun
+Crane	Kran
+Workshop	Werkstatt
+Before	Vor
+Now	Jetzt
+Next	Nächste
+Max detail:	Maximales Detail:
+Bolt	Bolzen
+Gear	Gang
+Gear box	Getriebe
+Bearing	Lager
+Piston	Kolben
+Engine	Motor
+Moped	Moped
+Motorcycle	Motorrad
+Car	Auto
+Pickup	Abholen
+Truck	LKW
+Biplane	Doppeldecker
+Helicopter	Hubschrauber
+Plane	Flugzeug
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Raketenantrieb
+Soyuz	Sojus
+Rocket	Rakete
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Hallo und willkommen bei „Recycling: 2048“! Sind Sie bereit für eine Herausforderung? In diesem Tutorial lernen Sie die für das Recycling benötigte Basis kennen, einige Funktionen können Sie jedoch nur selbst finden!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Um das Feld herum befinden sich 4 Magnete (orangefarbene Objekte). Sie können sie durch Wischen (Bewegen Ihres Fingers über den Bildschirm) aktivieren. Sie können alle magnetischen Materialien bewegen – perfekt für die Details, mit denen wir arbeiten! Probieren Sie es aus, indem Sie ein Objekt (z. B. den Bolzen) dreimal bewegen.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	Ein neues Detail ist aufgetaucht: ein Bolzen. Während manche es vielleicht als Müll ansehen, können wir es zu etwas Fortschrittlicherem recyceln, zum Beispiel zu einer Ausrüstung!
+Recycle two bolts into a gear by moving them together.	Recyceln Sie zwei Bolzen zu einem Zahnrad, indem Sie sie zusammen bewegen.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Fantastisch! Du hast gerade etwas Müll recycelt! Machen Sie weiter so, und gemeinsam können wir unser Ziel erreichen, ein besseres Leben zu schaffen.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	Oh nein, der Magnet ist kaputt! :({#} Sie sehen, der rechte Magnet ist jetzt rot.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Versuchen Sie ein paar Mal, den richtigen Magneten zu aktivieren, und stellen Sie sicher, dass nichts passiert. (Nach rechts wischen)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Sie sehen, es ist nichts passiert. Versuchen Sie nun, in verschiedene Richtungen (nach oben und unten) zu wischen. Warten wir, bis sich der Magnet selbst repariert.
+Done! After several moves, all magnets will be repaired.	Erledigt! Nach mehreren Umzügen sind alle Magnete repariert.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Lassen Sie uns nun über Biomüll (die Apfelreste) sprechen. Versuchen Sie es zu verschieben.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Da Biomüll keine magnetischen Materialien enthält, können Magnete ihn nicht bewegen.
+Don't forget to sort your garbage! :)	Vergessen Sie nicht, Ihren Müll zu sortieren! :) :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Das ist Rostmüll. Es kann auch nicht recycelt werden. Die Zahl gibt an, wie lange es dauert, bis es verrostet und verschwindet.
+Amazing! You've improved your recycling skills!	Toll! Sie haben Ihre Recyclingfähigkeiten verbessert!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Herzlichen Glückwunsch zum Erwerb der Werkstatt! Lassen Sie uns in ein kurzes Tutorial eintauchen, wie Sie das Beste daraus machen.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Kombinieren Sie mit dem Workshop einfache Details aus allen Bereichen sofort. Probieren Sie es jetzt aus!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Es ist ziemlich cool, oder? Denken Sie nur an die Abklingzeit. Es dauert einige Zeit, also nutzen Sie es mit Bedacht!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Seien Sie vorsichtig, wenn für den Workshop nur ein Detail verfügbar ist. Es kann nicht kombiniert werden und der Artikel wird einfach zurückgesendet.
+So, just use it carefully.	Gehen Sie also vorsichtig damit um.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Die Werkstatt glänzt, wenn man von nervigen einfachen Details umgeben ist. Es ist das perfekte Werkzeug, um Ihren Raum effizient aufzuräumen!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Herzlichen Glückwunsch zum Kauf des Krans! Hier ist eine kurze Anleitung, wie man damit arbeitet.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Um den Kran zu benutzen, tippen Sie einfach auf das Symbol. Jetzt sind Sie im KRAN-Modus.
+In CRANE mode, choose an item on the field that you'd like to interact with.	Wählen Sie im KRAN-Modus ein Element auf dem Feld aus, mit dem Sie interagieren möchten.
+Next, select an empty field where you want to move the chosen item.	Wählen Sie als Nächstes ein leeres Feld aus, in das Sie das ausgewählte Element verschieben möchten.
+Now, press on the crane once more to execute the action.	Drücken Sie nun noch einmal auf den Kran, um die Aktion auszuführen.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	Wenn Sie ein Upgrade durchführen, erhalten Sie die Möglichkeit, nicht nur leere Felder zu ändern, sondern diese auch mit anderen Elementen auszutauschen.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Haben Sie keine Angst vor Experimenten! Wenn ein Fehler auftritt, gibt das Spiel einen Hinweis. {#}Versuchen Sie, einen Fehler zu verursachen (z. B. auf zwei leere Zellen klicken).
+This is the error indication.	Dies ist die Fehleranzeige.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	Und zu guter Letzt: Versuchen Sie, die Auswahl aufzuheben. Drücken Sie dazu auf das zuvor ausgewählte Element oder auf den Kran (falls Sie die zweite Zelle noch nicht ausgewählt haben).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Herzlichen Glückwunsch zur Modernisierung Ihres Zauns! Mal sehen, wozu es jetzt fähig ist.
+To use the fence, click on one of the blue (cyan) objects around the field.	Um den Zaun zu verwenden, klicken Sie auf eines der blauen (cyanfarbenen) Objekte rund um das Feld.
+Swipe the chosen object(s) towards the fence you've initiated.	Wischen Sie mit dem/den ausgewählten Objekt(en) in Richtung des Zauns, den Sie initiiert haben.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Zäune benötigen in der Regel einige Zeit, bevor Sie sie wieder verwenden können. Planen Sie Ihre Umzüge daher entsprechend.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Der hydraulische Zaun ist ein echter Wendepunkt – er kann mit allen Arten von Müll umgehen, auch mit nichtmagnetischem.
+It's your go-to tool for bio-garbage removal. Give it a shot!	Es ist Ihr Werkzeug zur Beseitigung von Biomüll. Versuch es einmal!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Sie haben gerade ein Upgrade gekauft, das sind etwa 10 % des Betrags, der für die Vergrößerung der Feldgröße benötigt wird!
+Keep up! :D	Weitermachen! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	Sie erhalten mit einer Wahrscheinlichkeit von {#prob}% organischen Abfall.
+You will recive rust debris with probabiliy of {#prob}%	Sie werden mit einer Wahrscheinlichkeit von {#prob}% Rostablagerungen erhalten.
+The probability of obtaining an improved detail is {#prob}%	Die Wahrscheinlichkeit, ein verbessertes Detail zu erhalten, beträgt {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	Die Wahrscheinlichkeit, zwei Details erfolgreich zusammenzuführen, beträgt ungefähr {#prob}%
+Magnets will break with a probability of {#prob}%	Magnete brechen mit einer Wahrscheinlichkeit von {#prob}%
+More details will drop on the field after {#move} moves	Weitere Details werden auf dem Feld angezeigt, nachdem {#move} bewegt wurde
+No Workshop	Keine Werkstatt
+Collects {#cell1}. Cooldown time:	Sammelt {#cell1}. Abklingzeit:
+Collects {#cell1} and {#cell2}. Cooldown time:	Sammelt {#cell1} und {#cell2}. Abklingzeit:
+No Crane	Kein Kran
+Move items up to {#cell3}.	Verschieben Sie Elemente nach oben zu {#cell3}.
+Move items up to {#cell6}.	Verschieben Sie Elemente nach oben zu {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Verschieben Sie Elemente bis {#cell6} und tauschen Sie sie mit Elementen bis {#cell2} aus.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Verschieben Sie Elemente bis {#cell11} und tauschen Sie sie mit Elementen bis {#cell6} aus.
+Move anything and swap it with items up to {#cell9}.	Verschieben Sie alles und tauschen Sie es mit Gegenständen bis zu {#cell9} aus.
+Move and swap anything!	Bewegen und tauschen Sie alles!
+Simple fence	Einfacher Zaun
+Available again after following number of moves: {#move}	Nach folgender Anzahl an Zügen wieder verfügbar: {#move}
+Details failed to merge!	Details konnten nicht zusammengeführt werden!
+Warning! Languages besides English could have some errors (and English also, lol)	Warnung! Andere Sprachen als Englisch könnten einige Fehler enthalten (und auch Englisch, lol)
+The game was saved. You can exit, and resume it later	Das Spiel wurde gespeichert. Sie können den Vorgang beenden und später fortsetzen
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Ein Kran ist ein Werkzeug, mit dem Sie Gegenstände auf dem Feld verschieben können. Die Basisversion funktioniert nur durch Ziehen von Lichtobjekten an eine leere Stelle. Mit Upgrades können Sie komplexere Elemente ziehen und sogar zwei Objekte austauschen. Um es zu verwenden, klicken Sie auf das Kransymbol, wählen Sie das Objekt aus und wählen Sie einen Ort aus, an dem Sie es platzieren möchten.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Sind Sie es leid, dass bei Ihren fortgeschrittenen Builds einfache Teile herumspielen? Nutzen Sie die Werkstatt!{#}Werkstatt – ein kleines abgetrenntes Gebäude, in dem die manuelle Bearbeitung einfacher Teile möglich ist. Je höher das Level der Werkstatt, desto mehr Teile können bearbeitet werden. Durch die Verbesserung können Sie es außerdem häufiger verwenden.{#}Um es zu verwenden, klicken Sie auf das Werkstattsymbol, es sei denn, es befindet sich in der Abklingzeit.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Hast du das Ding hinter deinen Feldecken gesehen? Wie wäre es damit, es nützlich zu machen? Verbessern Sie Ihren Zaun, indem Sie ihn öffnen können!{#}Ermöglicht Ihnen, nicht-mechanische Ablagerungen zu entfernen. Weitere Verbesserungen an den Pumpen sind möglich, sodass der hydraulische Zaun häufiger verwendet werden kann.{#}Um ihn zu verwenden, klicken Sie auf den gewünschten Abschnitt des Zauns und ziehen Sie die Teile in diese Richtung. Alle Teile in der Reihe, in der der Zaun offen ist, werden weggeworfen. Denken Sie daran: Sicherheit geht vor!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Leider ist nicht jeder für die Mülltrennung verantwortlich. Manchmal stoßen Container mit Müll auf Holzstücke, Abfall und anderen gewöhnlichen Müll.{#}Installieren Sie zusätzliche Sortiergeräte und reduzieren Sie den Anteil nichtmechanischer Abfälle auf Null.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	Der globale Klimawandel und selbst in der Wüste sind Regenfälle an der Tagesordnung. Vielleicht ist es für jemanden sogar nützlich, aber einige Teile können rosten, sodass sie nicht recycelt werden können. Durch die Verstärkung der Wasserdichtigkeit wird die Wahrscheinlichkeit einer Korrosion von Teilen verringert.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Möchten Sie den Recyclingprozess beschleunigen? Ergänzen Sie Ihren Transporter um eine Vormontageeinheit! Wenn es installiert ist, werden einige weggelassene Teile erweitert.{#}Dieses Upgrade ist obligatorisch, wenn Sie die Größe Ihres Feldes erhöhen möchten.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Nichts ist perfekt. Dies gilt auch für den Montageprozess. Ist Ihnen aufgefallen, dass beim Zusammenfügen manchmal Teile kaputt gehen? Glücklicherweise kann ich Ihnen versichern, dass es nur die Montage des Motors betrifft – kompliziertere Teile sind kein Problem. Aber immer noch ärgerlich, oder?{#}Aber Sie können diesen Prozess zuverlässiger machen, indem Sie Ihre Ausrüstung kalibrieren.{#}Dieses Upgrade ist obligatorisch, wenn Sie die Größe Ihres Feldes vergrößern möchten.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Vorteile des Stapelns von Gegenständen in Wüsten: In trockenen Umgebungen rosten sie nicht viel. Nachteile – hier kann es sehr heiß sein.{#}Je mehr Sie arbeiten, desto mehr Zeit müssen Sie zwischen den einzelnen Recyclingvorgängen warten, damit Ihre Geräte wieder eine angemessene Temperatur erreichen können. Dies führt dazu, dass sich zwischen Ihren Zügen mehr Gegenstände ansammeln. Sie können das Kühlsystem aufrüsten, um sich eine längere Recyclingzeit zu verschaffen.{#}Diese Aufrüstung ist obligatorisch, wenn Sie Ihr Feld vergrößern möchten.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	Selbstgebaute Elektromagnete können manchmal versagen. Verbessern Sie diese, um Fehlfunktionen zu reduzieren.{#}Dieses Upgrade ist obligatorisch, wenn Sie Ihr Feld vergrößern möchten.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Haben Sie sich jemals gefragt, warum ich ein so kleines Feld habe? Ist es nicht unbequem, mit großen Builds zu arbeiten? Die Lösung ist einfach: Erweitern Sie Ihre Feldgröße! {#}Beachten Sie, dass Sie vor der Erweiterung sicherstellen müssen, dass die folgenden Upgrades vollständig erworben sind: {#equipment_libration}, {#magnets}, {#preprocessing_of_details} und {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Die Levelgröße, die Sie im Hauptmenü ausgewählt haben, unterscheidet sich von Ihrem gespeicherten Spiel. Sie können ein einzelnes Spiel beenden und ein neues starten, wenn Sie möchten.{#}Was möchten Sie mit dem gespeicherten Spiel machen?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Ein Schrottplatz mitten in der Wüste. Man könnte sagen, es ist der perfekte Ort, um Metallschrott zu lagern - viel freier Platz und trockenes Wetter. Aber nicht mehr. Im Jahr 2048 ist das Wetter wirklich verrückt geworden.{#}Ich habe nicht gewählt, mein Leben hier zu verbringen. Ich bin nicht reich, und die Grenzen sind für Leute wie mich geschlossen. Als Kind träumte ich davon, den Weltraum zu erobern. Und jetzt stecke ich hier fest, mitten im Nirgendwo.{#}Also ist die einzige Option zu arbeiten. Und ich lehne nie Hilfe ab, ich bin froh, dich hier gefunden zu haben. Mit dir weiß ich, dass ich eines Tages ins All gelangen werde.{#}Also, was sagst du dazu: Lass uns zusammenarbeiten, so viele Teile wie möglich recyceln und uns gegenseitig helfen, unsere Leben zu verbessern. Einverstanden?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Du hast gerade das Spiel beendet!{#}Normale Entwickler platzieren hier eine lange Liste mit Arbeiternamen. Aber dieses Spiel wurde nur von mir (Gleb The Polar Citizen) entwickelt.{#}Ich möchte meiner Frau danken, ein besonderer Dank geht an Anna M. für das Asweme-Auto und an alle Übersetzer!!{#}Wenn Sie möchten , du kannst dieses Spiel weiterspielen oder nach anderen Spielen suchen, die ich entwickelt habe!{#}Bleib stark!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Keine Werbung
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Sie können dieses Upgrade zum Entfernen von Basisanzeigen kaufen.{#}Es hat keine Auswirkungen auf Revard-Anzeigen!{#}Die Schaltfläche zum Verdoppeln der Punkte bleibt weiterhin verfügbar. Es betrifft also nur Anzeigen, die nach dem Spiel erscheinen.{#}Außerdem, wenn Sie nur nach einer Möglichkeit suchen, mich zu unterstützen, sollten Sie besser einen Besuch bei buymeacoffe in Betracht ziehen – dem Herz-Button, der sich neben den Medien-Buttons befindet.

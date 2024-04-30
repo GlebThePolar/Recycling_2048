@@ -1,0 +1,142 @@
+en	el
+English	Greek
+lat	el
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	place_your_(translator)_name_here
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Αγορά
+Back to menu	Πίσω στο μενού
+Settings	Ρυθμίσεις
+Play	Παίζω
+Shop	Κατάστημα
+Coins:	Νομίσματα:
+Exit	Εξοδος
+Set the level	Ρυθμίστε το επίπεδο
+Sell All	Πούλησε τα όλα
+Details:	Λεπτομέριες:
+Double coins!{#}(Watch Ad)	Διπλά νομίσματα!{#}(Παρακολουθήστε τη διαφήμιση)
+Restart	Επανεκκίνηση
+Advertisement watched	Η διαφήμιση παρακολουθήθηκε
+Received coins:	Λήφθηκαν νομίσματα:
+Sound volume	Ενταση ήχου
+next	Επόμενο
+Tower crane	Πύργος γερανός
+Workshop	ΕΡΓΑΣΤΗΡΙ
+Hydraulic fence	Υδραυλική περίφραξη
+Sorting of details	Ταξινόμηση λεπτομερειών
+Waterproofing	Στεγανοποίηση
+Preprocessing	Προεπεξεργασία
+Equipment calibration	Βαθμονόμηση εξοπλισμού
+Cooling system	Σύστημα ψύξης
+Magnets	Μαγνήτες
+Increase field size: {#price}	Αύξηση μεγέθους πεδίου: {#price}
+See story	Δείτε την ιστορία
+Pause	Παύση
+End round	Τέλος γύρου
+Continue	Να συνεχίσει
+End saved game, and start a new one	Τερματίστε το αποθηκευμένο παιχνίδι και ξεκινήστε ένα νέο
+Tutorials	Φροντιστήρια
+Basic	Βασικός
+Fence	Φράκτης
+Crane	Γερανός
+Workshop	ΕΡΓΑΣΤΗΡΙ
+Before	Πριν
+Now	Τώρα
+Next	Επόμενο
+Max detail:	Μέγιστη λεπτομέρεια:
+Bolt	Μπουλόνι
+Gear	Μηχανισμός
+Gear box	Κιβώτιο ταχυτήτων
+Bearing	Ρουλεμάν
+Piston	Εμβολο
+Engine	Κινητήρας
+Moped	Μοτοποδήλατο
+Motorcycle	Μοτοσυκλέτα
+Car	Αυτοκίνητο
+Pickup	Μαζεύω
+Truck	Φορτηγό
+Biplane	Διπλανό
+Helicopter	Ελικόπτερο
+Plane	Επίπεδο
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Μηχανή πυραύλων
+Soyuz	Σογιούζ
+Rocket	Ρουκέτα
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Γεια σας και καλωσορίσατε στο 'Ανακύκλωση: 2048'! Είστε έτοιμοι για κάποια πρόκληση. Σε αυτό το σεμινάριο θα μάθετε τη βάση που απαιτείται για την ανακύκλωση, αλλά ορισμένα χαρακτηριστικά μπορείτε να βρείτε μόνοι σας!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Υπάρχουν 4 μαγνήτες γύρω από το πεδίο (πορτοκαλί αντικείμενα). Μπορείτε να τα ενεργοποιήσετε κάνοντας σάρωση (μετακινήστε το δάχτυλό σας στην οθόνη). Μπορούν να μετακινήσουν οποιαδήποτε μαγνητικά υλικά - τέλεια για τις λεπτομέρειες με τις οποίες δουλεύουμε! Δοκιμάστε το μετακινώντας ένα αντικείμενο (όπως το μπουλόνι) τρεις φορές.
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	Μια νέα λεπτομέρεια εμφανίστηκε: ένα μπουλόνι. Ενώ κάποιοι μπορεί να το βλέπουν ως σκουπίδια, μπορούμε να το ανακυκλώσουμε σε κάτι πιο προηγμένο, όπως ένα εργαλείο!
+Recycle two bolts into a gear by moving them together.	Ανακυκλώστε δύο μπουλόνια σε ένα γρανάζι μετακινώντας τα μαζί.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Φανταστικός! Μόλις ανακυκλώσατε μερικά σκουπίδια! Συνεχίστε έτσι και μαζί μπορούμε να πετύχουμε τον στόχο μας να δημιουργήσουμε μια καλύτερη ζωή.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	Α, όχι, ο μαγνήτης έχει σπάσει! :({#} Βλέπετε, ο σωστός μαγνήτης είναι κόκκινος τώρα.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Δοκιμάστε να ενεργοποιήσετε τον σωστό μαγνήτη μερικές φορές και δείτε ότι δεν συμβαίνει τίποτα. (Σύρετε προς τα δεξιά)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Βλέπετε, δεν έγινε τίποτα. Τώρα δοκιμάστε να σύρετε προς διαφορετικές κατευθύνσεις (πάνω και κάτω). Ας περιμένουμε μέχρι ο μαγνήτης να επισκευαστεί μόνος του.
+Done! After several moves, all magnets will be repaired.	Εγινε! Μετά από αρκετές κινήσεις, όλοι οι μαγνήτες θα επισκευαστούν.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Τώρα, ας μιλήσουμε για τα βιολογικά σκουπίδια (τα μήλα που περίσσεψαν). Δοκιμάστε να το μετακινήσετε.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Επειδή τα βιολογικά σκουπίδια δεν διαθέτουν μαγνητικά υλικά, οι μαγνήτες δεν μπορούν να τα μετακινήσουν.
+Don't forget to sort your garbage! :)	Μην ξεχάσετε να ταξινομήσετε τα σκουπίδια σας! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Πρόκειται για σκουπίδια σκουριάς. ούτε μπορεί να ανακυκλωθεί. Ο αριθμός υποδεικνύει πόσο χρόνο χρειάζεται για να σκουριάσει και να εξαφανιστεί.
+Amazing! You've improved your recycling skills!	Φοβερο! Βελτιώσατε τις δεξιότητές σας στην ανακύκλωση!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Συγχαρητήρια για την απόκτηση του εργαστηρίου! Ας βουτήξουμε σε ένα γρήγορο σεμινάριο για το πώς να το αξιοποιήσετε στο έπακρο.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Συνδυάστε απλές λεπτομέρειες άμεσα από όλα τα πεδία χρησιμοποιώντας το εργαστήριο. Δοκιμάστε το τώρα!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Είναι πολύ ωραίο, σωστά. Απλά να έχετε κατά νου το cooldown? παίρνει λίγο χρόνο, γι' αυτό χρησιμοποιήστε το με σύνεση!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Να είστε προσεκτικοί όταν υπάρχει μόνο μία λεπτομέρεια διαθέσιμη για το εργαστήριο. Δεν θα μπορεί να το συνδυάσει και απλώς θα επιστρέψει το αντικείμενο πίσω.
+So, just use it carefully.	Επομένως, απλά χρησιμοποιήστε το προσεκτικά.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Το εργαστήριο λάμπει όταν περιτριγυρίζεσαι από ενοχλητικές απλές λεπτομέρειες. Είναι το τέλειο εργαλείο για να τακτοποιήσετε αποτελεσματικά τον χώρο σας!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Συγχαρητήρια για την αγορά του γερανού! Ακολουθεί ένα σύντομο σεμινάριο για το πώς να το δουλέψετε.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Για να χρησιμοποιήσετε τον γερανό, απλώς πατήστε στο εικονίδιο. Τώρα, έχετε μπει σε λειτουργία CRANE.
+In CRANE mode, choose an item on the field that you'd like to interact with.	Στη λειτουργία CRANE, επιλέξτε ένα στοιχείο στο πεδίο με το οποίο θέλετε να αλληλεπιδράσετε.
+Next, select an empty field where you want to move the chosen item.	Στη συνέχεια, επιλέξτε ένα κενό πεδίο όπου θέλετε να μετακινήσετε το επιλεγμένο στοιχείο.
+Now, press on the crane once more to execute the action.	Τώρα, πατήστε ξανά τον γερανό για να εκτελέσετε την ενέργεια.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	Καθώς κάνετε αναβάθμιση, θα αποκτήσετε τη δυνατότητα να αλλάξετε όχι μόνο σε άδεια πεδία αλλά και να τα ανταλλάξετε με άλλα στοιχεία.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Μην φοβάστε να πειραματιστείτε! Εάν αντιμετωπίσετε κάποιο σφάλμα, το παιχνίδι θα παρέχει μια ένδειξη. {#}Προσπαθήστε να προκαλέσετε σφάλμα (π.χ. κάντε κλικ σε 2 κενά κελιά).
+This is the error indication.	Αυτή είναι η ένδειξη σφάλματος.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	Και τελευταίο, αλλά όχι λιγότερο σημαντικό, δοκιμάστε να αποεπιλέξετε. Για να το κάνετε αυτό, πατήστε στο προηγουμένως επιλεγμένο στοιχείο ή στο γερανό (αν δεν έχετε επιλέξει ακόμη το δεύτερο κελί).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Συγχαρητήρια για την αναβάθμιση του φράχτη σας! Ας δούμε τι είναι ικανό τώρα.
+To use the fence, click on one of the blue (cyan) objects around the field.	Για να χρησιμοποιήσετε το φράχτη, κάντε κλικ σε ένα από τα μπλε (κυανό) αντικείμενα γύρω από το γήπεδο.
+Swipe the chosen object(s) towards the fence you've initiated.	Σύρετε τα επιλεγμένα αντικείμενα προς το φράχτη που ξεκινήσατε.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Οι φράχτες συνήθως χρειάζονται λίγο χρόνο για να μπορέσετε να τους χρησιμοποιήσετε ξανά, οπότε προγραμματίστε τις κινήσεις σας ανάλογα.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Ο υδραυλικός φράκτης αλλάζει το παιχνίδι—μπορεί να χειριστεί κάθε είδους σκουπίδια, ακόμη και μη μαγνητικά.
+It's your go-to tool for bio-garbage removal. Give it a shot!	Είναι το κατάλληλο εργαλείο για την απομάκρυνση των βιολογικών σκουπιδιών. Δώστε του μια βολή!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Μόλις αγοράσατε μία αναβάθμιση, δηλαδή ~10% του waht που απαιτείται για την αύξηση του μεγέθους του πεδίου!
+Keep up! :D	Διατηρώ! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	Θα λάβετε οργανικά απόβλητα με πιθανότητα {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	Θα λάβετε υπολείμματα σκουριάς με πιθανότητα {#prob}%
+The probability of obtaining an improved detail is {#prob}%	Η πιθανότητα να αποκτήσετε μια βελτιωμένη λεπτομέρεια είναι {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	Η πιθανότητα επιτυχούς συγχώνευσης δύο λεπτομερειών είναι περίπου {#prob}%
+Magnets will break with a probability of {#prob}%	Οι μαγνήτες θα σπάσουν με πιθανότητα {#prob}%
+More details will drop on the field after {#move} moves	Περισσότερες λεπτομέρειες θα εμφανιστούν στο πεδίο μετά τις κινήσεις {#move}
+No Workshop	Κανένα εργαστήριο
+Collects {#cell1}. Cooldown time:	Συλλέγει το {#cell1}. Χρόνος ψύξης:
+Collects {#cell1} and {#cell2}. Cooldown time:	Συλλέγει τα {#cell1} και {#cell2}. Χρόνος ψύξης:
+No Crane	Χωρίς Γερανό
+Move items up to {#cell3}.	Μετακινήστε στοιχεία στο {#cell3}.
+Move items up to {#cell6}.	Μετακινήστε στοιχεία στο {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Μετακινήστε στοιχεία μέχρι {#cell6} και αλλάξτε τα με στοιχεία έως {#cell2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Μετακινήστε στοιχεία μέχρι {#cell11} και αλλάξτε τα με στοιχεία έως {#cell6}.
+Move anything and swap it with items up to {#cell9}.	Μετακινήστε οτιδήποτε και αλλάξτε το με στοιχεία έως {#cell9}.
+Move and swap anything!	Μετακινηθείτε και ανταλλάξτε οτιδήποτε!
+Simple fence	Απλός φράχτης
+Available again after following number of moves: {#move}	Διαθέσιμο ξανά μετά τον ακόλουθο αριθμό κινήσεων: {#move}
+Details failed to merge!	Οι λεπτομέρειες απέτυχαν να συγχωνευτούν!
+Warning! Languages besides English could have some errors (and English also, lol)	Προειδοποίηση! Οι γλώσσες εκτός από τα αγγλικά θα μπορούσαν να έχουν κάποια λάθη (και τα αγγλικά επίσης, lol)
+The game was saved. You can exit, and resume it later	Το παιχνίδι σώθηκε. Μπορείτε να βγείτε και να συνεχίσετε αργότερα
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Ο γερανός είναι ένα εργαλείο που σας επιτρέπει να μετακινήσετε αντικείμενα στο γήπεδο. Η βασική έκδοση λειτουργεί μόνο σύροντας ελαφριά αντικείμενα σε ένα κενό μέρος. Με τις αναβαθμίσεις, μπορείτε να σύρετε πιο σύνθετα αντικείμενα, ακόμη και να ανταλλάξετε δύο αντικείμενα. Για να το χρησιμοποιήσετε, κάντε κλικ στο εικονίδιο του γερανού, επιλέξτε το αντικείμενο και επιλέξτε ένα μέρος όπου θέλετε να το τοποθετήσετε.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Βαρεθήκατε τα απλά εξαρτήματα που μπλέκουν με τις προηγμένες κατασκευές σας. Χρησιμοποιήστε το συνεργείο!{#}Εργαστήριο - ένα μικρό ξεχωριστό κτίριο όπου είναι δυνατή η χειροκίνητη επεξεργασία απλών εξαρτημάτων. Όσο υψηλότερο είναι το επίπεδο του συνεργείου, τόσο περισσότερα μέρη μπορεί να επεξεργαστεί. Επίσης, η βελτίωση σάς επιτρέπει να το χρησιμοποιείτε πιο συχνά.{#}Για να το χρησιμοποιήσετε, κάντε κλικ στο εικονίδιο του συνεργείου, εκτός και αν βρίσκεται σε λειτουργία cooldown.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Είδατε αυτό το πράγμα γύρω από τις γωνιές του γηπέδου σας. Τι θα λέγατε να το κάνετε χρήσιμο. Βελτιώστε τον φράχτη σας προσθέτοντας τη δυνατότητα να τον ανοίγετε!{#}Σας επιτρέπει να απαλλαγείτε από μη μηχανικά υπολείμματα. Είναι δυνατές περαιτέρω βελτιώσεις στις αντλίες, επιτρέποντας τη συχνότερη χρήση του υδραυλικού φράχτη.{#}Για να το χρησιμοποιήσετε, κάντε κλικ στο επιθυμητό τμήμα του φράχτη και τραβήξτε τα εξαρτήματα προς αυτή την κατεύθυνση. Όλα τα μέρη της σειράς όπου ο φράχτης είναι ανοιχτός θα πεταχτούν. Θυμηθείτε: πρώτα η ασφάλεια!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Δυστυχώς, δεν είναι όλοι υπεύθυνοι για τη διαλογή των απορριμμάτων. Μερικές φορές τα δοχεία με σκουπίδια συναντούν κομμάτια ξύλου, απορρίμματα και άλλα συνηθισμένα σκουπίδια.{#}Εγκαταστήστε πρόσθετο εξοπλισμό διαλογής και μειώστε το ποσοστό των μη μηχανικών υπολειμμάτων στο μηδέν.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	Η παγκόσμια κλιματική αλλαγή, ακόμη και στην έρημο, οι βροχές έχουν γίνει συνηθισμένες. Ίσως για κάποιον να είναι ακόμη χρήσιμο, αλλά ορισμένα εξαρτήματα μπορεί να σκουριάσουν, καθιστώντας αδύνατη την ανακύκλωσή τους. Η ενίσχυση της στεγανοποίησης μειώνει την πιθανότητα διάβρωσης των εξαρτημάτων.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Θέλετε να επιταχύνετε τη διαδικασία ανακύκλωσης. Προσθέστε μια μονάδα προσυναρμολόγησης στον μεταφορέα σας! Με την εγκατάστασή του, ορισμένα τμήματα που έχουν πέσει θα είναι πιο προηγμένα.{#}Αυτή η αναβάθμιση είναι υποχρεωτική, εάν θέλετε να αυξήσετε το μέγεθος του πεδίου σας.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Τίποτα δεν είναι τέλειο. Ισχύει επίσης για τη διαδικασία συναρμολόγησης. Έχετε παρατηρήσει ότι μερικές φορές τα μέρη σπάνε κατά τη συγχώνευση. Ευτυχώς, μπορώ να σας διαβεβαιώσω ότι επηρεάζει μόνο τη συναρμολόγηση του κινητήρα - τα πιο περίπλοκα μέρη δεν αποτελούν πρόβλημα. Αλλά εξακολουθεί να είναι ενοχλητικό, σωστά.{#}Αλλά μπορείτε να κάνετε αυτή τη διαδικασία πιο αξιόπιστη, βαθμονομώντας τον εξοπλισμό σας.{#}Αυτή η αναβάθμιση είναι υποχρεωτική, εάν θέλετε να αυξήσετε το μέγεθος του πεδίου σας.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Πλεονεκτήματα της στοίβαξης αντικειμένων σε ερήμους - δεν σκουριάζουν πολύ σε ξηρά περιβάλλοντα. Μειονεκτήματα - μπορεί να είναι πολύ ζεστό εδώ.{#}Όσο περισσότερο εργάζεστε, τόσο περισσότερος χρόνος χρειάζεται να περιμένετε μεταξύ κάθε ανακύκλωσης, επιτρέποντας στον εξοπλισμό σας να επιστρέψει στην κατάλληλη θερμοκρασία. Οδηγεί στη συσσώρευση περισσότερων αντικειμένων μεταξύ των κινήσεών σας. Μπορείτε να αναβαθμίσετε το σύστημα ψύξης, παρέχοντας περισσότερο χρόνο για ανακύκλωση.{#}Αυτή η αναβάθμιση είναι υποχρεωτική, εάν θέλετε να αυξήσετε το μέγεθος του χωραφιού σας.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	Οι ηλεκτρομαγνήτες DIY μπορεί μερικές φορές να αποτύχουν. Βελτιώστε τα, για να μειώσετε τις δυσλειτουργίες.{#}Αυτή η αναβάθμιση είναι υποχρεωτική, εάν θέλετε να αυξήσετε το μέγεθος του πεδίου σας.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Έχετε αναρωτηθεί ποτέ, γιατί έχω τόσο μικρό χωράφι. Δεν είναι άβολο να δουλεύεις με μεγάλες κατασκευές. Η λύση είναι απλή - επεκτείνετε το μέγεθος του χωραφιού σας! {#}Λάβετε υπόψη ότι πριν από την επέκταση, πρέπει να βεβαιωθείτε ότι έχουν αγοραστεί πλήρως οι ακόλουθες αναβαθμίσεις: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} και {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Το μέγεθος επιπέδου που έχετε επιλέξει στο κύριο manual, διαφέρει από το αποθηκευμένο παιχνίδι σας. Μπορείτε να τερματίσετε το παιχνίδι seved και να ξεκινήσετε ένα νέο, αν θέλετε.{#}Τι θέλετε να κάνετε με το αποθηκευμένο παιχνίδι.
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Ένα σκουπίδι στη μέση μιας ερήμου. Θα μπορούσατε να πείτε ότι είναι το τέλειο μέρος για να αποθηκεύσετε μεταλλικά υπολείμματα - πολύ ελεύθερο χώρο και ξηρό καιρό. Αν και όχι πια. Το έτος 2048 ο καιρός έχει τρελαθεί πολύ.{#}Δεν επέλεξα να περάσω τη ζωή μου εδώ. Δεν είμαι πλούσιος και τα σύνορα είναι κλειστά για ανθρώπους σαν εμένα. Όταν ήμουν παιδί, ονειρευόμουν να κατακτήσω το διάστημα. Και τώρα, βρίσκομαι κολλημένος στη μέση του πουθενά.{#}Οπότε η μόνη επιλογή είναι να δουλέψω. Και δεν αρνούμαι ποτέ βοήθεια, χαίρομαι που σε βρίσκω εδώ. Μαζί σας ξέρω ότι κάποια μέρα θα φτάσω στο διάστημα.{#}Λοιπόν, τι θα λέγατε για αυτό: δουλεύουμε μαζί, ανακυκλώνουμε όσα περισσότερα μέρη μπορούμε και βοηθάμε ο ένας τον άλλον να κάνουμε τη ζωή μας καλύτερη. Συμφωνία?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Μόλις ολοκληρώσατε το παιχνίδι!{#}Οι προγραμματιστές τοποθετούν εδώ μια μεγάλη λίστα με ονόματα εργαζομένων. Αλλά αυτό το παιχνίδι αναπτύχθηκε μόνο από εμένα (Gleb The Polar Citizen).{#}Θέλω να ευχαριστήσω τη γυναίκα μου, να ευχαριστήσω ιδιαίτερα την Anna M. για το αυτοκίνητο asweme και σε όλους τους μεταφραστές!!{#}Αν θέλετε!!{#}Αν θέλετε. , μπορείτε να συνεχίσετε να παίζετε αυτό το παιχνίδι ή να αναζητήσετε άλλα παιχνίδια που ανέπτυξα!{#}Μείνετε δυνατοί!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Χωρίς διαφημίσεις
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Μπορείτε να αγοράσετε αυτήν την αναβάθμιση για την κατάργηση βασικών διαφημίσεων.{#}Δεν θα επηρεάσει τις διαφημίσεις revard!{#}Το κουμπί για τον διπλασιασμό των βαθμολογιών θα εξακολουθεί να είναι διαθέσιμο. Επομένως, θα επηρεάσει μόνο τις διαφημίσεις που εμφανίζονται μετά το παιχνίδι.{#}Επίσης, αν ψάχνετε έναν τρόπο να με υποστηρίξετε, καλύτερα να επισκεφτείτε το buymeacoffe — το κουμπί καρδιάς, που βρίσκεται με κουμπιά πολυμέσων.

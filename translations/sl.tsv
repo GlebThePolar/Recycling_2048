@@ -1,0 +1,142 @@
+en	sl
+English	Slovenian
+lat	lat
+0123456789!()\/_:&*%	0123456789!()\/_:&*%
+place_your_(translator)_name_here	postavite_svoje_(prevajalsko)_ime_sem
+<!-- Basic names (objects and buttons) -->																																													
+Buy	Nakup
+Back to menu	Nazaj v meni
+Settings	nastavitve
+Play	Igraj
+Shop	Trgovina
+Coins:	kovanci:
+Exit	Izhod
+Set the level	Nastavite nivo
+Sell All	Prodaj vse
+Details:	podrobnosti:
+Double coins!{#}(Watch Ad)	Dvojni kovanci!{#}(Oglejte si oglas)
+Restart	Ponovni zagon
+Advertisement watched	Ogledan oglas
+Received coins:	Prejeti kovanci:
+Sound volume	Glasnost zvoka
+next	Naslednji
+Tower crane	Stolpni žerjav
+Workshop	Delavnica
+Hydraulic fence	Hidravlična ograja
+Sorting of details	Razvrščanje podrobnosti
+Waterproofing	Hidroizolacija
+Preprocessing	Predobdelava
+Equipment calibration	Kalibracija opreme
+Cooling system	Hladilni sistem
+Magnets	Magneti
+Increase field size: {#price}	Povečaj velikost polja: {#price}
+See story	Glej zgodbo
+Pause	Pavza
+End round	Konec kroga
+Continue	Nadaljuj
+End saved game, and start a new one	Končajte shranjeno igro in začnite novo
+Tutorials	Vadnice
+Basic	Osnovno
+Fence	Ograja
+Crane	Žerjav
+Workshop	Delavnica
+Before	prej
+Now	zdaj
+Next	Naslednji
+Max detail:	Največ podrobnosti:
+Bolt	Vijak
+Gear	Gear
+Gear box	Menjalnik
+Bearing	Ležaj
+Piston	Bat
+Engine	Motor
+Moped	Moped
+Motorcycle	Motorno kolo
+Car	avto
+Pickup	Prevzem
+Truck	Tovornjak
+Biplane	Dvokrilno letalo
+Helicopter	Helikopter
+Plane	Letalo
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Raketni motor
+Soyuz	Sojuz
+Rocket	Raketa
+<!-- Tutorials -->																																													
+Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Pozdravljeni in dobrodošli v 'Recycling: 2048'! Ste pripravljeni na kakšen izziv? V tej vadnici boste izvedeli, kaj je potrebno za recikliranje, nekatere funkcije pa lahko najdete le sami!
+There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Okoli polja so 4 magneti (oranžni predmeti). Aktivirate jih lahko s potegom (premikanjem prsta po zaslonu). Lahko premikajo vse magnetne materiale – kot nalašč za podrobnosti, s katerimi delamo! Poskusite tako, da trikrat premaknete predmet (na primer zapah).
+A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	Pojavil se je nov detajl: vijak. Čeprav bi ga nekateri morda videli kot smeti, ga lahko recikliramo v nekaj bolj naprednega, kot je orodje!
+Recycle two bolts into a gear by moving them together.	Reciklirajte dva vijaka v zobnik tako, da ju premaknete skupaj.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	fantastično! Pravkar ste reciklirali nekaj smeti! Kar tako nadaljujte in skupaj lahko dosežemo naš cilj ustvariti boljše življenje.
+Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	Oh, ne, magnet se je pokvaril! :({#} Vidite, desni magnet je zdaj rdeč.
+Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Poskusite nekajkrat aktivirati desni magnet in se prepričajte, da se nič ne zgodi. (Podrsnite v desno)
+You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Vidite, nič se ni zgodilo. Zdaj poskusite povleči v različnih smereh (gor in dol). Počakajmo, da se magnet sam popravi.
+Done! After several moves, all magnets will be repaired.	Končano! Po več premikih bodo vsi magneti popravljeni.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Zdaj pa se pogovorimo o bioloških smeteh (ostankih jabolk). Poskusite ga premakniti.
+Because bio garbage lacks magnetic materials, magnets can't move it.	Ker biosmeti nimajo magnetnih materialov, jih magneti ne morejo premakniti.
+Don't forget to sort your garbage! :)	Ne pozabite sortirati smeti! :)
+This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	To je rjasta smeti. Tudi reciklirati ga ni mogoče. Številka označuje, koliko časa potrebuje, da zarjavi in ​​izgine.
+Amazing! You've improved your recycling skills!	Neverjetno! Izboljšali ste svoje sposobnosti recikliranja!
+Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Čestitke za pridobitev delavnice! Poglobimo se v kratko vadnico o tem, kako to kar najbolje izkoristiti.
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Z delavnico v hipu kombinirajte preproste podrobnosti z vseh področij. Preizkusite zdaj!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Je kar kul, kajne? Samo ne pozabite na ohlajanje. traja nekaj časa, zato ga pametno izkoristite!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Bodite previdni, ko je za delavnico na voljo samo ena podrobnost. Tega ne bo mogel združiti in bo samo vrnil predmet nazaj.
+So, just use it carefully.	Zato ga uporabljajte previdno.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Delavnica zasije, ko ste obkroženi z nadležnimi preprostimi detajli. Je popolno orodje za učinkovito pospravljanje vašega prostora!
+Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Čestitke za nakup žerjava! Tukaj je kratka vadnica o tem, kako delati z njim.
+To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Če želite uporabiti žerjav, se preprosto dotaknite ikone. Zdaj ste vstopili v način CRANE.
+In CRANE mode, choose an item on the field that you'd like to interact with.	V načinu CRANE izberite predmet na polju, s katerim želite komunicirati.
+Next, select an empty field where you want to move the chosen item.	Nato izberite prazno polje, kamor želite premakniti izbrani element.
+Now, press on the crane once more to execute the action.	Zdaj še enkrat pritisnite na žerjav, da izvedete akcijo.
+As you upgrade, you'll gain the ability to change not only to empty fields but also swap them with other items.	Ko nadgradite, boste pridobili možnost, da spremenite ne samo prazna polja, ampak jih tudi zamenjate z drugimi elementi.
+Don't be afraid to experiment! If you encounter an error, the game will provide an indication. {#}Try to cause an error (e.g., click on 2 empty cells).	Ne bojte se eksperimentirati! Če naletite na napako, bo igra ponudila znak. {#}Poskusite povzročiti napako (npr. kliknite 2 prazni celici).
+This is the error indication.	To je znak napake.
+And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	In ne nazadnje, poskusite preklicati izbiro. To storite tako, da pritisnete na predhodno izbran element ali na žerjav (če še niste izbrali druge celice).
+Congratulations on upgrading your fence! Let's see what it is capable of now.	Čestitamo za nadgradnjo vaše ograje! Poglejmo, česa je zdaj sposoben.
+To use the fence, click on one of the blue (cyan) objects around the field.	Če želite uporabiti ograjo, kliknite na enega od modrih (cian) predmetov okoli polja.
+Swipe the chosen object(s) towards the fence you've initiated.	Povlecite izbrane predmete proti ograji, ki ste jo sprožili.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Ograje običajno potrebujejo nekaj časa, preden jih lahko znova uporabite, zato ustrezno načrtujte svoje poteze.
+The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Hidravlična ograja je sprememba igre – kos je vsem vrstam smeti, tudi nemagnetnim.
+It's your go-to tool for bio-garbage removal. Give it a shot!	To je vaše orodje za odstranjevanje bioloških odpadkov. Poskusite!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Pravkar ste kupili eno nadgradnjo, to je ~10 % wahta, potrebnih za povečanje velikosti polja!
+Keep up! :D	vztrajaj! :D
+<!-- Some tips in shop -->																																													
+You will recive organic waste with probabiliy of {#prob}%	Organske odpadke boste prejeli z verjetnostjo {#prob}%
+You will recive rust debris with probabiliy of {#prob}%	Prejeli boste ostanke rje z verjetnostjo {#prob}%
+The probability of obtaining an improved detail is {#prob}%	Verjetnost pridobitve izboljšane podrobnosti je {#prob}%
+The probability of successfully merging two details is approximately {#prob}%	Verjetnost uspešnega združevanja dveh podrobnosti je približno {#prob}%
+Magnets will break with a probability of {#prob}%	Magneti se bodo zlomili z verjetnostjo {#prob}%
+More details will drop on the field after {#move} moves	Več podrobnosti bo padlo na polje po {#move} potezah
+No Workshop	Brez delavnice
+Collects {#cell1}. Cooldown time:	Zbira {#cell1}. Čas ohlajanja:
+Collects {#cell1} and {#cell2}. Cooldown time:	Zbira {#cell1} in {#cell2}. Čas ohlajanja:
+No Crane	Brez žerjava
+Move items up to {#cell3}.	Premakni elemente do {#cell3}.
+Move items up to {#cell6}.	Premakni elemente do {#cell6}.
+Move items up to {#cell6}, and swap them with items up to {#cell2}.	Premaknite elemente do {#cell6} in jih zamenjajte z elementi do {#cell2}.
+Move items up to {#cell11}, and swap them with items up to {#cell6}.	Premaknite elemente do {#cell11} in jih zamenjajte z elementi do {#cell6}.
+Move anything and swap it with items up to {#cell9}.	Premaknite karkoli in zamenjajte s predmeti do {#cell9}.
+Move and swap anything!	Premaknite se in zamenjajte karkoli!
+Simple fence	Preprosta ograja
+Available again after following number of moves: {#move}	Ponovno na voljo po naslednjem številu premikov: {#move}
+Details failed to merge!	Podrobnosti ni uspelo združiti!
+Warning! Languages besides English could have some errors (and English also, lol)	Opozorilo! Jeziki poleg angleščine imajo lahko nekaj napak (in tudi angleščina, lol)
+The game was saved. You can exit, and resume it later	Igra je bila shranjena. Lahko zapustite in nadaljujete pozneje
+<!-- Description (items in shop) -->																																													
+A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Žerjav je orodje, ki vam omogoča prestavljanje predmetov na igrišču. Osnovna različica deluje samo tako, da lahke predmete povlečete na prazno mesto. Z nadgradnjami lahko povlečete bolj zapletene predmete in celo zamenjate dva predmeta. Za uporabo kliknite na ikono žerjava, izberite predmet in izberite mesto, kamor ga želite postaviti.
+Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Ste naveličani preprostih delov, ki se ubadajo z vašimi naprednimi zgradbami? Uporabite delavnico!{#}Delavnica - majhna ločena zgradba, kjer je možna ročna obdelava preprostih delov. Višji kot je nivo delavnice, več delov lahko obdela. Poleg tega vam izboljšava omogoča pogostejšo uporabo.{#}Za uporabo kliknite ikono delavnice, razen če je na ohlajanju.
+Did you see that thing around your field corners? How about making it useful? Improve your fence by adding the ability to open it!{#}Allows you to get rid of non-mechanical debris. Further improvements to the pumps are possible, allowing the use of the hydraulic fence more frequently.{#}To use, click on the desired section of the fence, and pull the parts in that direction. All parts in the row where the fence is open will be thrown away. Remember: safety first!	Ste videli tisto stvar za vogali svojega polja? Kaj pa, če bi bilo uporabno? Izboljšajte svojo ograjo tako, da ji dodate možnost odpiranja!{#}Omogoča vam, da se znebite nemehanskih odpadkov. Možne so nadaljnje izboljšave črpalk, ki omogočajo pogostejšo uporabo hidravlične ograje.{#}Za uporabo kliknite na želeni del ograje in povlecite dele v to smer. Vsi deli v vrsti, kjer je ograja odprta, bodo zavrženi. Ne pozabite: varnost je na prvem mestu!
+Unfortunately, not everyone is responsible for sorting waste. Sometimes containers with garbage come across wood pieces, waste, and other ordinary garbage.{#}Install additional sorting equipment and reduce the percentage of non-mechanical debris down to zero.	Žal vsi niso odgovorni za ločevanje odpadkov. Včasih zabojniki z odpadki naletijo na lesene kose, odpadke in druge običajne smeti.{#}Namestite dodatno opremo za sortiranje in zmanjšajte odstotek nemehanskih odpadkov na nič.
+Global climate change, and even in the desert rains have become common. Perhaps for someone, it is even useful, but some parts can rust, making it impossible to recycle them. Strengthening of waterproofing reduces the likelihood of corrosion of parts.	Globalne podnebne spremembe in celo v puščavi so deževja postala običajna. Morda je za koga celo uporaben, a nekateri deli lahko zarjavijo, zaradi česar jih ni mogoče reciklirati. Okrepitev hidroizolacije zmanjša verjetnost korozije delov.
+Want to speed up the recycling process? Add a pre-assembly unit to your transporter! With it installed, some dropped parts will be more advanced.{#}This upgrade is mandatory, if you want to increase the size of your field.	Želite pospešiti proces recikliranja? Dodajte predmontažno enoto svojemu transporterju! Ko je nameščen, bodo nekateri odpadli deli naprednejši.{#}Ta nadgradnja je obvezna, če želite povečati velikost svojega polja.
+Nothing is perfect. It also applies to the assembly process. Have you noticed, that sometimes parts break during merging? Fortunately, I can assure you, that it affects only the assembly of engine - more complicated parts are no problem. But still annoying, right?{#}But you can make this process more reliable, by calibrating your equipment.{#}This upgrade is mandatory, if you want to increase the size of your field.	Nič ni popolno. Velja tudi za postopek montaže. Ste opazili, da se včasih deli med spajanjem zlomijo? Na srečo vam lahko zagotovim, da vpliva samo na sestavo motorja - bolj zapleteni deli niso problem. Ampak še vedno moteče, kajne?{#}Toda ta postopek lahko naredite bolj zanesljiv, tako da umerite svojo opremo.{#}Ta nadgradnja je obvezna, če želite povečati velikost svojega polja.
+Pros of stacking items in deserts - they don't rust much in dry environments. Cons - it can be really hot here.{#}The more you work, the more time you need to wait between each recycling, allowing your equipment to return to an appropriate temperature. It leads to more items accumulating between your moves. You can upgrade the cooling system, providing yourself a longer time for recycling.{#}This upgrade is mandatory, if you want to increase the size of your field.	Prednosti zlaganja predmetov v puščavah - v suhem okolju ne rjavijo veliko. Proti – tukaj je lahko zelo vroče.{#}Dolč ko delate, več časa morate čakati med vsakim recikliranjem, da se vaša oprema vrne na primerno temperaturo. To vodi do kopičenja več predmetov med vašimi potezami. Hladilni sistem lahko nadgradite in si zagotovite daljši čas za recikliranje.{#}Ta nadgradnja je obvezna, če želite povečati velikost svojega polja.
+DIY electromagnets can sometimes fail. Improve them, to reduce malfunctions.{#}This upgrade is mandatory, if you want to increase the size of your field.	DIY elektromagneti lahko včasih odpovejo. Izboljšajte jih, da zmanjšate napake.{#}Ta nadgradnja je obvezna, če želite povečati velikost svojega polja.
+Have you ever asked yourself, why do I have so small field? Isn't it inconvenient to work with big builds? The solution is simple - expand your field size! {#}Note, that before expanding, you need to make sure that the following upgrades are fully purchased: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} and {#cooling_system}.	Ste se kdaj vprašali, zakaj imam tako majhno polje? Ali ni neprijetno delati z velikimi zgradbami? Rešitev je preprosta - razširite velikost polja! {#}Upoštevajte, da se morate pred razširitvijo prepričati, da so naslednje nadgradnje v celoti kupljene: {#equipment_calibration}, {#magnets}, {#preprocessing_of_details} in {#cooling_system}.
+<!-- And some more texts -->																																													
+The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Velikost ravni, ki ste jo izbrali v glavnem meniju, se razlikuje od vaše shranjene igre. Če želite, lahko končate ločeno igro in začnete novo.{#}Kaj želite narediti s shranjeno igro?
+A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Smetišče sredi puščave. Lahko bi rekli, da je idealen kraj za shranjevanje kovinskih ostankov – veliko prostega prostora in suho vreme. Čeprav ne več. Leta 2048 je vreme res ponorelo.{#}Nisem se odločil, da bom tukaj preživel svoje življenje. Nisem bogat in meje so za ljudi, kot sem jaz, zaprte. Ko sem bil otrok, sem sanjal o osvajanju vesolja. In zdaj sem obtičal sredi ničesar.{#}Edina možnost je torej, da delam. In nikoli ne zavrnem pomoči, vesela sem, da te najdem tukaj. S tabo vem, da bom nekega dne prišel v vesolje.{#}Torej, kaj pa tole: delamo skupaj, recikliramo čim več delov in drug drugemu pomagamo izboljšati svoja življenja. dogovor?
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Pravkar ste končali igro!{#}Običajno razvijalci tukaj namestijo dolg seznam imen delavcev. Toda to igro sem razvil samo jaz (Gleb The Polar Citizen).{#}Želim se zahvaliti svoji ženi, posebej se zahvaliti Ani M. za čudovit avto in vsem prevajalcem!!{#}Če želite , lahko nadaljujete z igranjem te igre ali poiščete druge igre, ki sem jih razvil!{#}Ostanite močni!
+<!-- Yet unused texts (could be used in the future) -->																																													
+No ads	Brez oglasov
+You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	To nadgradnjo lahko kupite za odstranitev osnovnih oglasov.{#}Ne bo vplivalo na povratne oglase!{#}Gumb za podvojitev rezultatov bo še vedno na voljo. Tako bo vplivalo samo na oglase, ki se prikažejo po igri.{#}Prav tako, če samo iščete način, kako me podpreti, raje razmislite o obisku buymeacoffe — srčnega gumba, ki se nahaja poleg medijskih gumbov.
