@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Translation instructions - Recycling: 2048</title>
+    <title>Recycling: 2048</title>
     <style>
         body {
             margin: 0;
@@ -43,6 +43,8 @@
 
         section {
             margin-bottom: 30px;
+            max-width: 1000px;
+            margin:0 auto;
         }
 
         footer {
@@ -77,7 +79,7 @@
           position: absolute;
           top: 50%;
           width: auto;
-          padding: 16px;
+          padding: 12px;
           margin-top: -22px;
           color: white;
           font-weight: bold;
@@ -109,7 +111,7 @@
           text-align: center;
         }
         
-        /* Number text (1/3 etc) */
+        /* Number text (1/5 etc) */
         .numbertext {
           color: #f2f2f2;
           font-size: 12px;
@@ -131,7 +133,7 @@
         }
         
         .active, .dot:hover {
-          background-color: #717171;
+          background-color: teal;
         }
         
         /* Fading animation */
@@ -151,7 +153,7 @@
         }
 
 	#centered-text {
-            padding: 20px; /* Padding around the text */
+            padding: 1	0px; /* Padding around the text */
             text-align: center; /* Center the text */
             width: 100%; 
             
@@ -173,12 +175,12 @@
 
          /* unvisited link */
         #color_link a:link {
-	  color: green;
+	  color: #00A9A9;
         }
         
-        /* visited link */
+        /* visited link, was teal */
         #color_link a:visited {
-          color: teal;
+          color: #009090;
         }
         
         /* mouse over link */
@@ -190,8 +192,45 @@
         #color_link a:active {
           color: blue;
         } 
-        	
+        .google-button-container {
+          display: flex;
+          justify-content: center;
+        }
+
+        .google-play-button {
+          background-image: url('https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png');
+          background-size: contain;
+          background-repeat: no-repeat;
+          width: 200px; /* Adjust width as needed */
+          height: 60px; /* Adjust height as needed */
+          cursor: pointer;
+         }
         
+        /* in case some link in text */
+         /* unvisited link */
+        #color_link_a:link {
+	  color: #00A9A9;
+        }
+        
+        /* visited link was teal */
+        #color_link_a:visited {
+          color: #009090;
+        }
+        
+        /* mouse over link */
+        #color_link_a:hover {
+          color: lime;
+        }
+        
+        /* selected link */
+        #color_link_a:active {
+          color: blue;
+        } 
+        .img_center {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+         }
 
     </style>
 </head>
@@ -204,35 +243,127 @@
             <li><a href="index.html">Home</a></li><li>|</li>
             <li><a href="translation.html">Translation Instructions</a></li><li>|</li>
             <li><a href="privacy.html">Privacy Policy</a></li><li>|</li>
-            <li><a href="gdpr_instruction.html">Instructions for deleting personal data</a></li>
+            <li><a href="gdpr_instruction.html">Instructions for deleting personal data</a></li><li>|</li>
+            <li><a href="https://glebthepolarcitizen.com/">About me</a></li>
         </ul>
     </nav>
 </header>
 
 <main>
-    <section>
-        <h2 id="centered-text">How to improve translation</h2>
-        <p id="centered-text">Instruction will be here (I need to test english text first).</p>
-    </section>
-    <section>
-        <h2 id="centered-text">How to suggest new langueage</h2>
-        <p id="centered-text">Instruction will be here</p>
-    </section>
+<section>
+<h2 id="centered-text">How to improve translation </h2>
+<p id="centered-text">
+Firstly, make sure that your language is included in the game. If not, simply request its addition. For this purpose, I have created <a id="color_link_a" href="https://forms.gle/L4PZM7dJeQwN786B9"> a Google Form</a> - it helps to display the entire list of languages (currently 45).
+<br/>
+If your language is already included, simply follow the instructions:
+</p>
+<ol>
+<li>1. Download the necessary file from <a id="color_link_a" href="https://github.com/GlebThePolar/Recycling_2048/tree/main/translations">my GitHub</a></li><br/>
+<li>2. Open it in an editor (for example, Google Sheets)</li><br/>
+<li>3. Translate</li><br/>
+<li>4. Save the file in TSV format (same as the original file)</li><br/>
+<li>5. Push it to <a id="color_link_a" href="https://github.com/GlebThePolar/Recycling_2048/issues/1">the issue branch</a></li><br/>
+</ol>
+<p id="centered-text">
+Now I will describe in more detail how to perform the translation.
+</p>
+</section>
+<section>
+<h2 id="centered-text">TL;DR (the full instruction)</h2>
+<p id="centered-text">
+When I add a new language, I perform an initial translation using Google Translate. Unfortunately, ChatGPT and other advanced neural networks cover only a small number of languages. It's worth noting that if a language cannot be translated through Google Translate, then unfortunately, I cannot add it - I simply won't have a way to moderate the translation.I'll also mention that if the language uses a non-Latin alphabet, I also add a new font. If you have suggestions for a more suitable font choice, please let me know! 
+I prefer using <a id="color_link_a" href="https://fonts.google.com">https://fonts.google.com</a> for selecting fonts.
+</p>
+<h3 id="centered-text">Step 1</h3>
+<p id="centered-text">
+So, you've made sure that your language is included in the game. Then, <a id="color_link_a" href="https://github.com/GlebThePolar/Recycling_2048/tree/main/translations">open GitHub</a> and download the necessary file (files are named with a two- or three-letter code). To download, simply click the button (see image).
+</p>
+<img  src="Screenshots/web1.png" style="max-width:60%" class="img_center">
+<h3 id="centered-text">Step 2</h3>
+<p id="centered-text">
+Now, you need to open the file for editing. As an example, I'll show you how to do it using Google Sheets. Go to File ⟶ Import ⟶ Upload ⟶ and then choose the downloaded file. Next, you'll be asked how to import it. For 'Import location,' select 'Replace current sheet,' change 'Separator type' to 'Tab,' and also uncheck 'Convert text to numbers, dates, and formulas.
+</p>
+<h3 id="centered-text">Step 3</h3>
+<p id="centered-text">
+Now you can proceed directly to editing the translation. The file is not small, so don't worry if you can't translate the entire file! Even translating the first section (button names and objects) will significantly improve the game. And perhaps someone else can continue your work.
+<br/><br/>
+About the file structure: The left column contains English text, and the right column contains your chosen language. You can ignore the first four rows - they contain technical information. Then comes the row 'place_your_(translator)_name_here' - please add your name (or names if there are several translators). After that comes a comment line. I included these comments in the file to improve navigation - they don't need to be translated.
+<br/><br/>
+Also, please do not change the English text! I will use it to validate the completeness of the file (ensuring all fields are specified). If the text is changed, it will significantly complicate integration. However, of course, I understand that the English text is not perfect - to suggest corrections, please use this <a id="color_link_a" href = "https://forms.gle/kxvWRuZA1fwBLq8Q9">Google Form</a>.
+<br/><br/>
+When translating, please do not use tab characters (\t) or newline characters (\n) - i.e., write text in cells in a single line and in a way that the file can be correctly saved in TSV format.
+<br/><br/>
+I'll also note the presence of technical tags - they look like {#...} - they are needed for scripts to insert the necessary information. The tag "{#}" will be replaced with a newline character ("\n"), while the other tags {#name} can be divided into two types. Some will be replaced with numerical values, while others with text (for example, the name of a detail). The second type can be replaced with text if desired. For example, if you need to put a word in the required case, otherwise it will be inserted as the corresponding value from the table.
+<br/><br/>
+For understanding which tags can be replaced and which cannot, let me go into more detail about each of them: 
+</p><p id="centered-text">
+Do not replace: {#}, {#move}, {#price}, {#prob}.
+<br/>
+But you can replace the following (I'll provide their meaning in English):<br/>
+'{#cell1}' = ‘Bolt’<br/>
+'{#cell2}' = ‘Gear’<br/>
+'{#cell3}' = ‘Gear box’<br/>
+'{#cell6}' = ‘Engine’<br/>
+'{#cell9}' = ‘Car’<br/>
+'{#cell11}' = ‘Truck’<br/>
+'{#cooling_system}' = ‘Cooling system’<br/>
+'{#equipment_calibration}' = ‘Equipment calibration’<br/>
+'{#magnets}' = ‘Magnets’<br/>
+'{#preprocessing_of_details}' = ‘Preprocessing’<br/><br/>
+</p>
+<p id="centered-text">
+And an important note about 'special' strings. For the string 'Warning! Languages besides English could have some errors,' you can write a custom message, for example, 'Translation done by ...'.
+</p>
+<h3 id="centered-text">Step 4</h3>
+<p id="centered-text">
+When the entire translation is finished (even if you've only managed half of the file), it should be saved in TSV format. 
+<br/>File -> Download -> Tab-separated values (.tsv)
+</p>
+<h3 id="centered-text">Step 5</h3>
+<p id="centered-text">
+The final step! Now you just need to upload the file to GitHub. To do so, go to 
+<a  id="color_link_a" href="https://github.com/GlebThePolar/Recycling_2048/issues/1">the GitHub page, select Issues</a>, and simply add a comment to the existing issue branch called 
+'Your translations' (see the image).
+</p>
+<img  src="Screenshots/web2.png" style="max-width:60%" class="img_center">
+<p id="centered-text">
+But, it would be too easy, wouldn’t it? For some reason, GitHub doesn’t allow you to upload TSV files. However, I really like the TSV format, and we need exactly it for proper integration. So, here's the solution. We have two options: the first is to simply rename the file to .csv. I tested it on Windows, and it should work with no problem - simply rename the file with .csv at the end (you can also use .txt).
+</p>
+<img  src="Screenshots/web3.png" style="max-width:40%" class="img_center">
+<p id="centered-text">
+The second option is to use a trick while saving the file from Google Sheets. When saving the file as TSV, just add a different extension at the end - .csv or .txt (see the image).
+</p>
+<img  src="Screenshots/web4.png" style="max-width:60%" class="img_center">
+<p id="centered-text">
+Done! You are amazing!
+</p>
+</section>
+<section>
+<h2 id="centered-text">Basic reminder</h2>
+<p id="centered-text">
+Please, be polite and respectful. And thank you for your time and work! Without help from the community, I believe the solo game development path would simply be impossible.
+</section>
+
 <section>
         <h2 id="centered-text">Legal note</h2>
-
 <p id="centered-text">
-    When you help me with translation, I collect some additional 
-information about you, such as your name and email. If, at any point, 
+When you help me with translation, I could collect some additional 
+information about you, such as your name and email (e.g. if you wrote me an email). If, at any point, 
 you wish to have your data deleted, you can simply write to me. 
-You can find my contact information in the <a href="privacy.html">Privacy Policy</a>. 
+You can find my contact information in the <a id="color_link_a" href="privacy.html">Privacy Policy</a>. 
 Please note that if you request to have your name (or nickname) deleted, 
-I will also remove it from the game, but I cannot guarantee that it will 
-not be displayed on GitHub, where you upload your translations. For this purpuse please contact the <a href="https://www.datarequests.org/company/github">GitHub team</a>. 
+I will also remove it from the game, but I cannot guarantee that it will                            
+not be displayed on GitHub, where you upload your translations. For this purpuse please contact the <a id="color_link_a" href="https://www.datarequests.org/company/github">GitHub team</a>. 
 </p>
-
-
 </section>
+        <ul>
+        <li> <h3 id="centered-text">Follow me: </li> 
+            <li> <a id="color_link_a" href="https://youtube.com/@glebthepolarcitizen?si=w9rrJINH0R-IyD13">On youtube</a></li>
+            <li> <a id="color_link_a" href="https://twitter.com/GlebPolar">On twitter (X)</a></li>
+            <li> <a id="color_link_a" href="https://glebthepolarcitizen.com/">Wisit my main page</a></li>
+            <li> <a id="color_link_a" href="https://buymeacoffee.com/thepolarcitizen">Or support me on BuyMeACoffee</a></li>
+        </h3>
+        </ul>
 </main>
 
 <footer>
