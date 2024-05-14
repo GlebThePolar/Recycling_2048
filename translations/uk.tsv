@@ -2,18 +2,18 @@ en	uk
 English	Ukrainian
 lat	kir
 0123456789!()\/_:&*%	0123456789!()\/_:&*%
-place_your_(translator)_name_here	розмістіть_тут_ваше_(перекладач)_ім'я
+place_your_(translator)_name_here	розмістіть_тут_ваше_(перекладача)_ім'я
 <!-- Basic names (objects and buttons) -->																																													
-Buy	купити
+Buy	Купити
 Back to menu	Назад до меню
 Settings	Налаштування
-Play	грати
+Play	Грати
 Shop	Магазин
 Coins:	Монети:
 Exit	Вихід
 Set the level	Встановіть рівень
 Sell All	Продати все
-Details:	Подробиці:
+Details:	Деталі:
 Double coins!{#}(Watch Ad)	Подвійні монети!{#}(Переглянути рекламу)
 Restart	Перезапустіть
 Advertisement watched	Переглянув рекламу
@@ -28,7 +28,7 @@ Waterproofing	Гідроізоляція
 Preprocessing	Попередня обробка
 Equipment calibration	Калібрування обладнання
 Cooling system	Охолоджувальна система
-Magnets	магніти
+Magnets	Магніти
 Increase field size: {#price}	Збільшити розмір поля: {#price}
 See story	Дивіться історію
 Pause	Пауза
@@ -51,8 +51,8 @@ Bearing	Підшипник
 Piston	Поршень
 Engine	Двигун
 Moped	Мопед
-Motorcycle	мотоцикл
-Car	автомобіль
+Motorcycle	Мотоцикл
+Car	Автомобіль
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Привіт і ласкаво просимо до «Переробки: 2048»! Ви готові до виклику? У цьому підручнику ви дізнаєтесь про основу, необхідну для переробки, але деякі функції ви можете знайти лише самі!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Навколо поля розташовано 4 магніти (помаранчеві предмети). Ви можете активувати їх, свайпуючи (рухаючи пальцем по екрану). Вони можуть рухати будь-які магнітні матеріали - ідеально для деталей, з якими ми працюємо! Спробуйте, перемістивши об’єкт (наприклад, болт) тричі.
@@ -127,7 +127,7 @@ Have you ever asked yourself, why do I have so small field? Isn't it inconvenien
 <!-- And some more texts -->																																													
 The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Розмір рівня, який ви вибрали в головному меню, відрізняється від збереженої гри. Ви можете завершити розділену гру та почати нову, якщо хочете.{#}Що ви хочете робити зі збереженою грою?
 A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Склад автомобільних запчастин посеред пустелі. Можна сказати, що це ідеальне місце для зберігання металевого лому - багато вільного простору і суха погода. Хоча вже не так. У 2048 році погода зовсім вийшла з-під контролю.{#}Я не обрав це місце для життя. Я не багатий, і кордони закриті для людей, як я. Коли я був дитиною, мріяв завоювати космос. І ось тепер я застряг посеред ніоткуда.{#}Так що єдиний варіант - працювати. І я ніколи не відмовляюся від допомоги, я радий, що знайшов тебе тут. З тобою я знаю, що колись дістануся до космосу.{#}Отже, що скажеш: давай працювати разом, переробляти як можна більше деталей і допомагати один одному робити наше життя кращим. Угода?
-You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Ви щойно закінчили гру!{#}Зазвичай розробники розміщують тут довгий список імен працівників. Але цю гру розробив лише я (Gleb The Polar Citizen).{#}Я хочу подякувати своїй дружині, особливо подякувати Анні М. за чудову машину та всім перекладачам!!{#}Якщо хочете , ти можеш продовжувати грати в цю гру або шукати інші розроблені мною ігри!{#}Будьте сильні!
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Ви щойно закінчили гру!{#}Зазвичай розробники розміщують тут довгий список імен працівників. Але цю гру розробив лише я - Гліб Полярний Громадянин.{#}Я хочу подякувати своїй дружині, подякувати Анні М. за чудову машину та спасибі всім перекладачам!!{#}Якщо хочете , ти можеш продовжувати грати в цю гру або шукати інші розроблені мною ігри!{#}Будьте сильні!
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	Без реклами
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Ви можете придбати це оновлення для видалення основної реклами.{#}Це не вплине на рекламу зворотного зв’язку!{#}Кнопка подвоєння балів буде доступною. Тож це вплине лише на рекламу, яка з’являється після гри.{#}Крім того, я просто шукаю спосіб підтримати мене, краще відвідайте buymeacoffe — кнопку у формі серця, розташовану разом із кнопками медіа.
