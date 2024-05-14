@@ -2,7 +2,7 @@ en	zh-CN
 English	简体字
 lat	zh-CN
 0123456789!()\/_:&*%	0123456789!()\/_:&*%
-place_your_(translator)_name_here	place_your_（译者）_name_here
+place_your_(translator)_name_here	place_译者_name_here
 <!-- Basic names (objects and buttons) -->																																													
 Buy	买
 Back to menu	返回菜单
@@ -111,7 +111,7 @@ Move and swap anything!	移动并交换任何东西！
 Simple fence	简易围栏
 Available again after following number of moves: {#move}	经过以下次数的移动后再次可用：{#move}
 Details failed to merge!	详细信息合并失败！
-Warning! Langueages besides English could have some errors (and English also, lol)	警告！英语以外的语言可能会有一些错误（英语也一样，哈哈）
+Warning! Languages besides English could have some errors (and English also, lol)	警告！英语以外的语言可能会有一些错误（英语也一样，哈哈）
 The game was saved. You can exit, and resume it later	游戏已保存。您可以退出，稍后再恢复
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	起重机是一种可以在现场重新定位物体的工具。基本版本只能通过将灯光对象拖到空白处来工作。通过升级，您可以拖动更复杂的项目，甚至交换两个对象。要使用它，请单击起重机图标，选择对象，然后选择要放置它的位置。

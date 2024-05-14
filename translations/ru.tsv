@@ -2,7 +2,7 @@ en	ru
 English	Russian
 lat	kir
 0123456789!()\/_:&*%	0123456789!()\/_:&*%
-place_your_(translator)_name_here	место_ваше_(переводчик)_имя_здесь
+place_your_(translator)_name_here	Глеб
 <!-- Basic names (objects and buttons) -->																																													
 Buy	Купить
 Back to menu	Назад к меню
@@ -11,17 +11,17 @@ Play	Играть
 Shop	Магазин
 Coins:	Монеты:
 Exit	Выход
-Set the level	Установите уровень
+Set the level	Установить уровень
 Sell All	Продать все
 Details:	Подробности:
 Double coins!{#}(Watch Ad)	Двойные монеты!{#}(Смотреть рекламу)
-Restart	Перезапуск
+Restart	Начать заново
 Advertisement watched	Реклама просмотрена
 Received coins:	Получено монет:
 Sound volume	Громкость
 next	следующий
 Tower crane	Башенный кран
-Workshop	мастерская
+Workshop	Мастерская
 Hydraulic fence	Гидравлический забор
 Sorting of details	Сортировка деталей
 Waterproofing	Гидроизоляция
@@ -30,24 +30,24 @@ Equipment calibration	Калибровка оборудования
 Cooling system	Система охлаждения
 Magnets	Магниты
 Increase field size: {#price}	Увеличить размер поля: {#price}
-See story	Посмотреть историю
+See story	История (читать)
 Pause	Пауза
 End round	Конец раунда
-Continue	Продолжать
+Continue	Продолжить
 End saved game, and start a new one	Завершить сохраненную игру и начать новую
 Tutorials	Учебники
 Basic	Базовый
-Fence	Изгородь
+Fence	Забор
 Crane	Кран
-Workshop	мастерская
+Workshop	Мастерская
 Before	До
 Now	Сейчас
-Next	Следующий
-Max detail:	Максимальная детализация:
+Next	Далее
+Max detail:	Максимальная деталь:
 Bolt	Болт
-Gear	Механизм
+Gear	Шестерёнка
 Gear box	Коробка передач
-Bearing	Несущий
+Bearing	Подшипник
 Piston	Поршень
 Engine	Двигатель
 Moped	Мопед
@@ -57,23 +57,23 @@ Car	Машина
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Здравствуйте и добро пожаловать в «Recycling: 2048»! Готовы ли вы принять вызов? В этом уроке вы узнаете основы, необходимые для переработки, но некоторые функции вы сможете найти только сами!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Вокруг поля расположены 4 магнита (оранжевые предметы). Вы можете активировать их свайпом (двигая пальцем по экрану). Они могут перемещать любые магнитные материалы — идеально подходят для деталей, с которыми мы работаем! Попробуйте, переместив объект (например, болт) три раза.
 A new detail has appeared: a bolt. While some might see it as garbage, we can recycle it into something more advanced, like a gear!	Появилась новая деталь: болт. Хотя некоторые могут счесть это мусором, мы можем переработать его во что-то более совершенное, например, в механизм!
-Recycle two bolts into a gear by moving them together.	Вставьте два болта в шестерню, сдвинув их вместе.
-Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Фантастика! Вы только что переработали мусор! Продолжайте в том же духе, и вместе мы сможем достичь нашей цели – создать лучшую жизнь.
+Recycle two bolts into a gear by moving them together.	Переработайте два болта в шестерню, объединив их.
+Fantastic! You've just recycled some garbage! Keep it up, and together we can reach our goal of creating a better life.	Фантастика! Вы только что переработали мусор! Продолжайте в том же духе, и вместе мы сможем достичь нашей цели – сделать жизнь лучше.
 Oh, no, the magnet has broken! :({#} You see, the right magnet is red now.	О нет, магнит сломался! :({#} Видите, правый магнит теперь красный.
 Try activating the right magnet a few times and see that nothing happens. (Swipe to the right)	Попробуйте несколько раз активировать правый магнит и убедитесь, что ничего не происходит. (Проведите пальцем вправо)
 You see, nothing happened. Now try swiping in different directions (up and down). Let's wait until the magnet repairs itself.	Видите ли, ничего не произошло. Теперь попробуйте провести пальцем в разные стороны (вверх и вниз). Подождем, пока магнит отремонтируется сам.
-Done! After several moves, all magnets will be repaired.	Сделанный! После нескольких ходов все магниты будут восстановлены.
-Now, let's talk about bio garbage (the apple leftover). Try moving it.	Теперь давайте поговорим о биологическом мусоре (остатках яблока). Попробуйте переместить его.
+Done! After several moves, all magnets will be repaired.	Готово! После нескольких ходов все магниты будут восстановлены.
+Now, let's talk about bio garbage (the apple leftover). Try moving it.	Теперь давайте поговорим о биологическом мусоре (огрызках). Попробуйте переместить его.
 Because bio garbage lacks magnetic materials, magnets can't move it.	Поскольку в биологическом мусоре нет магнитных материалов, магниты не могут его переместить.
 Don't forget to sort your garbage! :)	Не забывайте сортировать мусор! :)
 This is a rust garbage. It can't be recycled either. The number indicates how much time it needs to rust away and disappear.	Это ржавый мусор. Его также нельзя переработать. Число указывает, сколько времени ему нужно, чтобы проржаветь и исчезнуть.
-Amazing! You've improved your recycling skills!	Удивительный! Вы улучшили свои навыки переработки!
+Amazing! You've improved your recycling skills!	Круто! Вы улучшили свои навыки переработки!
 Congratulations on acquiring the workshop! Let's dive into a quick tutorial on how to make the most of it.	Поздравляем с приобретением мастерской! Давайте углубимся в краткое руководство о том, как максимально эффективно использовать его.
-Combine simple details instantly from all fields using the workshop. Give it a try now!	Мгновенно комбинируйте простые детали из всех областей с помощью мастерской. Попробуйте прямо сейчас!
-It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Это довольно круто, правда? Просто помните о времени восстановления. Это занимает некоторое время, поэтому используйте его с умом!
-Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Будьте осторожны, когда для мастерской доступна только одна деталь. Объединить он не сможет и просто вернет товар обратно.
-So, just use it carefully.	Так что просто используйте его осторожно.
-The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Мастерская сияет, когда вас окружают раздражающие простые детали. Это идеальный инструмент для эффективной уборки вашего пространства!
+Combine simple details instantly from all fields using the workshop. Give it a try now!	Мгновенно комбинируйте простые детали из всех областей с помощью мастерской. Попробуйте!
+It's pretty cool, right? Just keep in mind the cooldown. It takes some time, so use it wisely!	Довольно круто, правда? Просто помните, что восстановления занимает некоторое время, поэтому используйте мастрескую с умом!
+Be cautious when there's only one detail available for the workshop. It won't be able to combine it and will just return the item back.	Будьте осторожны, когда доступна только одна деталь для мастерской. Она не сможет объединиться и просто вернётся обратно.
+So, just use it carefully.	Так что просто используйте мастерскую осторожно.
+The workshop shines when you're surrounded by annoying simple details. It's the perfect tool to tidy up your space efficiently!	Мастерская проявляет себя в полной мере, когда вы окружены раздражающими простыми деталями. Это идеальный инструмент для эффективной уборки вашего пространства!
 Congratulations on purchasing the crane! Here's a brief tutorial on how to work with it.	Поздравляем с приобретением крана! Вот краткое руководство о том, как с ним работать.
 To use the crane, simply tap on the icon. Now, you've entered CRANE mode.	Чтобы использовать кран, просто нажмите на значок. Теперь вы вошли в режим КРАН.
 In CRANE mode, choose an item on the field that you'd like to interact with.	В режиме КРАН выберите на поле элемент, с которым вы хотите взаимодействовать.
@@ -84,17 +84,17 @@ Don't be afraid to experiment! If you encounter an error, the game will provide 
 This is the error indication.	Это индикатор ошибки.
 And last, but not least, try deselecting. To do so, press on the previously selected item, or on the crane (if you haven't selected the second cell yet).	И последнее, но не менее важное: попробуйте отменить выбор. Для этого нажмите на ранее выбранный элемент или на кран (если вы еще не выбрали вторую ячейку).
 Congratulations on upgrading your fence! Let's see what it is capable of now.	Поздравляем с обновлением вашего забора! Посмотрим, на что он способен сейчас.
-To use the fence, click on one of the blue (cyan) objects around the field.	Чтобы использовать забор, нажмите на один из синих (голубых) объектов вокруг поля.
-Swipe the chosen object(s) towards the fence you've initiated.	Проведите выбранным объектом(ами) к инициированному вами забору.
-Fences usually need some time before you can use them again, so plan your moves accordingly.	Обычно заборам требуется некоторое время, прежде чем вы сможете снова их использовать, поэтому планируйте свои действия соответствующим образом.
+To use the fence, click on one of the blue (cyan) objects around the field.	Чтобы использовать забор, нажмите на один из синих (циановых) объектов вокруг поля.
+Swipe the chosen object(s) towards the fence you've initiated.	Избавтесь от выбранных объектов с помощью открытого забору.
+Fences usually need some time before you can use them again, so plan your moves accordingly.	Обычно забору требуется некоторое время, прежде чем вы сможете снова его использовать, поэтому планируйте свои действия соответствующим образом.
 The hydraulic fence is a game-changer—it can handle all sorts of garbage, even non-magnetic ones.	Гидравлический забор меняет правила игры: он может справляться со всеми видами мусора, даже немагнитными.
-It's your go-to tool for bio-garbage removal. Give it a shot!	Это ваш незаменимый инструмент для удаления биологического мусора. Дать ему шанс!
-You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Вы только что купили одно обновление, то есть ~10% от суммы, необходимой для увеличения размера поля!
-Keep up! :D	Поддерживать! :D
+It's your go-to tool for bio-garbage removal. Give it a shot!	Это ваш незаменимый инструмент для удаления биологического мусора. Попробуйте!
+You just bought one upgrade, that is ~10% of waht is needed for increasing field size!	Вы только что купили обновление, которое составляет  ~10% от суммы, необходимой для увеличения размера поля!
+Keep up! :D	Так держать! :D
 <!-- Some tips in shop -->																																													
 You will recive organic waste with probabiliy of {#prob}%	Вы получите органические отходы с вероятностью {#prob}%
 You will recive rust debris with probabiliy of {#prob}%	Вы получите остатки ржавчины с вероятностью {#prob}%
-The probability of obtaining an improved detail is {#prob}%	Вероятность получения улучшенной детализации равна {#prob}%.
+The probability of obtaining an improved detail is {#prob}%	Вероятность получения улучшенной деталии равна {#prob}%.
 The probability of successfully merging two details is approximately {#prob}%	Вероятность успешного слияния двух деталей составляет примерно {#prob}%
 Magnets will break with a probability of {#prob}%	Магниты сломаются с вероятностью {#prob}%
 More details will drop on the field after {#move} moves	Более подробная информация появится на поле после хода {#move}.
@@ -111,8 +111,8 @@ Move and swap anything!	Двигайтесь и меняйте местами ч
 Simple fence	Простой забор
 Available again after following number of moves: {#move}	Доступен снова после следующего количества ходов: {#move}
 Details failed to merge!	Детали не удалось объединить!
-Warning! Langueages besides English could have some errors (and English also, lol)	Предупреждение! В языках, помимо английского, могут быть некоторые ошибки (и в английском тоже, лол)
-The game was saved. You can exit, and resume it later	Игра сохранилась. Вы можете выйти и возобновить его позже.
+Warning! Languages besides English could have some errors (and English also, lol)	Этот язык вроде переведен, но это не точно
+The game was saved. You can exit, and resume it later	Игра сохранена. Вы можете найти и восстановить её позже.
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Кран – это инструмент, позволяющий перемещать предметы на поле. Базовая версия работает только путем перетаскивания легких объектов на пустое место. Благодаря улучшениям вы сможете перетаскивать более сложные предметы и даже менять местами два объекта. Чтобы использовать его, нажмите на значок крана, выберите объект и выберите место, где вы хотите его разместить.
 Tired of simple parts messing around with your advanced builds? Use the workshop!{#}Workshop - a small separated building where manual processing of simple parts is possible. The higher the level of the workshop, the more parts it can process. Also, the improvement allows you to use it more often.{#}To use, click on the workshop icon unless it is on cooldown.	Устали от того, что простые детали мешают вашим продвинутым сборкам? Воспользуйтесь мастерской!{#}Мастерская — небольшое отдельно стоящее здание, где возможна ручная обработка простых деталей. Чем выше уровень мастерской, тем больше деталей она может обработать. Кроме того, улучшение позволяет вам использовать его чаще.{#}Чтобы использовать, нажмите на значок мастерской, если он не находится на перезарядке.
@@ -127,9 +127,9 @@ Have you ever asked yourself, why do I have so small field? Isn't it inconvenien
 <!-- And some more texts -->																																													
 The level size you're have selected in main manu, is differ form your saved game. You can end seved game and start a new one, if you want.{#}What do you want to do with the saved game?	Размер уровня, который вы выбрали в главном меню, отличается от размера вашей сохраненной игры. Если хотите, вы можете завершить предыдущую игру и начать новую.{#}Что вы хотите делать с сохраненной игрой?
 A junkyard in the middle of a desert. You could say it's the perfect place to store metal scraps - lots of free space and dry weather. Though not anymore. In the year 2048 the weather has gone really mad.{#}I didn't choose to spend my life here. I'm not rich, and the borders are closed for people like me. When I was a child, I dreamt of conquering space. And now, I find myself stuck in the middle of nowhere.{#}So the only option is to work. And I never refuse help, I'm happy to find you here. With you I know, someday I will make it to space.{#}So, how about this: we work together, recycle as many parts as we can, and help each other make our lives better. Deal?	Склад автомобильных запчастей посреди пустыни. Можно сказать, что этоидеальное место для хранения металлического лома - много свободногопространства и сухая погода. Хотя уже не так. В 2048 году погода совсем сума сошла.{#}Я не выбирал этого места для жизни. Я не богат, и границызакрыты для людей, как я. Когда я был ребенком, мечтал завоевать космос.И вот теперь я застрял посреди ниоткуда.{#}Так что единственный вариант- работать. И я никогда не отказываюсь от помощи, я рад, что нашел тебяздесь. С тобой я знаю, что когда-нибудь доберусь до космоса.{#}Итак,что скажешь: давай работать вместе, перерабатывать как можно большедеталей и помогать друг другу делать нашу жизнь лучше. Согласен?
-You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Вы только что прошли игру!{#}Обычно разработчики размещают здесь длинный список имен рабочих. Но эту игру разработал только я (Gleb The Polar Citizen).{#}Хочу поблагодарить жену, отдельное спасибо Анне М. за прекрасную машину и всем переводчикам!!{#}Если хотите , вы можете продолжить играть в эту игру или поискать другие игры, которые я разработал!{#}Будьте сильными!
+You just finished the game!{#}Usaly developers place here a long list of workers' names. But this game was developed only by me (Gleb The Polar Citizen).{#}I want to thank my wife, give a special thank to Anna M. for the asweme car, and to all the translators!!{#}If you want, you can continue playing this game or look for other games I developed!{#}Stay strong!	Вы только что прошли игру!{#}Обычно разработчики размещают здесь длинный список имен сотрудников. Но эту игру разработал только я - Глеб Полярный Гражданин.{#}Хочу поблагодарить мою жену, отдельное спасибо Анне М. за прекрасную машину и спасибо всем переводчикам!{#}Если хотите, вы можете продолжить играть в эту игру, или поискать другие игры, которые я разработал!{#}Оставайтесь сильными!
 <!-- Yet unused texts (could be used in the future) -->																																													
-No ads	Без рекламы
+No ads	Отключить рекламу
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Вы можете купить это обновление, чтобы удалить базовую рекламу.{#}Оно не повлияет на рекламу с вознаграждением!{#}Кнопка удвоения очков по-прежнему будет доступна. Так что это повлияет только на рекламу, которая появляется после игры.{#}Кроме того, если вы просто ищете способ поддержать меня, лучше рассмотрите возможность посещения buymeacoffe — кнопки-сердечка, расположенной рядом с медиа-кнопками.
 <!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
 <!-- Spoilers in 20 rows-->																																													
@@ -153,7 +153,7 @@ You can buy this upgrade for the removal of basic ads.{#}It will not affect reva
 <!-- Spoilers in 2 rows-->																																													
 <!-- Spoilers in 1 row -->																																													
 <!-- SPOILERS!!!! -->																																													
-Pickup	Подобрать
+Pickup	Пикап
 Truck	Грузовик
 Biplane	Биплан
 Helicopter	Вертолет
