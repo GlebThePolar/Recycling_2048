@@ -53,15 +53,6 @@ Engine	Motor
 Moped	Knallert
 Motorcycle	Motorcykel
 Car	Bil
-Pickup	Saml op
-Truck	Lastbil
-Biplane	Biplan
-Helicopter	Helikopter
-Plane	Fly
-AN-225 Mriya	AN-225 Mriya
-Rocket engine	Raketmotor
-Soyuz	Soyuz
-Rocket	Raket
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Hej og velkommen til 'Genbrug: 2048'! Er du klar til en udfordring? I denne tutorial lærer du den nødvendige basis for genbrug, men nogle funktioner kan du kun finde selv!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Der er 4 magneter rundt om feltet (orange genstande). Du kan aktivere dem ved at stryge (bevæg fingeren på skærmen). De kan flytte alle magnetiske materialer - perfekt til de detaljer, vi arbejder med! Prøv det ved at flytte en genstand (som bolten) tre gange.
@@ -120,7 +111,7 @@ Move and swap anything!	Flyt og skift hvad som helst!
 Simple fence	Simpelt hegn
 Available again after following number of moves: {#move}	Tilgængelig igen efter følgende antal træk: {#move}
 Details failed to merge!	Detaljer kunne ikke flettes!
-Warning! Languages besides English could have some errors (and English also, lol)	Advarsel! Sprog udover engelsk kan have nogle fejl (og engelsk også, lol)
+Warning! Langueages besides English could have some errors (and English also, lol)	Advarsel! Sprog udover engelsk kan have nogle fejl (og engelsk også, lol)
 The game was saved. You can exit, and resume it later	Spillet blev reddet. Du kan afslutte og genoptage det senere
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	En kran er et værktøj, der giver dig mulighed for at flytte genstande på marken. Grundversionen fungerer kun ved at trække lette genstande til et tomt sted. Med opgraderinger kan du trække mere komplekse genstande og endda bytte to objekter. For at bruge det, klik på kranikonet, vælg objektet og vælg et sted, hvor du vil placere det.
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	Ingen annoncer
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Du kan købe denne opgradering til fjernelse af grundlæggende annoncer.{#}Det vil ikke påvirke reklameannoncer!{#}Knappen til at fordoble resultater vil stadig være tilgængelig. Så det vil kun påvirke annoncer, der vises efter kampen.{#}Også, hvis du bare søger efter en måde at støtte mig på, bør du hellere overveje at besøge buymeacoffe — hjerteknappen, der er placeret med medieknapper.
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	Saml op
+Truck	Lastbil
+Biplane	Biplan
+Helicopter	Helikopter
+Plane	Fly
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Raketmotor
+Soyuz	Soyuz
+Rocket	Raket

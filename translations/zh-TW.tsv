@@ -2,7 +2,7 @@ en	zh-TW
 English	繁体字
 lat	zh-TW
 0123456789!()\/_:&*%	0123456789!()\/_:&*%
-place_your_(translator)_name_here	place_譯者_name_here
+place_your_(translator)_name_here	place_your_（譯者）_name_here
 <!-- Basic names (objects and buttons) -->																																													
 Buy	買
 Back to menu	返回選單
@@ -53,15 +53,6 @@ Engine	引擎
 Moped	輕型機車
 Motorcycle	摩托車
 Car	車
-Pickup	撿起
-Truck	卡車
-Biplane	雙翼飛機
-Helicopter	直升機
-Plane	飛機
-AN-225 Mriya	AN-225 米里亞
-Rocket engine	火箭發動機
-Soyuz	聯盟號
-Rocket	火箭
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	您好，歡迎來到「回收：2048」！你準備好迎接挑戰了嗎？在本教程中，您將學習回收所需的基礎知識，但有些功能您只能自己找到！
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	磁場周圍有 4 個磁鐵（橘色物體）。您可以透過滑動（在螢幕上移動手指）來啟動它們。它們可以移動任何磁性材料 - 非常適合我們處理的細節！移動一個物體（如螺栓）三次來嘗試。
@@ -120,7 +111,7 @@ Move and swap anything!	移動並交換任何東西！
 Simple fence	簡易圍欄
 Available again after following number of moves: {#move}	經過以下次數的移動後再次可用：{#move}
 Details failed to merge!	詳細資訊合併失敗！
-Warning! Languages besides English could have some errors (and English also, lol)	警告！英語以外的語言可能會有一些錯誤（英語也一樣，哈哈）
+Warning! Langueages besides English could have some errors (and English also, lol)	警告！英語以外的語言可能會有一些錯誤（英語也一樣，哈哈）
 The game was saved. You can exit, and resume it later	遊戲已儲存。您可以退出，稍後再恢復
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	起重機是一種可以在現場重新定位物體的工具。基本版本只能透過將燈光物件拖曳到空白處來運作。透過升級，您可以拖曳更複雜的項目，甚至交換兩個物件。要使用它，請按一下起重機圖標，選擇對象，然後選擇要放置它的位置。
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	無廣告
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	您可以購買此升級來刪除基本廣告。因此，它只會影響遊戲後出現的廣告。
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	撿起
+Truck	卡車
+Biplane	雙翼飛機
+Helicopter	直升機
+Plane	飛機
+AN-225 Mriya	AN-225 米里亞
+Rocket engine	火箭發動機
+Soyuz	聯盟號
+Rocket	火箭

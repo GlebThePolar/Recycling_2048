@@ -53,15 +53,6 @@ Engine	Мотор
 Moped	Мопед
 Motorcycle	Мотоцикл
 Car	Ауто
-Pickup	Покупи
-Truck	Камион
-Biplane	Двокрилац
-Helicopter	Хеликоптер
-Plane	Авион
-AN-225 Mriya	АН-225 Мрија
-Rocket engine	Ракетни мотор
-Soyuz	Соиуз
-Rocket	Ракета
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Здраво и добродошли у 'Рециклажа: 2048'! Да ли сте спремни за неки изазов? У овом водичу ћете научити основе потребне за рециклажу, али неке функције можете пронаћи само сами!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Око поља су 4 магнета (наранџасти објекти). Можете их активирати превлачењем (померањем прста по екрану). Могу да померају било који магнетни материјал - савршено за детаље са којима радимо! Пробајте тако што ћете померити предмет (као што је вијак) три пута.
@@ -120,7 +111,7 @@ Move and swap anything!	Померите и замените било шта!
 Simple fence	Једноставна ограда
 Available again after following number of moves: {#move}	Поново доступно након следећег броја потеза: {#move}
 Details failed to merge!	Спајање детаља није успело!
-Warning! Languages besides English could have some errors (and English also, lol)	Упозорење! Језици осим енглеског могу имати неке грешке (и енглески такође, лол)
+Warning! Langueages besides English could have some errors (and English also, lol)	Упозорење! Језици осим енглеског могу имати неке грешке (и енглески такође, лол)
 The game was saved. You can exit, and resume it later	Игра је сачувана. Можете изаћи и наставити касније
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Дизалица је алат који вам омогућава да премештате објекте на терену. Основна верзија ради само превлачењем светлих објеката на празно место. Уз надоградње, можете превући сложеније ставке, па чак и заменити два објекта. Да бисте га користили, кликните на икону дизалице, изаберите објекат и изаберите место на које желите да га поставите.
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	Нема реклама
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Можете купити ову надоградњу за уклањање основних огласа.{#}Неће утицати на ревард огласе!{#}Дугме за удвостручавање резултата ће и даље бити доступно. Тако да ће утицати само на огласе који се појављују након игре.{#}Такође, ако само тражите начин да ме подржите, боље размислите о посети буимеацоффе — дугмету срца, које се налази са дугмадима за медије.
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	Покупи
+Truck	Камион
+Biplane	Двокрилац
+Helicopter	Хеликоптер
+Plane	Авион
+AN-225 Mriya	АН-225 Мрија
+Rocket engine	Ракетни мотор
+Soyuz	Соиуз
+Rocket	Ракета

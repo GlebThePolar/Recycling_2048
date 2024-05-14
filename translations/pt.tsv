@@ -53,15 +53,6 @@ Engine	Motor
 Moped	Ciclomotor
 Motorcycle	Motocicleta
 Car	Carro
-Pickup	Escolher
-Truck	Caminhão
-Biplane	Biplano
-Helicopter	Helicóptero
-Plane	Avião
-AN-225 Mriya	AN-225 Mriya
-Rocket engine	Motor de foguete
-Soyuz	União
-Rocket	Foguete
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Olá e bem-vindo ao 'Reciclagem: 2048'! Você está pronto para algum desafio? Neste tutorial você aprenderá a base necessária para a reciclagem, mas alguns recursos você só encontrará sozinho!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Existem 4 ímãs ao redor do campo (objetos laranja). Você pode ativá-los deslizando (mova o dedo na tela). Eles podem mover qualquer material magnético - perfeito para os detalhes com os quais trabalhamos! Experimente mover um objeto (como o parafuso) três vezes.
@@ -120,7 +111,7 @@ Move and swap anything!	Mova e troque qualquer coisa!
 Simple fence	Cerca simples
 Available again after following number of moves: {#move}	Disponível novamente após o seguinte número de movimentos: {#move}
 Details failed to merge!	Os detalhes não foram mesclados!
-Warning! Languages besides English could have some errors (and English also, lol)	Aviso! Idiomas além do inglês podem ter alguns erros (e o inglês também, haha)
+Warning! Langueages besides English could have some errors (and English also, lol)	Aviso! Idiomas além do inglês podem ter alguns erros (e o inglês também, haha)
 The game was saved. You can exit, and resume it later	O jogo foi salvo. Você pode sair e retomar mais tarde
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Um guindaste é uma ferramenta que permite realocar objetos no campo. A versão básica funciona apenas arrastando objetos leves para um local vazio. Com as atualizações, você pode arrastar itens mais complexos e até trocar dois objetos. Para utilizá-lo, clique no ícone do guindaste, selecione o objeto e selecione o local onde deseja colocá-lo.
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	Sem anúncios
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Você pode comprar esta atualização para remover anúncios básicos.{#}Isso não afetará anúncios revisados!{#}O botão para duplicar pontuações ainda estará disponível. Portanto, isso afetará apenas os anúncios exibidos após o jogo.{#}Além disso, se você estiver apenas procurando uma maneira de me apoiar, é melhor visitar buymeacoffe — o botão de coração, localizado junto aos botões de mídia.
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	Escolher
+Truck	Caminhão
+Biplane	Biplano
+Helicopter	Helicóptero
+Plane	Avião
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Motor de foguete
+Soyuz	União
+Rocket	Foguete

@@ -53,15 +53,6 @@ Engine	Vél
 Moped	Bifhjól
 Motorcycle	Mótorhjól
 Car	Bíll
-Pickup	Afhending
-Truck	Vörubíll
-Biplane	Biplane
-Helicopter	Þyrla
-Plane	Flugvél
-AN-225 Mriya	AN-225 Mriya
-Rocket engine	Eldflaugarvél
-Soyuz	Soyuz
-Rocket	Eldflaug
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Halló og velkomin í 'Endurvinnsla: 2048'! Ertu tilbúinn í einhverja áskorun? Í þessari kennslu muntu læra grunninn sem þarf til endurvinnslu, en suma eiginleika geturðu aðeins fundið sjálfur!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Það eru 4 seglar í kringum sviðið (appelsínugulir hlutir). Þú getur virkjað þau með því að strjúka (hreyfðu fingrinum á skjánum). Þeir geta hreyft hvaða segulmagnaðir efni sem er - fullkomið fyrir smáatriðin sem við vinnum með! Prófaðu það með því að færa hlut (eins og boltann) þrisvar sinnum.
@@ -120,7 +111,7 @@ Move and swap anything!	Færðu þig og skiptu um hvað sem er!
 Simple fence	Einföld girðing
 Available again after following number of moves: {#move}	Í boði aftur eftir eftirfarandi fjölda hreyfinga: {#move}
 Details failed to merge!	Ekki tókst að sameina upplýsingar!
-Warning! Languages besides English could have some errors (and English also, lol)	Viðvörun! Tungumál fyrir utan ensku gætu haft einhverjar villur (og enska líka, lol)
+Warning! Langueages besides English could have some errors (and English also, lol)	Viðvörun! Tungumál fyrir utan ensku gætu haft einhverjar villur (og enska líka, lol)
 The game was saved. You can exit, and resume it later	Leiknum var bjargað. Þú getur hætt og haldið áfram síðar
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Krani er tæki sem gerir þér kleift að flytja hluti á völlinn. Grunnútgáfan virkar aðeins með því að draga létta hluti á tóman stað. Með uppfærslum geturðu dregið flóknari hluti og jafnvel skipt um tvo hluti. Til að nota það, smelltu á kranatáknið, veldu hlutinn og veldu stað þar sem þú vilt setja hann.
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	Engar auglýsingar
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Þú getur keypt þessa uppfærslu til að fjarlægja grunnauglýsingar.{#}Það mun ekki hafa áhrif á verðlaunaauglýsingar!{#}Hnappurinn til að tvöfalda stig verður enn tiltækur. Þannig að það mun aðeins hafa áhrif á auglýsingar sem birtast eftir leikinn.{#}Einnig, ef þú ert bara að leita að leið til að styðja mig, þá er betra að íhuga að heimsækja buymeacoffe — hjartahnappinn, staðsettur með miðlunarhnappum.
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	Afhending
+Truck	Vörubíll
+Biplane	Biplane
+Helicopter	Þyrla
+Plane	Flugvél
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Eldflaugarvél
+Soyuz	Soyuz
+Rocket	Eldflaug

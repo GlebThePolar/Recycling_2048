@@ -53,15 +53,6 @@ Engine	Motor
 Moped	Moped
 Motorcycle	Motocykl
 Car	Auto
-Pickup	Vyzvednout
-Truck	Náklaďák
-Biplane	Dvojplošník
-Helicopter	Helikoptéra
-Plane	Letadlo
-AN-225 Mriya	AN-225 Mriya
-Rocket engine	Raketový motor
-Soyuz	Sojuz
-Rocket	Raketa
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Dobrý den a vítejte v 'Recycling: 2048'! Jste připraveni na nějakou výzvu? V tomto tutoriálu se naučíte základ potřebný pro recyklaci, ale některé funkce můžete najít pouze sami!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Kolem pole jsou 4 magnety (oranžové předměty). Můžete je aktivovat přejetím (pohybem prstu po obrazovce). Mohou pohybovat jakýmkoli magnetickým materiálem - ideální pro detaily, se kterými pracujeme! Zkuste to tak, že třikrát pohnete objektem (jako je šroub).
@@ -120,7 +111,7 @@ Move and swap anything!	Přesuňte a vyměňte cokoli!
 Simple fence	Jednoduchý plot
 Available again after following number of moves: {#move}	Znovu k dispozici po následujícím počtu tahů: {#move}
 Details failed to merge!	Podrobnosti se nepodařilo sloučit!
-Warning! Languages besides English could have some errors (and English also, lol)	Varování! Jazyky kromě angličtiny mohou mít nějaké chyby (a angličtina také, lol)
+Warning! Langueages besides English could have some errors (and English also, lol)	Varování! Jazyky kromě angličtiny mohou mít nějaké chyby (a angličtina také, lol)
 The game was saved. You can exit, and resume it later	Hra byla uložena. Můžete ukončit a pokračovat později
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Jeřáb je nástroj, který umožňuje přemisťovat předměty na poli. Základní verze funguje pouze přetažením světlých objektů na prázdné místo. S upgrady můžete přetahovat složitější předměty a dokonce vyměnit dva objekty. Chcete-li jej použít, klikněte na ikonu jeřábu, vyberte objekt a vyberte místo, kam jej chcete umístit.
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	Žádné reklamy
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Tento upgrade si můžete zakoupit za odstranění základních reklam.{#}Nebude to mít vliv na reklamy s revardem!{#}Tlačítko pro zdvojnásobení skóre bude stále dostupné. Takže to ovlivní pouze reklamy, které se zobrazují po hře.{#}Také, když právě hledáte způsob, jak mě podpořit, raději zvažte návštěvu buymeacoffe — tlačítka srdce, které se nachází s tlačítky médií.
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	Vyzvednout
+Truck	Náklaďák
+Biplane	Dvojplošník
+Helicopter	Helikoptéra
+Plane	Letadlo
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Raketový motor
+Soyuz	Sojuz
+Rocket	Raketa

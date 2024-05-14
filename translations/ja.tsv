@@ -53,15 +53,6 @@ Engine	エンジン
 Moped	原付
 Motorcycle	オートバイ
 Car	車
-Pickup	選び出す
-Truck	トラック
-Biplane	複葉機
-Helicopter	ヘリコプター
-Plane	飛行機
-AN-225 Mriya	AN-225 ムリヤ
-Rocket engine	ロケットエンジン
-Soyuz	ソユーズ
-Rocket	ロケット
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	こんにちは、「リサイクル: 2048」へようこそ!挑戦する準備はできていますか?このチュートリアルでは、リサイクルに必要な基礎を学びますが、自分でしか見つけられない機能もいくつかあります。
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	フィールド (オレンジ色のオブジェクト) の周囲に 4 つの磁石があります。スワイプ (画面上で指を動かす) することでアクティブにできます。あらゆる磁性材料を動かすことができるので、私たちが扱う細部に最適です。オブジェクト (ボルトなど) を 3 回動かしてみてください。
@@ -120,7 +111,7 @@ Move and swap anything!	何でも移動して交換しましょう！
 Simple fence	シンプルなフェンス
 Available again after following number of moves: {#move}	次の移動回数の後に再び利用可能になります: {#move}
 Details failed to merge!	詳細を結合できませんでした。
-Warning! Languages besides English could have some errors (and English also, lol)	警告！英語以外の言語ではエラーが発生する可能性があります (英語もです、笑)
+Warning! Langueages besides English could have some errors (and English also, lol)	警告！英語以外の言語ではエラーが発生する可能性があります (英語もです、笑)
 The game was saved. You can exit, and resume it later	ゲームは保存されました。終了して後で再開できます
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	クレーンはフィールド上のオブジェクトを移動させるためのツールです。基本バージョンは、ライト オブジェクトを空の場所にドラッグするだけで機能します。アップグレードすると、より複雑なアイテムをドラッグしたり、2 つのオブジェクトを交換したりできるようになります。これを使用するには、クレーンのアイコンをクリックしてオブジェクトを選択し、配置する場所を選択します。
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	広告なし
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	このアップグレードを購入すると、基本的な広告を削除できます。{#}リバード広告には影響しません。{#}スコアを 2 倍にするボタンは引き続き使用できます。したがって、影響を受けるのはゲーム後に表示される広告のみです。{#}また、私をサポートする方法を探しているだけなら、buymeacoffe (メディア ボタンと並んで配置されているハート ボタン) にアクセスすることを検討してください。
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	選び出す
+Truck	トラック
+Biplane	複葉機
+Helicopter	ヘリコプター
+Plane	飛行機
+AN-225 Mriya	AN-225 ムリヤ
+Rocket engine	ロケットエンジン
+Soyuz	ソユーズ
+Rocket	ロケット

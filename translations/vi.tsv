@@ -53,15 +53,6 @@ Engine	Động cơ
 Moped	xe gắn máy
 Motorcycle	Xe máy
 Car	Xe hơi
-Pickup	Nhặt lên
-Truck	Xe tải
-Biplane	máy bay hai tầng cánh
-Helicopter	Trực thăng
-Plane	Máy bay
-AN-225 Mriya	AN-225 Mriya
-Rocket engine	Động cơ tên lửa
-Soyuz	Soyuz
-Rocket	Tên lửa
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Xin chào và chào mừng đến với 'Tái chế: 2048'! Bạn đã sẵn sàng cho một số thử thách? Trong hướng dẫn này, bạn sẽ tìm hiểu cơ sở cần thiết để tái chế, nhưng một số tính năng bạn chỉ có thể tự mình tìm thấy!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Có 4 nam châm xung quanh sân (vật màu cam). Bạn có thể kích hoạt chúng bằng cách vuốt (di chuyển ngón tay trên màn hình). Chúng có thể di chuyển bất kỳ vật liệu từ tính nào - hoàn hảo cho các chi tiết mà chúng tôi xử lý! Hãy thử bằng cách di chuyển một vật thể (chẳng hạn như chốt) ba lần.
@@ -120,7 +111,7 @@ Move and swap anything!	Di chuyển và trao đổi bất cứ điều gì!
 Simple fence	Hàng rào đơn giản
 Available again after following number of moves: {#move}	Khả dụng trở lại sau số lần di chuyển sau: {#move}
 Details failed to merge!	Thông tin chi tiết không thể hợp nhất!
-Warning! Languages besides English could have some errors (and English also, lol)	Cảnh báo! Các ngôn ngữ ngoài tiếng Anh có thể có một số lỗi (và cả tiếng Anh nữa, haha)
+Warning! Langueages besides English could have some errors (and English also, lol)	Cảnh báo! Các ngôn ngữ ngoài tiếng Anh có thể có một số lỗi (và cả tiếng Anh nữa, haha)
 The game was saved. You can exit, and resume it later	Trò chơi đã được lưu. Bạn có thể thoát và tiếp tục lại sau
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Cần cẩu là một công cụ cho phép bạn di chuyển các vật thể trên hiện trường. Phiên bản cơ bản chỉ hoạt động bằng cách kéo các vật thể nhẹ vào chỗ trống. Với các bản nâng cấp, bạn có thể kéo các mục phức tạp hơn và thậm chí hoán đổi hai đối tượng. Để sử dụng nó, hãy nhấp vào biểu tượng cần cẩu, chọn đối tượng và chọn vị trí mà bạn muốn đặt nó.
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	Không quảng cáo
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Bạn có thể mua bản nâng cấp này để loại bỏ các quảng cáo cơ bản.{#}Nó sẽ không ảnh hưởng đến quảng cáo quay lại!{#}Nút nhân đôi điểm sẽ vẫn khả dụng. Vì vậy, nó sẽ chỉ ảnh hưởng đến các quảng cáo xuất hiện sau trận đấu.{#}Ngoài ra, tôi đang tìm cách hỗ trợ tôi, tốt hơn hết hãy cân nhắc truy cập buymeacoffe — nút trái tim, nằm cùng với các nút phương tiện.
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	Nhặt lên
+Truck	Xe tải
+Biplane	máy bay hai tầng cánh
+Helicopter	Trực thăng
+Plane	Máy bay
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Động cơ tên lửa
+Soyuz	Soyuz
+Rocket	Tên lửa

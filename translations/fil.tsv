@@ -53,15 +53,6 @@ Engine	makina
 Moped	Moped
 Motorcycle	Motorsiklo
 Car	kotse
-Pickup	Pulutin
-Truck	Truck
-Biplane	Biplane
-Helicopter	Helicopter
-Plane	Eroplano
-AN-225 Mriya	AN-225 Mriya
-Rocket engine	Rocket engine
-Soyuz	Soyuz
-Rocket	Rocket
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Kumusta at maligayang pagdating sa 'Recycling: 2048'! Handa ka na ba para sa ilang hamon? Sa tutorial na ito matututunan mo ang batayan na kailangan para sa pag-recycle, ngunit ang ilang mga tampok na ikaw lamang ang mahahanap nang mag-isa!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Mayroong 4 na magnet sa paligid ng field (mga bagay na orange). Maaari mong i-activate ang mga ito sa pamamagitan ng pag-swipe (ilipat ang iyong daliri sa screen). Maaari nilang ilipat ang anumang mga magnetic na materyales - perpekto para sa mga detalye na ginagamit namin! Subukan ito sa pamamagitan ng paggalaw ng isang bagay (tulad ng bolt) nang tatlong beses.
@@ -120,7 +111,7 @@ Move and swap anything!	Ilipat at palitan ang anumang bagay!
 Simple fence	Simpleng bakod
 Available again after following number of moves: {#move}	Available muli pagkatapos ng sumusunod na bilang ng mga galaw: {#move}
 Details failed to merge!	Nabigong pagsamahin ang mga detalye!
-Warning! Languages besides English could have some errors (and English also, lol)	Babala! Ang mga wika bukod sa English ay maaaring magkaroon ng ilang mga error (at English din, lol)
+Warning! Langueages besides English could have some errors (and English also, lol)	Babala! Ang mga wika bukod sa English ay maaaring magkaroon ng ilang mga error (at English din, lol)
 The game was saved. You can exit, and resume it later	Nai-save ang laro. Maaari kang lumabas, at ipagpatuloy ito sa ibang pagkakataon
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Ang crane ay isang tool na nagbibigay-daan sa iyong ilipat ang mga bagay sa field. Gumagana lamang ang pangunahing bersyon sa pamamagitan ng pag-drag ng mga light object sa isang bakanteng lugar. Sa mga pag-upgrade, maaari kang mag-drag ng mas kumplikadong mga item, at kahit na magpalitan ng dalawang bagay. Upang gamitin ito, mag-click sa icon ng crane, piliin ang bagay, at pumili ng isang lugar, kung saan mo gustong ilagay ito.
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	Walang mga ad
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Maaari mong bilhin ang pag-upgrade na ito para sa pag-alis ng mga pangunahing ad.{#}Hindi ito makakaapekto sa mga revard ad!{#}Magiging available pa rin ang button para sa pagdodoble ng mga marka. Kaya maaapektuhan lang nito ang mga ad, na lumalabas pagkatapos ng laro.{#}At saka, naghahanap lang ako ng paraan para suportahan ako, mas mabuting isaalang-alang ang pagbisita sa buymeacoffe — ang heart button, na may mga media button.
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	Pulutin
+Truck	Truck
+Biplane	Biplane
+Helicopter	Helicopter
+Plane	Eroplano
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Rocket engine
+Soyuz	Soyuz
+Rocket	Rocket

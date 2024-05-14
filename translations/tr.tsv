@@ -53,15 +53,6 @@ Engine	Motor
 Moped	Moped
 Motorcycle	Motosiklet
 Car	Araba
-Pickup	Toplamak
-Truck	Kamyon
-Biplane	Çift kanatlı
-Helicopter	Helikopter
-Plane	Uçak
-AN-225 Mriya	AN-225 Mriya
-Rocket engine	Roket motoru
-Soyuz	Soyuz
-Rocket	Roket
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Merhaba, 'Geri Dönüşüm: 2048'e hoş geldiniz! Biraz meydan okumaya hazır mısın? Bu eğitimde geri dönüşüm için gereken temel bilgileri öğreneceksiniz, ancak bazı özellikleri yalnızca kendi başınıza bulabilirsiniz!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Alanın etrafında 4 mıknatıs vardır (turuncu nesneler). Bunları kaydırarak (parmağınızı ekranda hareket ettirerek) etkinleştirebilirsiniz. Her türlü manyetik malzemeyi hareket ettirebilirler. üzerinde çalıştığımız detaylar için mükemmel! Bir nesneyi (cıvata gibi) üç kez hareket ettirerek deneyin.
@@ -120,7 +111,7 @@ Move and swap anything!	Her şeyi taşıyın ve değiştirin!
 Simple fence	Basit çit
 Available again after following number of moves: {#move}	Aşağıdaki hamle sayısından sonra tekrar kullanılabilir: {#move}
 Details failed to merge!	Ayrıntılar birleştirilemedi!
-Warning! Languages besides English could have some errors (and English also, lol)	Uyarı! İngilizce dışındaki dillerde bazı hatalar olabilir (ve İngilizce de, hahaha)
+Warning! Langueages besides English could have some errors (and English also, lol)	Uyarı! İngilizce dışındaki dillerde bazı hatalar olabilir (ve İngilizce de, hahaha)
 The game was saved. You can exit, and resume it later	Oyun kaydedildi. Çıkabilir ve daha sonra devam edebilirsiniz
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Vinç, sahadaki nesnelerin yerini değiştirmenizi sağlayan bir araçtır. Temel sürüm yalnızca hafif nesnelerin boş bir yere sürüklenmesiyle çalışır. Yükseltmelerle daha karmaşık öğeleri sürükleyebilir ve hatta iki nesneyi değiştirebilirsiniz. Kullanmak için vinç simgesine tıklayın, nesneyi seçin ve yerleştirmek istediğiniz yeri seçin.
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	Reklamsız
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Temel reklamların kaldırılması için bu yükseltmeyi satın alabilirsiniz.{#}Geçerli reklamları etkilemeyecektir!{#}Puanları ikiye katlama düğmesi hâlâ kullanılabilir olacaktır. Bu nedenle, yalnızca oyundan sonra gösterilen reklamları etkileyecektir.{#}Ayrıca, beni desteklemenin bir yolunu arıyorsanız, medya düğmelerinin yanında bulunan kalp düğmesi olan buymeacoffe'yi ziyaret etmeyi düşünseniz iyi olur.
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	Toplamak
+Truck	Kamyon
+Biplane	Çift kanatlı
+Helicopter	Helikopter
+Plane	Uçak
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Roket motoru
+Soyuz	Soyuz
+Rocket	Roket

@@ -53,15 +53,6 @@ Engine	ሞተር
 Moped	ሞፔድ
 Motorcycle	ሞተርሳይክል
 Car	መኪና
-Pickup	ማንሳት
-Truck	የጭነት መኪና
-Biplane	ቢፕላን
-Helicopter	ሄሊኮፕተር
-Plane	አውሮፕላን
-AN-225 Mriya	AN-225 Mriya
-Rocket engine	የሮኬት ሞተር
-Soyuz	ሶዩዝ
-Rocket	ሮኬት
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	ጤና ይስጥልኝ እና ወደ 'ዳግም ጥቅም ላይ ማዋል፡ 2048' እንኳን በደህና መጡ! ለአንዳንድ ፈተና ዝግጁ ኖት? በዚህ ማጠናከሪያ ትምህርት ለድጋሚ ጥቅም ላይ የሚውልበትን መሰረት ይማራሉ፣ ነገር ግን አንዳንድ ባህሪያትን በራስዎ ብቻ ማግኘት ይችላሉ!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	በመስክ ዙሪያ 4 ማግኔቶች (ብርቱካንማ እቃዎች) አሉ. በማንሸራተት (ጣትዎን በስክሪኑ ላይ ያንቀሳቅሱ) እነሱን ማግበር ይችላሉ። ማንኛውንም መግነጢሳዊ ቁሳቁሶችን ማንቀሳቀስ ይችላሉ - ለምንሰራቸው ዝርዝሮች ፍጹም! አንድን ነገር (እንደ ቦልቱ) ሶስት ጊዜ በማንቀሳቀስ ይሞክሩት።
@@ -120,7 +111,7 @@ Move and swap anything!	ማንኛውንም ነገር ያንቀሳቅሱ እና �
 Simple fence	ቀላል አጥር
 Available again after following number of moves: {#move}	ከሚከተለው የእንቅስቃሴ ብዛት በኋላ እንደገና ይገኛል፡ {#move}
 Details failed to merge!	ዝርዝሮች ሊዋሃዱ አልቻሉም!
-Warning! Languages besides English could have some errors (and English also, lol)	ማስጠንቀቂያ! ከእንግሊዝኛ በተጨማሪ ቋንቋዎች አንዳንድ ስህተቶች ሊኖራቸው ይችላል (እና እንግሊዝኛ እንዲሁ, lol)
+Warning! Langueages besides English could have some errors (and English also, lol)	ማስጠንቀቂያ! ከእንግሊዝኛ በተጨማሪ ቋንቋዎች አንዳንድ ስህተቶች ሊኖራቸው ይችላል (እና እንግሊዝኛ እንዲሁ, lol)
 The game was saved. You can exit, and resume it later	ጨዋታውም ተረፈ። መውጣት እና በኋላ መቀጠል ይችላሉ።
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	ክሬን በሜዳው ላይ እቃዎችን ወደ ሌላ ቦታ ለመቀየር የሚያስችል መሳሪያ ነው. የመሠረታዊው ስሪት ቀላል ነገሮችን ወደ ባዶ ቦታ በመጎተት ብቻ ይሰራል. በማሻሻያዎች, ይበልጥ ውስብስብ ነገሮችን መጎተት እና እንዲያውም ሁለት ነገሮችን መቀየር ይችላሉ. እሱን ለመጠቀም የክሬን አዶውን ጠቅ ያድርጉ ፣ ነገሩን ይምረጡ እና ቦታ ይምረጡ ፣ እዚያ ላይ ማስቀመጥ ይፈልጋሉ።
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	ምንም ማስታወቂያዎች የሉም
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	ይህን ማሻሻያ ለመሰረታዊ ማስታወቂያዎች መወገድ መግዛት ትችላለህ።{#}የሪቫርድ ማስታወቂያዎች ላይ ተጽእኖ አይኖረውም!{#}ነጥብ እጥፍ ለማድረግ ያለው ቁልፍ አሁንም ይገኛል። ስለዚህ የሚነካው ከጨዋታው በኋላ በሚታዩ ማስታወቂያዎች ላይ ብቻ ነው።{#}እንዲሁም እኔ የምትደግፈኝን መንገድ እየፈለግክ ነው፡ Buymeacoffeን መጎብኘት የተሻለ እንደሆነ አስብበት - የሚዲያ አዝራሮች ያለው የልብ ቁልፍ።
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	ማንሳት
+Truck	የጭነት መኪና
+Biplane	ቢፕላን
+Helicopter	ሄሊኮፕተር
+Plane	አውሮፕላን
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	የሮኬት ሞተር
+Soyuz	ሶዩዝ
+Rocket	ሮኬት

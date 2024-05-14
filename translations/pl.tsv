@@ -53,15 +53,6 @@ Engine	Silnik
 Moped	Motorower
 Motorcycle	Motocykl
 Car	Samochód
-Pickup	Ulec poprawie
-Truck	Ciężarówka
-Biplane	Dwupłatowiec
-Helicopter	Śmigłowiec
-Plane	Samolot
-AN-225 Mriya	AN-225 Mriya
-Rocket engine	Silnik rakietowy
-Soyuz	Sojuz
-Rocket	Rakieta
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Witamy w „Recyklingu: 2048”! Czy jesteś gotowy na jakieś wyzwanie? W tym samouczku poznasz podstawy potrzebne do recyklingu, ale niektóre funkcje możesz znaleźć tylko sam!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Wokół pola znajdują się 4 magnesy (obiekty pomarańczowe). Można je aktywować przesuwając (poruszając palcem po ekranie). Potrafią przenosić dowolne materiały magnetyczne - idealne do detali, z którymi pracujemy! Spróbuj, przesuwając obiekt (np. śrubę) trzy razy.
@@ -120,7 +111,7 @@ Move and swap anything!	Przenieś i zamień wszystko!
 Simple fence	Proste ogrodzenie
 Available again after following number of moves: {#move}	Dostępne ponownie po następującej liczbie ruchów: {#move}
 Details failed to merge!	Nie udało się połączyć szczegółów!
-Warning! Languages besides English could have some errors (and English also, lol)	Ostrzeżenie! Języki inne niż angielski mogą zawierać pewne błędy (i angielski także, lol)
+Warning! Langueages besides English could have some errors (and English also, lol)	Ostrzeżenie! Języki inne niż angielski mogą zawierać pewne błędy (i angielski także, lol)
 The game was saved. You can exit, and resume it later	Gra została uratowana. Możesz wyjść i wznowić je później
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Dźwig to narzędzie, które pozwala na przemieszczanie obiektów na polu. Podstawowa wersja działa tylko poprzez przeciąganie jasnych obiektów w puste miejsce. Dzięki ulepszeniom możesz przeciągać bardziej złożone elementy, a nawet zamieniać dwa obiekty. Aby z niego skorzystać, kliknij na ikonę dźwigu, wybierz obiekt i wybierz miejsce, w którym chcesz go umieścić.
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	Bez reklam
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Możesz kupić to uaktualnienie, aby usunąć podstawowe reklamy.{#}Nie ma to wpływu na reklamy nagradzane!{#}Przycisk podwajania wyników będzie nadal dostępny. Będzie to więc miało wpływ tylko na reklamy wyświetlane po meczu.{#}A poza tym, jeśli szukasz sposobu, aby mnie wesprzeć, lepiej rozważ odwiedzenie strony buymeacoffe — przycisku w kształcie serca, znajdującego się obok przycisków multimedialnych.
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	Ulec poprawie
+Truck	Ciężarówka
+Biplane	Dwupłatowiec
+Helicopter	Śmigłowiec
+Plane	Samolot
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Silnik rakietowy
+Soyuz	Sojuz
+Rocket	Rakieta

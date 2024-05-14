@@ -53,15 +53,6 @@ Engine	Κινητήρας
 Moped	Μοτοποδήλατο
 Motorcycle	Μοτοσυκλέτα
 Car	Αυτοκίνητο
-Pickup	Μαζεύω
-Truck	Φορτηγό
-Biplane	Διπλανό
-Helicopter	Ελικόπτερο
-Plane	Επίπεδο
-AN-225 Mriya	AN-225 Mriya
-Rocket engine	Μηχανή πυραύλων
-Soyuz	Σογιούζ
-Rocket	Ρουκέτα
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Γεια σας και καλωσορίσατε στο 'Ανακύκλωση: 2048'! Είστε έτοιμοι για κάποια πρόκληση. Σε αυτό το σεμινάριο θα μάθετε τη βάση που απαιτείται για την ανακύκλωση, αλλά ορισμένα χαρακτηριστικά μπορείτε να βρείτε μόνοι σας!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Υπάρχουν 4 μαγνήτες γύρω από το πεδίο (πορτοκαλί αντικείμενα). Μπορείτε να τα ενεργοποιήσετε κάνοντας σάρωση (μετακινήστε το δάχτυλό σας στην οθόνη). Μπορούν να μετακινήσουν οποιαδήποτε μαγνητικά υλικά - τέλεια για τις λεπτομέρειες με τις οποίες δουλεύουμε! Δοκιμάστε το μετακινώντας ένα αντικείμενο (όπως το μπουλόνι) τρεις φορές.
@@ -120,7 +111,7 @@ Move and swap anything!	Μετακινηθείτε και ανταλλάξτε �
 Simple fence	Απλός φράχτης
 Available again after following number of moves: {#move}	Διαθέσιμο ξανά μετά τον ακόλουθο αριθμό κινήσεων: {#move}
 Details failed to merge!	Οι λεπτομέρειες απέτυχαν να συγχωνευτούν!
-Warning! Languages besides English could have some errors (and English also, lol)	Προειδοποίηση! Οι γλώσσες εκτός από τα αγγλικά θα μπορούσαν να έχουν κάποια λάθη (και τα αγγλικά επίσης, lol)
+Warning! Langueages besides English could have some errors (and English also, lol)	Προειδοποίηση! Οι γλώσσες εκτός από τα αγγλικά θα μπορούσαν να έχουν κάποια λάθη (και τα αγγλικά επίσης, lol)
 The game was saved. You can exit, and resume it later	Το παιχνίδι σώθηκε. Μπορείτε να βγείτε και να συνεχίσετε αργότερα
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Ο γερανός είναι ένα εργαλείο που σας επιτρέπει να μετακινήσετε αντικείμενα στο γήπεδο. Η βασική έκδοση λειτουργεί μόνο σύροντας ελαφριά αντικείμενα σε ένα κενό μέρος. Με τις αναβαθμίσεις, μπορείτε να σύρετε πιο σύνθετα αντικείμενα, ακόμη και να ανταλλάξετε δύο αντικείμενα. Για να το χρησιμοποιήσετε, κάντε κλικ στο εικονίδιο του γερανού, επιλέξτε το αντικείμενο και επιλέξτε ένα μέρος όπου θέλετε να το τοποθετήσετε.
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	Χωρίς διαφημίσεις
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Μπορείτε να αγοράσετε αυτήν την αναβάθμιση για την κατάργηση βασικών διαφημίσεων.{#}Δεν θα επηρεάσει τις διαφημίσεις revard!{#}Το κουμπί για τον διπλασιασμό των βαθμολογιών θα εξακολουθεί να είναι διαθέσιμο. Επομένως, θα επηρεάσει μόνο τις διαφημίσεις που εμφανίζονται μετά το παιχνίδι.{#}Επίσης, αν ψάχνετε έναν τρόπο να με υποστηρίξετε, καλύτερα να επισκεφτείτε το buymeacoffe — το κουμπί καρδιάς, που βρίσκεται με κουμπιά πολυμέσων.
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	Μαζεύω
+Truck	Φορτηγό
+Biplane	Διπλανό
+Helicopter	Ελικόπτερο
+Plane	Επίπεδο
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Μηχανή πυραύλων
+Soyuz	Σογιούζ
+Rocket	Ρουκέτα

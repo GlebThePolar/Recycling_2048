@@ -53,15 +53,6 @@ Engine	Moottori
 Moped	Mopo
 Motorcycle	Moottoripyörä
 Car	Auto
-Pickup	Noukkia
-Truck	Kuorma-auto
-Biplane	Kaksitaso
-Helicopter	Helikopteri
-Plane	Lentokone
-AN-225 Mriya	AN-225 Mriya
-Rocket engine	Raketti moottori
-Soyuz	Sojuz
-Rocket	Raketti
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Hei ja tervetuloa Kierrätys: 2048:aan! Oletko valmis johonkin haasteeseen? Tässä opetusohjelmassa opit kierrätykseen tarvittavan perustan, mutta joitain ominaisuuksia voit löytää vain itse!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Kentän ympärillä on 4 magneettia (oranssit esineet). Voit aktivoida ne pyyhkäisemällä (liikuttamalla sormeasi näytöllä). Ne voivat siirtää mitä tahansa magneettista materiaalia - täydellinen yksityiskohtiin, joiden kanssa työskentelemme! Kokeile liikuttamalla esinettä (kuten pulttia) kolme kertaa.
@@ -120,7 +111,7 @@ Move and swap anything!	Muuta ja vaihda mitä tahansa!
 Simple fence	Yksinkertainen aita
 Available again after following number of moves: {#move}	Taas käytettävissä seuraavan siirtomäärän jälkeen: {#move}
 Details failed to merge!	Yksityiskohtien yhdistäminen epäonnistui!
-Warning! Languages besides English could have some errors (and English also, lol)	Varoitus! Englannin lisäksi muissa kielissä saattaa olla virheitä (ja englanniksi myös, lol)
+Warning! Langueages besides English could have some errors (and English also, lol)	Varoitus! Englannin lisäksi muissa kielissä saattaa olla virheitä (ja englanniksi myös, lol)
 The game was saved. You can exit, and resume it later	Peli pelastettiin. Voit poistua ja jatkaa sitä myöhemmin
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	Nosturi on työkalu, jonka avulla voit siirtää esineitä pellolla. Perusversio toimii vain raahaamalla kevyitä esineitä tyhjään paikkaan. Päivitysten avulla voit vetää monimutkaisempia kohteita ja jopa vaihtaa kaksi objektia. Käyttääksesi sitä, napsauta nosturikuvaketta, valitse kohde ja valitse paikka, johon haluat sijoittaa sen.
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	Ei mainoksia
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Voit ostaa tämän päivityksen perusmainosten poistamista varten.{#}Se ei vaikuta palkintomainoksiin!{#}Pisteiden tuplauspainike on edelleen käytettävissä. Joten se vaikuttaa vain mainoksiin, jotka näkyvät pelin jälkeen.{#}Lisäksi, jos etsit vain tapaa tukea minua, kannattaa harkita vierailua buymeacoffeen – sydänpainikkeeseen, joka sijaitsee mediapainikkeilla.
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	Noukkia
+Truck	Kuorma-auto
+Biplane	Kaksitaso
+Helicopter	Helikopteri
+Plane	Lentokone
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Raketti moottori
+Soyuz	Sojuz
+Rocket	Raketti

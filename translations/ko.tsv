@@ -53,15 +53,6 @@ Engine	엔진
 Moped	모터 달린 자전거
 Motorcycle	오토바이
 Car	자동차
-Pickup	찾다
-Truck	트럭
-Biplane	복엽 비행기
-Helicopter	헬리콥터
-Plane	비행기
-AN-225 Mriya	AN-225 므리야
-Rocket engine	로켓 엔진
-Soyuz	소유즈
-Rocket	로켓
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	안녕하세요, '재활용: 2048'에 오신 것을 환영합니다! 도전할 준비가 되셨나요? 이 튜토리얼에서는 재활용에 필요한 기본 사항을 배우게 되지만 일부 기능은 혼자서만 찾을 수 있습니다!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	자기장 주위에는 4개의 자석이 있습니다(주황색 물체). 스와이프(화면에서 손가락을 움직여)하여 활성화할 수 있습니다. 어떤 자성 물질도 옮길 수 있어 우리가 작업하는 세부 사항에 딱 맞습니다! 볼트와 같은 물체를 세 번 움직여 보십시오.
@@ -120,7 +111,7 @@ Move and swap anything!	무엇이든 옮기고 교환하세요!
 Simple fence	간단한 울타리
 Available again after following number of moves: {#move}	다음 이동 횟수 후에 다시 사용할 수 있습니다: {#move}
 Details failed to merge!	세부정보를 병합하지 못했습니다.
-Warning! Languages besides English could have some errors (and English also, lol)	경고! 영어 이외의 언어에는 약간의 오류가 있을 수 있습니다. (그리고 영어도 ㅋㅋㅋ)
+Warning! Langueages besides English could have some errors (and English also, lol)	경고! 영어 이외의 언어에는 약간의 오류가 있을 수 있습니다. (그리고 영어도 ㅋㅋㅋ)
 The game was saved. You can exit, and resume it later	게임이 저장되었습니다. 종료하고 나중에 다시 시작할 수 있습니다.
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	크레인은 현장에서 물건을 재배치할 수 있는 도구입니다. 기본 버전은 가벼운 개체를 빈 곳으로 드래그해야만 작동합니다. 업그레이드를 사용하면 더 복잡한 항목을 드래그할 수 있고 두 개체를 교환할 수도 있습니다. 이를 사용하려면 크레인 아이콘을 클릭하고 개체를 선택한 다음 개체를 배치할 장소를 선택하세요.
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	광고 없음
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	기본 광고를 제거하기 위해 이 업그레이드를 구입할 수 있습니다.{#}리바드 광고에는 영향을 미치지 않습니다!{#}점수를 두 배로 늘리는 버튼은 계속 사용할 수 있습니다. 따라서 게임이 끝난 후 표시되는 광고에만 영향을 미칩니다.{#}또한 저를 지원할 방법을 찾고 계시다면 미디어 버튼이 있는 하트 버튼인 buymeacoffe를 방문하는 것이 좋습니다.
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	찾다
+Truck	트럭
+Biplane	복엽 비행기
+Helicopter	헬리콥터
+Plane	비행기
+AN-225 Mriya	AN-225 므리야
+Rocket engine	로켓 엔진
+Soyuz	소유즈
+Rocket	로켓

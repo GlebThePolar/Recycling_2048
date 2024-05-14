@@ -53,15 +53,6 @@ Engine	Enjin
 Moped	Brommer
 Motorcycle	Motorfiets
 Car	Voertuig
-Pickup	Optel
-Truck	Vragmotor
-Biplane	Tweedekker
-Helicopter	Helikopter
-Plane	Vliegtuig
-AN-225 Mriya	AN-225 Mriya
-Rocket engine	Vuurpyl enjin
-Soyuz	Sojoes
-Rocket	Vuurpyl
 <!-- Tutorials -->																																													
 Hello and welcome to 'Recycling: 2048'! Are you ready for some challenge? In this tutorial you'll learn the base needed for recycling, but some features you only can find by yourself!	Hallo en welkom by 'Recycling: 2048'! Is jy gereed vir een of ander uitdaging? In hierdie tutoriaal leer jy die basis wat nodig is vir herwinning, maar sommige kenmerke kan jy net self vind!
 There are 4 magnets around the field (orange objects). You can activate them by swiping (move your finger on the screen). They can move any magnetic materials - perfect for the details we work with! Give it a try by moving an object (like the bolt) three times.	Daar is 4 magnete om die veld (oranje voorwerpe). Jy kan hulle aktiveer deur te swiep (beweeg jou vinger op die skerm). Hulle kan enige magnetiese materiaal beweeg - perfek vir die besonderhede waarmee ons werk! Probeer dit deur 'n voorwerp (soos die bout) drie keer te beweeg.
@@ -120,7 +111,7 @@ Move and swap anything!	Beweeg en ruil enigiets!
 Simple fence	Eenvoudige heining
 Available again after following number of moves: {#move}	Weer beskikbaar na die volgende aantal skuiwe: {#move}
 Details failed to merge!	Besonderhede kon nie saamsmelt nie!
-Warning! Languages besides English could have some errors (and English also, lol)	Waarskuwing! Tale behalwe Engels kan 'n paar foute hê (en Engels ook, lol)
+Warning! Langueages besides English could have some errors (and English also, lol)	Waarskuwing! Tale behalwe Engels kan 'n paar foute hê (en Engels ook, lol)
 The game was saved. You can exit, and resume it later	Die wedstryd is gered. Jy kan uitgaan en dit later hervat
 <!-- Description (items in shop) -->																																													
 A crane is a tool that allows you to relocate objects on the field. The basic version works only by dragging light objects to an empty place. With upgrades, you can drag more complex items, and even swap two objects. To use it, click on the crane icon, select the object, and select a place, where you want to place it.	’n Hyskraan is ’n gereedskap waarmee jy voorwerpe op die veld kan hervestig. Die basiese weergawe werk slegs deur ligte voorwerpe na 'n leë plek te sleep. Met opgraderings kan jy meer komplekse items sleep, en selfs twee voorwerpe omruil. Om dit te gebruik, klik op die hyskraanikoon, kies die voorwerp en kies 'n plek waar jy dit wil plaas.
@@ -140,3 +131,34 @@ You just finished the game!{#}Usaly developers place here a long list of workers
 <!-- Yet unused texts (could be used in the future) -->																																													
 No ads	Geen advertensies nie
 You can buy this upgrade for the removal of basic ads.{#}It will not affect revard ads!{#}The button for doubling scores will still be available. So it will affect only ads, that are appearing after the game.{#}Also, I you just searching for a way to support me, better consider visiting buymeacoffe — the heart button, located with media buttons.	Jy kan hierdie opgradering koop vir die verwydering van basiese advertensies.{#}Dit sal nie prysadvertensies beïnvloed nie!{#}Die knoppie vir verdubbeling van tellings sal steeds beskikbaar wees. Dit sal dus net advertensies raak wat ná die wedstryd verskyn.{#}Ook, ek soek net na 'n manier om my te ondersteun, dit is beter om dit te oorweeg om buymeacoffe te besoek — die hartknoppie, geleë met mediaknoppies.
+<!-- Warning! Spoilers below! For safety reasons, I will protect them with some comments, so you will not spoil the game for yourself unless you want so (thank Ehloi for helping to keep all spoilers out) -->																																													
+<!-- Spoilers in 20 rows-->																																													
+<!-- Spoilers in 19 rows-->																																													
+<!-- Spoilers in 18 rows-->																																													
+<!-- Spoilers in 17 rows-->																																													
+<!-- Spoilers in 16 rows-->																																													
+<!-- Spoilers in 15 rows-->																																													
+<!-- Spoilers in 14 rows-->																																													
+<!-- Spoilers in 13 rows-->																																													
+<!-- Spoilers in 12 rows-->																																													
+<!-- Spoilers in 11 rows-->																																													
+<!-- Spoilers in 10 rows-->																																													
+<!-- Spoilers in 9 rows-->																																													
+<!-- Spoilers in 8 rows-->																																													
+<!-- Spoilers in 7 rows-->																																													
+<!-- Spoilers in 6 rows-->																																													
+<!-- Spoilers in 5 rows-->																																													
+<!-- Spoilers in 4 rows-->																																													
+<!-- Spoilers in 3 rows-->																																													
+<!-- Spoilers in 2 rows-->																																													
+<!-- Spoilers in 1 row -->																																													
+<!-- SPOILERS!!!! -->																																													
+Pickup	Optel
+Truck	Vragmotor
+Biplane	Tweedekker
+Helicopter	Helikopter
+Plane	Vliegtuig
+AN-225 Mriya	AN-225 Mriya
+Rocket engine	Vuurpyl enjin
+Soyuz	Sojoes
+Rocket	Vuurpyl
